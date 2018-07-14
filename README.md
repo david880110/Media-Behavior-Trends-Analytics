@@ -1,6 +1,6 @@
 # final-project
 
-![alt text](https://st3.depositphotos.com/2454953/12878/i/950/depositphotos_128780594-stock-photo-consumer-behavior-word-cloud-concept.jpg)
+![alt text](https://curiousanalysis.files.wordpress.com/2014/06/millennialsfeatured.jpg)
 
 ## Contributors (In Alphabetical Order):
 
