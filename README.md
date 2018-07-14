@@ -13,7 +13,7 @@
 ## Proposal 
 
 ## Data Source
-<img src="https://www.niss.org/sites/default/files/affiliate_images/census_bureau_logo.png" width="240" height="50"/>
+<img src="https://www.niss.org/sites/default/files/affiliate_images/census_bureau_logo.png" width="240" height="80"/>
 [Demography Data](https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?src=bkmk)
 
 * Limitation
