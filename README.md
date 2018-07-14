@@ -18,6 +18,8 @@
 
 The [Demography Data:](https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?src=bkmk/) is Annual Estimates of the Resident Population for Selected Age Groups by Sex for the United States, States, Counties, and Puerto Rico Commonwealth and Municipios: April 1, 2010 to July 1, 2017 retrived from U.S. Census Bureau, Population Division
 
+* Note: Median age is calculated based on single year of age
+
 * Limitation
 
 ## Findings 
