@@ -1,5 +1,7 @@
 # final-project
 
+![alt text](https://st3.depositphotos.com/2454953/12878/i/950/depositphotos_128780594-stock-photo-consumer-behavior-word-cloud-concept.jpg)
+
 ## Contributors (In Alphabetical Order):
 
 -   [David Gu](https://www.linkedin.com/in/thatmandavid-gu-a0806b5a/)
