@@ -34,5 +34,5 @@ The [Demography Data:](https://factfinder.census.gov/faces/tableservices/jsf/pag
 
 <img src="https://raw.githubusercontent.com/david880110/tech-logo/master/python%20logo.png" width="240" height="50"/>
 
-<img src="https://raw.githubusercontent.com/david880110/tech-logo/master/sqlite%20logo.png" width="240" height="80"/>
+<img src="https://raw.githubusercontent.com/david880110/tech-logo/master/sqlite%20logo.png" width="240" height="75"/>
 
