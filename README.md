@@ -24,6 +24,14 @@ The [Demography Data:](https://factfinder.census.gov/faces/tableservices/jsf/pag
 
 * Limitation
 
+<img src="https://www.kaggle.com/static/images/logos/kaggle-logo-transparent-300.png" width="240" height="80"/>
+
+The [Coordinate Data:](https://www.kaggle.com/washimahmed/usa-latlong-for-state-abbreviations/) is Annual Estimates of the Resident Population for Selected Age Groups by Sex for the United States, States, Counties, and Puerto Rico Commonwealth and Municipios: April 1, 2010 to July 1, 2017 retrived from U.S. Census Bureau, Population Division
+
+* Note: Median age is calculated based on single year of age
+
+* Limitation
+
 ## Findings 
 
 (1)
