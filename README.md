@@ -12,54 +12,61 @@
 
 ## Story 
 
-<table class="mobile-table-1" border="1" cellspacing="0" cellpadding="1" align="center">
-<tbody>
-<tr>
-<td align="center"><strong>Generation Name</strong></td>
-<td align="center"><strong>Births<br />Start</strong></td>
-<td align="center"><strong>Births<br />End</strong></td>
-</tr>
-<tr>
-<td><strong>The Greatest Generation</strong></td>
-<td align="center">1910</td>
-<td align="center">1924</td>
-</tr>
-<tr>
-<td><strong>The Silent Generation</strong></td>
-<td align="center">1925</td>
-<td align="center">1945</td>
-</tr>
-<tr>
-<td><strong>Baby Boomer Generation</strong></td>
-<td align="center">1946</td>
-<td align="center">1964</td>
-</tr>
-<tr>
-<td><strong>Generation X (Baby Bust)</strong></td>
-<td align="center">1965</td>
-<td align="center">1979</td>
-</tr>
-<tr>
-<td><strong>Xennials<br /></strong></td>
-<td align="center">1975</td>
-<td align="center">1985</td>
-</tr>
-<tr>
-<td><strong>Millennials<br />Generation Y, Gen Next</strong></td>
-<td align="center">1980</td>
-<td align="center">1994</td>
-</tr>
-<tr>
-<td><strong>iGen / Gen Z</strong></td>
-<td align="center">1995</td>
-<td align="center">2012</td>
-</tr>
-<tr>
-<td><strong>Gen Alpha</strong></td>
-<td align="center">2013</td>
-<td align="center">2025</td>
-</tr>
-</tbody>
+<table>
+  <tr>
+    <th>Generation Name</th>
+    <th>Births Start</th>
+    <th>Births End</th>
+    <th>Age as of 2018</th>
+  </tr>
+  <tr>
+    <td>The Greatest<br>&nbsp;&nbsp;Generation</td>
+    <td>1910</td>
+    <td>1924</td>
+    <td>108 - 94</td>
+  </tr>
+  <tr>
+    <td>The<br>&nbsp;&nbsp;Silent Generation</td>
+    <td>1925</td>
+    <td>1945</td>
+    <td>93 - 73</td>
+  </tr>
+  <tr>
+    <td>Baby<br>&nbsp;&nbsp;Boomer Generation</td>
+    <td>1946</td>
+    <td>1964</td>
+    <td>72 - 54</td>
+  </tr>
+  <tr>
+    <td>Generation<br>&nbsp;&nbsp;X (Baby Bust)</td>
+    <td>1965</td>
+    <td>1979</td>
+    <td>53 - 39</td>
+  </tr>
+  <tr>
+    <td>Xennials</td>
+    <td>1975</td>
+    <td>1985</td>
+    <td>43 - 33</td>
+  </tr>
+  <tr>
+    <td>Millennials<br>&nbsp;&nbsp;(Generation Y, Gen Next)</td>
+    <td>1980</td>
+    <td>1994</td>
+    <td>38 - 24</td>
+  </tr>
+  <tr>
+    <td>iGen / Gen Z</td>
+    <td>1995</td>
+    <td>2012</td>
+    <td>23 - 6</td>
+  </tr>
+  <tr>
+    <td>Gen<br>&nbsp;&nbsp;Alpha</td>
+    <td>2013</td>
+    <td>2025</td>
+    <td>5 -7</td>
+  </tr>
 </table>
 
 ## Proposal 
