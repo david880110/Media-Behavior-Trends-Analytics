@@ -12,16 +12,16 @@
 
 ## Story 
 
-|             Generation Name            | Births Start | Births End | Age as of 2018 |
-|:--------------------------------------:|:------------:|:----------:|:--------------:|
-|        The Greatest   Generation       |     1910     |    1924    |    108 - 94    |
-|         The   Silent Generation        |     1925     |    1945    |     93 - 73    |
-|        Baby   Boomer Generation        |     1946     |    1964    |     72 - 54    |
-|       Generation   X (Baby Bust)       |     1965     |    1979    |     53 - 39    |
-|                Xennials                |     1975     |    1985    |     43 - 33    |
-| Millennials   (Generation Y, Gen Next) |     1980     |    1994    |     38 - 24    |
-|              iGen / Gen Z              |     1995     |    2012    |     23 - 6     |
-|               Gen   Alpha              |     2013     |    2025    |      5 -7      |
+| Generation   Name                      | Births Start | Births End | Age as of 2018 |
+|----------------------------------------|--------------|------------|----------------|
+| The   Greatest Generation              | 1910         | 1924       | 94 - 108       |
+| The   Silent Generation                | 1925         | 1945       | 73 - 93        |
+| Baby   Boomer Generation               | 1946         | 1964       | 54 - 72        |
+| Generation   X (Baby Bust)             | 1965         | 1979       | 39 - 53        |
+| Xennials                               | 1975         | 1985       | 33 - 43        |
+| Millennials   (Generation Y, Gen Next) | 1980         | 1994       | 24 - 38        |
+| iGen /   Gen Z                         | 1995         | 2012       | 6 - 23         |
+| Gen   Alpha                            | 2013         | 2025       | 0 - 5          |
 
 ## Proposal 
 
