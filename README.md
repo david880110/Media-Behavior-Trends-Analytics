@@ -18,7 +18,7 @@
 
 <img src="https://www.niss.org/sites/default/files/affiliate_images/census_bureau_logo.png" width="240" height="80"/>
 
-The [Demography Data:](https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?src=bkmk/) is Annual Estimates of the Resident Population for Selected Age Groups by Sex for the United States, States, Counties, and Puerto Rico Commonwealth and Municipios: April 1, 2010 to July 1, 2017 retrived from U.S. Census Bureau, Population Division
+The [Demography Data:](https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?src=bkmk/) is Annual Estimates of the Resident Population for Selected Age Groups by Sex for the United States, States, Counties, and Puerto Rico Commonwealth and Municipios: April 1, 2010 to July 1, 2017 retreived from U.S. Census Bureau, Population Division
 
 * Note: Median age is calculated based on single year of age
 
@@ -26,11 +26,7 @@ The [Demography Data:](https://factfinder.census.gov/faces/tableservices/jsf/pag
 
 <img src="https://www.kaggle.com/static/images/logos/kaggle-logo-transparent-300.png" width="240" height="80"/>
 
-The [Coordinate Data:](https://www.kaggle.com/washimahmed/usa-latlong-for-state-abbreviations/) is Annual Estimates of the Resident Population for Selected Age Groups by Sex for the United States, States, Counties, and Puerto Rico Commonwealth and Municipios: April 1, 2010 to July 1, 2017 retrived from U.S. Census Bureau, Population Division
-
-* Note: Median age is calculated based on single year of age
-
-* Limitation
+The [Coordinate Data:](https://www.kaggle.com/washimahmed/usa-latlong-for-state-abbreviations/) is USA latitude and longitude for state abbreviations retreived from Kaggle
 
 ## Findings 
 
