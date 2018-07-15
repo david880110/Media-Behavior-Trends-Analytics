@@ -12,62 +12,16 @@
 
 ## Story 
 
-<table>
-  <tr>
-    <th>Generation Name</th>
-    <th>Births Start</th>
-    <th>Births End</th>
-    <th>Age as of 2018</th>
-  </tr>
-  <tr>
-    <td>The Greatest<br>&nbsp;&nbsp;Generation</td>
-    <td>1910</td>
-    <td>1924</td>
-    <td>108 - 94</td>
-  </tr>
-  <tr>
-    <td>The<br>&nbsp;&nbsp;Silent Generation</td>
-    <td>1925</td>
-    <td>1945</td>
-    <td>93 - 73</td>
-  </tr>
-  <tr>
-    <td>Baby<br>&nbsp;&nbsp;Boomer Generation</td>
-    <td>1946</td>
-    <td>1964</td>
-    <td>72 - 54</td>
-  </tr>
-  <tr>
-    <td>Generation<br>&nbsp;&nbsp;X (Baby Bust)</td>
-    <td>1965</td>
-    <td>1979</td>
-    <td>53 - 39</td>
-  </tr>
-  <tr>
-    <td>Xennials</td>
-    <td>1975</td>
-    <td>1985</td>
-    <td>43 - 33</td>
-  </tr>
-  <tr>
-    <td>Millennials<br>&nbsp;&nbsp;(Generation Y, Gen Next)</td>
-    <td>1980</td>
-    <td>1994</td>
-    <td>38 - 24</td>
-  </tr>
-  <tr>
-    <td>iGen / Gen Z</td>
-    <td>1995</td>
-    <td>2012</td>
-    <td>23 - 6</td>
-  </tr>
-  <tr>
-    <td>Gen<br>&nbsp;&nbsp;Alpha</td>
-    <td>2013</td>
-    <td>2025</td>
-    <td>5 -7</td>
-  </tr>
-</table>
+|             Generation Name            | Births Start | Births End | Age as of 2018 |
+|:--------------------------------------:|:------------:|:----------:|:--------------:|
+|        The Greatest   Generation       |     1910     |    1924    |    108 - 94    |
+|         The   Silent Generation        |     1925     |    1945    |     93 - 73    |
+|        Baby   Boomer Generation        |     1946     |    1964    |     72 - 54    |
+|       Generation   X (Baby Bust)       |     1965     |    1979    |     53 - 39    |
+|                Xennials                |     1975     |    1985    |     43 - 33    |
+| Millennials   (Generation Y, Gen Next) |     1980     |    1994    |     38 - 24    |
+|              iGen / Gen Z              |     1995     |    2012    |     23 - 6     |
+|               Gen   Alpha              |     2013     |    2025    |      5 -7      |
 
 ## Proposal 
 
