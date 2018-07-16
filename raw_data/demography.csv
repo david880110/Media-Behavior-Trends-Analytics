@@ -1,0 +1,1909 @@
+Geography,Gender,age,population
+Alabama,male,Under_5_years,149374
+Alabama,male,5_to_9_years,153526
+Alabama,male,10_to_14_years,157478
+Alabama,male,15_to_19_years,161735
+Alabama,male,20_to_24_years,166366
+Alabama,male,25_to_29_years,167743
+Alabama,male,30_to_34_years,147599
+Alabama,male,35_to_39_years,146855
+Alabama,male,40_to_44_years,140254
+Alabama,male,45_to_49_years,152753
+Alabama,male,50_to_54_years,156734
+Alabama,male,55_to_59_years,161580
+Alabama,male,60_to_64_years,147832
+Alabama,male,65_to_69_years,125004
+Alabama,male,70_to_74_years,95008
+Alabama,male,75_to_79_years,62262
+Alabama,male,80_to_84_years,38581
+Alabama,male,85_years_and_over,29152
+Alaska,male,Under_5_years,27625
+Alaska,male,5_to_9_years,26850
+Alaska,male,10_to_14_years,25316
+Alaska,male,15_to_19_years,24709
+Alaska,male,20_to_24_years,31449
+Alaska,male,25_to_29_years,33700
+Alaska,male,30_to_34_years,30359
+Alaska,male,35_to_39_years,26288
+Alaska,male,40_to_44_years,22369
+Alaska,male,45_to_49_years,23363
+Alaska,male,50_to_54_years,24497
+Alaska,male,55_to_59_years,26028
+Alaska,male,60_to_64_years,23093
+Alaska,male,65_to_69_years,17639
+Alaska,male,70_to_74_years,11355
+Alaska,male,75_to_79_years,6323
+Alaska,male,80_to_84_years,3296
+Alaska,male,85_years_and_over,2533
+Arizona,male,Under_5_years,223615
+Arizona,male,5_to_9_years,229890
+Arizona,male,10_to_14_years,237321
+Arizona,male,15_to_19_years,238976
+Arizona,male,20_to_24_years,252422
+Arizona,male,25_to_29_years,259518
+Arizona,male,30_to_34_years,235679
+Arizona,male,35_to_39_years,226245
+Arizona,male,40_to_44_years,207579
+Arizona,male,45_to_49_years,213122
+Arizona,male,50_to_54_years,206923
+Arizona,male,55_to_59_years,210268
+Arizona,male,60_to_64_years,192558
+Arizona,male,65_to_69_years,178793
+Arizona,male,70_to_74_years,150424
+Arizona,male,75_to_79_years,103457
+Arizona,male,80_to_84_years,66061
+Arizona,male,85_years_and_over,55450
+Arkansas,male,Under_5_years,98313
+Arkansas,male,5_to_9_years,99851
+Arkansas,male,10_to_14_years,101960
+Arkansas,male,15_to_19_years,101485
+Arkansas,male,20_to_24_years,103353
+Arkansas,male,25_to_29_years,103464
+Arkansas,male,30_to_34_years,95024
+Arkansas,male,35_to_39_years,94855
+Arkansas,male,40_to_44_years,87264
+Arkansas,male,45_to_49_years,91225
+Arkansas,male,50_to_54_years,93354
+Arkansas,male,55_to_59_years,96334
+Arkansas,male,60_to_64_years,87355
+Arkansas,male,65_to_69_years,75835
+Arkansas,male,70_to_74_years,59864
+Arkansas,male,75_to_79_years,40721
+Arkansas,male,80_to_84_years,25663
+Arkansas,male,85_years_and_over,20144
+California,male,Under_5_years,1264710
+California,male,5_to_9_years,1284927
+California,male,10_to_14_years,1296870
+California,male,15_to_19_years,1308569
+California,male,20_to_24_years,1429323
+California,male,25_to_29_years,1617117
+California,male,30_to_34_years,1487711
+California,male,35_to_39_years,1375976
+California,male,40_to_44_years,1253956
+California,male,45_to_49_years,1300910
+California,male,50_to_54_years,1270027
+California,male,55_to_59_years,1239880
+California,male,60_to_64_years,1071926
+California,male,65_to_69_years,856686
+California,male,70_to_74_years,630225
+California,male,75_to_79_years,413535
+California,male,80_to_84_years,274889
+California,male,85_years_and_over,270316
+Colorado,male,Under_5_years,171503
+Colorado,male,5_to_9_years,179383
+Colorado,male,10_to_14_years,185719
+Colorado,male,15_to_19_years,183469
+Colorado,male,20_to_24_years,198386
+Colorado,male,25_to_29_years,229472
+Colorado,male,30_to_34_years,224424
+Colorado,male,35_to_39_years,206227
+Colorado,male,40_to_44_years,184530
+Colorado,male,45_to_49_years,187007
+Colorado,male,50_to_54_years,173881
+Colorado,male,55_to_59_years,180953
+Colorado,male,60_to_64_years,163855
+Colorado,male,65_to_69_years,135038
+Colorado,male,70_to_74_years,94741
+Colorado,male,75_to_79_years,56945
+Colorado,male,80_to_84_years,35492
+Colorado,male,85_years_and_over,31308
+Connecticut,male,Under_5_years,93818
+Connecticut,male,5_to_9_years,102012
+Connecticut,male,10_to_14_years,112050
+Connecticut,male,15_to_19_years,125311
+Connecticut,male,20_to_24_years,128259
+Connecticut,male,25_to_29_years,115394
+Connecticut,male,30_to_34_years,111236
+Connecticut,male,35_to_39_years,106042
+Connecticut,male,40_to_44_years,100953
+Connecticut,male,45_to_49_years,118269
+Connecticut,male,50_to_54_years,129973
+Connecticut,male,55_to_59_years,131905
+Connecticut,male,60_to_64_years,114916
+Connecticut,male,65_to_69_years,88334
+Connecticut,male,70_to_74_years,68762
+Connecticut,male,75_to_79_years,44003
+Connecticut,male,80_to_84_years,29188
+Connecticut,male,85_years_and_over,31375
+Delaware,male,Under_5_years,27876
+Delaware,male,5_to_9_years,28641
+Delaware,male,10_to_14_years,29101
+Delaware,male,15_to_19_years,30635
+Delaware,male,20_to_24_years,30289
+Delaware,male,25_to_29_years,34331
+Delaware,male,30_to_34_years,30470
+Delaware,male,35_to_39_years,28321
+Delaware,male,40_to_44_years,25396
+Delaware,male,45_to_49_years,28732
+Delaware,male,50_to_54_years,31567
+Delaware,male,55_to_59_years,32403
+Delaware,male,60_to_64_years,30032
+Delaware,male,65_to_69_years,26818
+Delaware,male,70_to_74_years,21402
+Delaware,male,75_to_79_years,13859
+Delaware,male,80_to_84_years,8477
+Delaware,male,85_years_and_over,7164
+District of Columbia,male,Under_5_years,22851
+District of Columbia,male,5_to_9_years,18122
+District of Columbia,male,10_to_14_years,13863
+District of Columbia,male,15_to_19_years,17501
+District of Columbia,male,20_to_24_years,24474
+District of Columbia,male,25_to_29_years,38552
+District of Columbia,male,30_to_34_years,37742
+District of Columbia,male,35_to_39_years,29538
+District of Columbia,male,40_to_44_years,20864
+District of Columbia,male,45_to_49_years,19507
+District of Columbia,male,50_to_54_years,18801
+District of Columbia,male,55_to_59_years,17823
+District of Columbia,male,60_to_64_years,15321
+District of Columbia,male,65_to_69_years,12266
+District of Columbia,male,70_to_74_years,8586
+District of Columbia,male,75_to_79_years,5772
+District of Columbia,male,80_to_84_years,3622
+District of Columbia,male,85_years_and_over,3994
+Florida,male,Under_5_years,582263
+Florida,male,5_to_9_years,587360
+Florida,male,10_to_14_years,603414
+Florida,male,15_to_19_years,615907
+Florida,male,20_to_24_years,650444
+Florida,male,25_to_29_years,724192
+Florida,male,30_to_34_years,666771
+Florida,male,35_to_39_years,637508
+Florida,male,40_to_44_years,610418
+Florida,male,45_to_49_years,664546
+Florida,male,50_to_54_years,692811
+Florida,male,55_to_59_years,693675
+Florida,male,60_to_64_years,627381
+Florida,male,65_to_69_years,580618
+Florida,male,70_to_74_years,503750
+Florida,male,75_to_79_years,357818
+Florida,male,80_to_84_years,238533
+Florida,male,85_years_and_over,219410
+Georgia,male,Under_5_years,336237
+Georgia,male,5_to_9_years,353467
+Georgia,male,10_to_14_years,367342
+Georgia,male,15_to_19_years,368818
+Georgia,male,20_to_24_years,366728
+Georgia,male,25_to_29_years,377312
+Georgia,male,30_to_34_years,342470
+Georgia,male,35_to_39_years,337450
+Georgia,male,40_to_44_years,322699
+Georgia,male,45_to_49_years,349448
+Georgia,male,50_to_54_years,340721
+Georgia,male,55_to_59_years,323418
+Georgia,male,60_to_64_years,276471
+Georgia,male,65_to_69_years,226994
+Georgia,male,70_to_74_years,170558
+Georgia,male,75_to_79_years,105951
+Georgia,male,80_to_84_years,62162
+Georgia,male,85_years_and_over,47261
+Hawaii,male,Under_5_years,46357
+Hawaii,male,5_to_9_years,44335
+Hawaii,male,10_to_14_years,42435
+Hawaii,male,15_to_19_years,39744
+Hawaii,male,20_to_24_years,52268
+Hawaii,male,25_to_29_years,55945
+Hawaii,male,30_to_34_years,52055
+Hawaii,male,35_to_39_years,48636
+Hawaii,male,40_to_44_years,42418
+Hawaii,male,45_to_49_years,43755
+Hawaii,male,50_to_54_years,43653
+Hawaii,male,55_to_59_years,45841
+Hawaii,male,60_to_64_years,43981
+Hawaii,male,65_to_69_years,39786
+Hawaii,male,70_to_74_years,30263
+Hawaii,male,75_to_79_years,18430
+Hawaii,male,80_to_84_years,11793
+Hawaii,male,85_years_and_over,14392
+Idaho,male,Under_5_years,59664
+Idaho,male,5_to_9_years,62627
+Idaho,male,10_to_14_years,65773
+Idaho,male,15_to_19_years,62126
+Idaho,male,20_to_24_years,59089
+Idaho,male,25_to_29_years,58919
+Idaho,male,30_to_34_years,55919
+Idaho,male,35_to_39_years,56699
+Idaho,male,40_to_44_years,50941
+Idaho,male,45_to_49_years,50618
+Idaho,male,50_to_54_years,49121
+Idaho,male,55_to_59_years,53054
+Idaho,male,60_to_64_years,50619
+Idaho,male,65_to_69_years,44622
+Idaho,male,70_to_74_years,34015
+Idaho,male,75_to_79_years,22156
+Idaho,male,80_to_84_years,13494
+Idaho,male,85_years_and_over,11002
+Illinois,male,Under_5_years,395254
+Illinois,male,5_to_9_years,403484
+Illinois,male,10_to_14_years,421597
+Illinois,male,15_to_19_years,427885
+Illinois,male,20_to_24_years,440632
+Illinois,male,25_to_29_years,458402
+Illinois,male,30_to_34_years,440152
+Illinois,male,35_to_39_years,426286
+Illinois,male,40_to_44_years,392345
+Illinois,male,45_to_49_years,413294
+Illinois,male,50_to_54_years,418476
+Illinois,male,55_to_59_years,429364
+Illinois,male,60_to_64_years,378039
+Illinois,male,65_to_69_years,302089
+Illinois,male,70_to_74_years,217504
+Illinois,male,75_to_79_years,144285
+Illinois,male,80_to_84_years,94301
+Illinois,male,85_years_and_over,89089
+Indiana,male,Under_5_years,216091
+Indiana,male,5_to_9_years,220437
+Indiana,male,10_to_14_years,228728
+Indiana,male,15_to_19_years,234035
+Indiana,male,20_to_24_years,243202
+Indiana,male,25_to_29_years,227942
+Indiana,male,30_to_34_years,208659
+Indiana,male,35_to_39_years,210815
+Indiana,male,40_to_44_years,197001
+Indiana,male,45_to_49_years,210688
+Indiana,male,50_to_54_years,214364
+Indiana,male,55_to_59_years,222827
+Indiana,male,60_to_64_years,201138
+Indiana,male,65_to_69_years,163295
+Indiana,male,70_to_74_years,117712
+Indiana,male,75_to_79_years,77563
+Indiana,male,80_to_84_years,49101
+Indiana,male,85_years_and_over,43497
+Iowa,male,Under_5_years,101804
+Iowa,male,5_to_9_years,103831
+Iowa,male,10_to_14_years,105666
+Iowa,male,15_to_19_years,109865
+Iowa,male,20_to_24_years,118833
+Iowa,male,25_to_29_years,102827
+Iowa,male,30_to_34_years,99856
+Iowa,male,35_to_39_years,100968
+Iowa,male,40_to_44_years,88290
+Iowa,male,45_to_49_years,93503
+Iowa,male,50_to_54_years,98047
+Iowa,male,55_to_59_years,106935
+Iowa,male,60_to_64_years,99633
+Iowa,male,65_to_69_years,82448
+Iowa,male,70_to_74_years,57976
+Iowa,male,75_to_79_years,39998
+Iowa,male,80_to_84_years,27654
+Iowa,male,85_years_and_over,26599
+Kansas,male,Under_5_years,98430
+Kansas,male,5_to_9_years,102265
+Kansas,male,10_to_14_years,102270
+Kansas,male,15_to_19_years,103566
+Kansas,male,20_to_24_years,113186
+Kansas,male,25_to_29_years,101130
+Kansas,male,30_to_34_years,96236
+Kansas,male,35_to_39_years,95472
+Kansas,male,40_to_44_years,82937
+Kansas,male,45_to_49_years,84836
+Kansas,male,50_to_54_years,87941
+Kansas,male,55_to_59_years,94693
+Kansas,male,60_to_64_years,87823
+Kansas,male,65_to_69_years,71219
+Kansas,male,70_to_74_years,50832
+Kansas,male,75_to_79_years,33444
+Kansas,male,80_to_84_years,23071
+Kansas,male,85_years_and_over,22605
+Kentucky,male,Under_5_years,142133
+Kentucky,male,5_to_9_years,141783
+Kentucky,male,10_to_14_years,145102
+Kentucky,male,15_to_19_years,147459
+Kentucky,male,20_to_24_years,157543
+Kentucky,male,25_to_29_years,155214
+Kentucky,male,30_to_34_years,138734
+Kentucky,male,35_to_39_years,140787
+Kentucky,male,40_to_44_years,133689
+Kentucky,male,45_to_49_years,143654
+Kentucky,male,50_to_54_years,147369
+Kentucky,male,55_to_59_years,150089
+Kentucky,male,60_to_64_years,136195
+Kentucky,male,65_to_69_years,115218
+Kentucky,male,70_to_74_years,84265
+Kentucky,male,75_to_79_years,55290
+Kentucky,male,80_to_84_years,33360
+Kentucky,male,85_years_and_over,26434
+Louisiana,male,Under_5_years,158969
+Louisiana,male,5_to_9_years,155807
+Louisiana,male,10_to_14_years,156054
+Louisiana,male,15_to_19_years,152723
+Louisiana,male,20_to_24_years,163149
+Louisiana,male,25_to_29_years,175405
+Louisiana,male,30_to_34_years,164250
+Louisiana,male,35_to_39_years,153496
+Louisiana,male,40_to_44_years,132357
+Louisiana,male,45_to_49_years,137491
+Louisiana,male,50_to_54_years,144409
+Louisiana,male,55_to_59_years,151851
+Louisiana,male,60_to_64_years,138123
+Louisiana,male,65_to_69_years,112014
+Louisiana,male,70_to_74_years,80887
+Louisiana,male,75_to_79_years,52403
+Louisiana,male,80_to_84_years,32718
+Louisiana,male,85_years_and_over,27340
+Maine,male,Under_5_years,33253
+Maine,male,5_to_9_years,35020
+Maine,male,10_to_14_years,37778
+Maine,male,15_to_19_years,40931
+Maine,male,20_to_24_years,39051
+Maine,male,25_to_29_years,40571
+Maine,male,30_to_34_years,39049
+Maine,male,35_to_39_years,37902
+Maine,male,40_to_44_years,36602
+Maine,male,45_to_49_years,43175
+Maine,male,50_to_54_years,47915
+Maine,male,55_to_59_years,52429
+Maine,male,60_to_64_years,49823
+Maine,male,65_to_69_years,43564
+Maine,male,70_to_74_years,32662
+Maine,male,75_to_79_years,20178
+Maine,male,80_to_84_years,13232
+Maine,male,85_years_and_over,11385
+Maryland,male,Under_5_years,186904
+Maryland,male,5_to_9_years,190488
+Maryland,male,10_to_14_years,191816
+Maryland,male,15_to_19_years,196599
+Maryland,male,20_to_24_years,196744
+Maryland,male,25_to_29_years,211435
+Maryland,male,30_to_34_years,205133
+Maryland,male,35_to_39_years,197521
+Maryland,male,40_to_44_years,177896
+Maryland,male,45_to_49_years,197112
+Maryland,male,50_to_54_years,208729
+Maryland,male,55_to_59_years,206993
+Maryland,male,60_to_64_years,175796
+Maryland,male,65_to_69_years,139795
+Maryland,male,70_to_74_years,103283
+Maryland,male,75_to_79_years,66531
+Maryland,male,80_to_84_years,41698
+Maryland,male,85_years_and_over,39681
+Massachusetts,male,Under_5_years,183999
+Massachusetts,male,5_to_9_years,189325
+Massachusetts,male,10_to_14_years,198877
+Massachusetts,male,15_to_19_years,228388
+Massachusetts,male,20_to_24_years,247129
+Massachusetts,male,25_to_29_years,252198
+Massachusetts,male,30_to_34_years,236497
+Massachusetts,male,35_to_39_years,212403
+Massachusetts,male,40_to_44_years,195122
+Massachusetts,male,45_to_49_years,220837
+Massachusetts,male,50_to_54_years,237990
+Massachusetts,male,55_to_59_years,238902
+Massachusetts,male,60_to_64_years,208600
+Massachusetts,male,65_to_69_years,169520
+Massachusetts,male,70_to_74_years,125386
+Massachusetts,male,75_to_79_years,78690
+Massachusetts,male,80_to_84_years,53191
+Massachusetts,male,85_years_and_over,53311
+Michigan,male,Under_5_years,293086
+Michigan,male,5_to_9_years,300766
+Michigan,male,10_to_14_years,318110
+Michigan,male,15_to_19_years,337602
+Michigan,male,20_to_24_years,359852
+Michigan,male,25_to_29_years,345328
+Michigan,male,30_to_34_years,298658
+Michigan,male,35_to_39_years,294313
+Michigan,male,40_to_44_years,278898
+Michigan,male,45_to_49_years,317985
+Michigan,male,50_to_54_years,335374
+Michigan,male,55_to_59_years,354608
+Michigan,male,60_to_64_years,325289
+Michigan,male,65_to_69_years,267903
+Michigan,male,70_to_74_years,194846
+Michigan,male,75_to_79_years,127356
+Michigan,male,80_to_84_years,79851
+Michigan,male,85_years_and_over,73927
+Minnesota,male,Under_5_years,181792
+Minnesota,male,5_to_9_years,184050
+Minnesota,male,10_to_14_years,187292
+Minnesota,male,15_to_19_years,181958
+Minnesota,male,20_to_24_years,185008
+Minnesota,male,25_to_29_years,191213
+Minnesota,male,30_to_34_years,195579
+Minnesota,male,35_to_39_years,190313
+Minnesota,male,40_to_44_years,162075
+Minnesota,male,45_to_49_years,173385
+Minnesota,male,50_to_54_years,183920
+Minnesota,male,55_to_59_years,197141
+Minnesota,male,60_to_64_years,173922
+Minnesota,male,65_to_69_years,139416
+Minnesota,male,70_to_74_years,98049
+Minnesota,male,75_to_79_years,65788
+Minnesota,male,80_to_84_years,43771
+Minnesota,male,85_years_and_over,42174
+Mississippi,male,Under_5_years,95170
+Mississippi,male,5_to_9_years,100593
+Mississippi,male,10_to_14_years,105117
+Mississippi,male,15_to_19_years,105109
+Mississippi,male,20_to_24_years,106023
+Mississippi,male,25_to_29_years,103306
+Mississippi,male,30_to_34_years,90865
+Mississippi,male,35_to_39_years,91914
+Mississippi,male,40_to_44_years,84416
+Mississippi,male,45_to_49_years,89596
+Mississippi,male,50_to_54_years,91202
+Mississippi,male,55_to_59_years,95176
+Mississippi,male,60_to_64_years,86947
+Mississippi,male,65_to_69_years,72716
+Mississippi,male,70_to_74_years,54093
+Mississippi,male,75_to_79_years,35443
+Mississippi,male,80_to_84_years,21600
+Mississippi,male,85_years_and_over,16592
+Missouri,male,Under_5_years,191797
+Missouri,male,5_to_9_years,195136
+Missouri,male,10_to_14_years,199496
+Missouri,male,15_to_19_years,201940
+Missouri,male,20_to_24_years,212237
+Missouri,male,25_to_29_years,212558
+Missouri,male,30_to_34_years,199582
+Missouri,male,35_to_39_years,193906
+Missouri,male,40_to_44_years,172112
+Missouri,male,45_to_49_years,185003
+Missouri,male,50_to_54_years,195689
+Missouri,male,55_to_59_years,210683
+Missouri,male,60_to_64_years,187714
+Missouri,male,65_to_69_years,154108
+Missouri,male,70_to_74_years,116197
+Missouri,male,75_to_79_years,78556
+Missouri,male,80_to_84_years,50918
+Missouri,male,85_years_and_over,44604
+Montana,male,Under_5_years,32493
+Montana,male,5_to_9_years,32523
+Montana,male,10_to_14_years,32979
+Montana,male,15_to_19_years,33077
+Montana,male,20_to_24_years,38356
+Montana,male,25_to_29_years,35845
+Montana,male,30_to_34_years,33616
+Montana,male,35_to_39_years,33896
+Montana,male,40_to_44_years,29103
+Montana,male,45_to_49_years,29703
+Montana,male,50_to_54_years,31659
+Montana,male,55_to_59_years,37145
+Montana,male,60_to_64_years,37133
+Montana,male,65_to_69_years,33446
+Montana,male,70_to_74_years,24153
+Montana,male,75_to_79_years,15713
+Montana,male,80_to_84_years,9680
+Montana,male,85_years_and_over,8436
+Nebraska,male,Under_5_years,68397
+Nebraska,male,5_to_9_years,67915
+Nebraska,male,10_to_14_years,67807
+Nebraska,male,15_to_19_years,66581
+Nebraska,male,20_to_24_years,70606
+Nebraska,male,25_to_29_years,65683
+Nebraska,male,30_to_34_years,66142
+Nebraska,male,35_to_39_years,64093
+Nebraska,male,40_to_44_years,55347
+Nebraska,male,45_to_49_years,55822
+Nebraska,male,50_to_54_years,57699
+Nebraska,male,55_to_59_years,62783
+Nebraska,male,60_to_64_years,56981
+Nebraska,male,65_to_69_years,46838
+Nebraska,male,70_to_74_years,33077
+Nebraska,male,75_to_79_years,21901
+Nebraska,male,80_to_84_years,15321
+Nebraska,male,85_years_and_over,15138
+Nevada,male,Under_5_years,95036
+Nevada,male,5_to_9_years,98173
+Nevada,male,10_to_14_years,98369
+Nevada,male,15_to_19_years,93405
+Nevada,male,20_to_24_years,93890
+Nevada,male,25_to_29_years,114597
+Nevada,male,30_to_34_years,109499
+Nevada,male,35_to_39_years,104463
+Nevada,male,40_to_44_years,96043
+Nevada,male,45_to_49_years,102057
+Nevada,male,50_to_54_years,98694
+Nevada,male,55_to_59_years,96162
+Nevada,male,60_to_64_years,86301
+Nevada,male,65_to_69_years,76208
+Nevada,male,70_to_74_years,61403
+Nevada,male,75_to_79_years,39733
+Nevada,male,80_to_84_years,22752
+Nevada,male,85_years_and_over,16964
+New Hampshire,male,Under_5_years,33067
+New Hampshire,male,5_to_9_years,35295
+New Hampshire,male,10_to_14_years,38785
+New Hampshire,male,15_to_19_years,43520
+New Hampshire,male,20_to_24_years,46138
+New Hampshire,male,25_to_29_years,43415
+New Hampshire,male,30_to_34_years,41000
+New Hampshire,male,35_to_39_years,38852
+New Hampshire,male,40_to_44_years,37009
+New Hampshire,male,45_to_49_years,45749
+New Hampshire,male,50_to_54_years,51211
+New Hampshire,male,55_to_59_years,54469
+New Hampshire,male,60_to_64_years,48418
+New Hampshire,male,65_to_69_years,39685
+New Hampshire,male,70_to_74_years,28974
+New Hampshire,male,75_to_79_years,17627
+New Hampshire,male,80_to_84_years,11328
+New Hampshire,male,85_years_and_over,10467
+New Jersey,male,Under_5_years,266484
+New Jersey,male,5_to_9_years,276677
+New Jersey,male,10_to_14_years,288378
+New Jersey,male,15_to_19_years,290973
+New Jersey,male,20_to_24_years,290463
+New Jersey,male,25_to_29_years,300635
+New Jersey,male,30_to_34_years,293556
+New Jersey,male,35_to_39_years,290880
+New Jersey,male,40_to_44_years,280469
+New Jersey,male,45_to_49_years,304296
+New Jersey,male,50_to_54_years,318638
+New Jersey,male,55_to_59_years,317543
+New Jersey,male,60_to_64_years,268885
+New Jersey,male,65_to_69_years,209547
+New Jersey,male,70_to_74_years,158367
+New Jersey,male,75_to_79_years,103620
+New Jersey,male,80_to_84_years,68932
+New Jersey,male,85_years_and_over,68231
+New Mexico,male,Under_5_years,65618
+New Mexico,male,5_to_9_years,69535
+New Mexico,male,10_to_14_years,70977
+New Mexico,male,15_to_19_years,71131
+New Mexico,male,20_to_24_years,74962
+New Mexico,male,25_to_29_years,74978
+New Mexico,male,30_to_34_years,70743
+New Mexico,male,35_to_39_years,65866
+New Mexico,male,40_to_44_years,57700
+New Mexico,male,45_to_49_years,59095
+New Mexico,male,50_to_54_years,61268
+New Mexico,male,55_to_59_years,67883
+New Mexico,male,60_to_64_years,63286
+New Mexico,male,65_to_69_years,56782
+New Mexico,male,70_to_74_years,42849
+New Mexico,male,75_to_79_years,28013
+New Mexico,male,80_to_84_years,18151
+New Mexico,male,85_years_and_over,15307
+New York,male,Under_5_years,595973
+New York,male,5_to_9_years,580252
+New York,male,10_to_14_years,582593
+New York,male,15_to_19_years,621884
+New York,male,20_to_24_years,684286
+New York,male,25_to_29_years,763248
+New York,male,30_to_34_years,704905
+New York,male,35_to_39_years,635317
+New York,male,40_to_44_years,578357
+New York,male,45_to_49_years,629538
+New York,male,50_to_54_years,661449
+New York,male,55_to_59_years,662408
+New York,male,60_to_64_years,581933
+New York,male,65_to_69_years,471772
+New York,male,70_to_74_years,344874
+New York,male,75_to_79_years,229749
+New York,male,80_to_84_years,154911
+New York,male,85_years_and_over,154013
+North Carolina,male,Under_5_years,311460
+North Carolina,male,5_to_9_years,322385
+North Carolina,male,10_to_14_years,335927
+North Carolina,male,15_to_19_years,344666
+North Carolina,male,20_to_24_years,362558
+North Carolina,male,25_to_29_years,358557
+North Carolina,male,30_to_34_years,322231
+North Carolina,male,35_to_39_years,318127
+North Carolina,male,40_to_44_years,311566
+North Carolina,male,45_to_49_years,341750
+North Carolina,male,50_to_54_years,334103
+North Carolina,male,55_to_59_years,329908
+North Carolina,male,60_to_64_years,296040
+North Carolina,male,65_to_69_years,255063
+North Carolina,male,70_to_74_years,196829
+North Carolina,male,75_to_79_years,123398
+North Carolina,male,80_to_84_years,75967
+North Carolina,male,85_years_and_over,60903
+North Dakota,male,Under_5_years,27546
+North Dakota,male,5_to_9_years,25206
+North Dakota,male,10_to_14_years,23899
+North Dakota,male,15_to_19_years,24662
+North Dakota,male,20_to_24_years,34588
+North Dakota,male,25_to_29_years,33221
+North Dakota,male,30_to_34_years,29081
+North Dakota,male,35_to_39_years,25820
+North Dakota,male,40_to_44_years,21003
+North Dakota,male,45_to_49_years,20421
+North Dakota,male,50_to_54_years,21844
+North Dakota,male,55_to_59_years,25060
+North Dakota,male,60_to_64_years,23209
+North Dakota,male,65_to_69_years,18379
+North Dakota,male,70_to_74_years,12549
+North Dakota,male,75_to_79_years,8349
+North Dakota,male,80_to_84_years,6082
+North Dakota,male,85_years_and_over,6380
+Ohio,male,Under_5_years,357181
+Ohio,male,5_to_9_years,362887
+Ohio,male,10_to_14_years,376537
+Ohio,male,15_to_19_years,392890
+Ohio,male,20_to_24_years,389045
+Ohio,male,25_to_29_years,402124
+Ohio,male,30_to_34_years,364063
+Ohio,male,35_to_39_years,356089
+Ohio,male,40_to_44_years,330349
+Ohio,male,45_to_49_years,368639
+Ohio,male,50_to_54_years,381400
+Ohio,male,55_to_59_years,406593
+Ohio,male,60_to_64_years,373706
+Ohio,male,65_to_69_years,305592
+Ohio,male,70_to_74_years,218136
+Ohio,male,75_to_79_years,145607
+Ohio,male,80_to_84_years,95043
+Ohio,male,85_years_and_over,87219
+Oklahoma,male,Under_5_years,134987
+Oklahoma,male,5_to_9_years,137330
+Oklahoma,male,10_to_14_years,136919
+Oklahoma,male,15_to_19_years,135957
+Oklahoma,male,20_to_24_years,142942
+Oklahoma,male,25_to_29_years,142287
+Oklahoma,male,30_to_34_years,134189
+Oklahoma,male,35_to_39_years,128957
+Oklahoma,male,40_to_44_years,114258
+Oklahoma,male,45_to_49_years,116196
+Oklahoma,male,50_to_54_years,117086
+Oklahoma,male,55_to_59_years,124784
+Oklahoma,male,60_to_64_years,112837
+Oklahoma,male,65_to_69_years,92958
+Oklahoma,male,70_to_74_years,71244
+Oklahoma,male,75_to_79_years,48054
+Oklahoma,male,80_to_84_years,30911
+Oklahoma,male,85_years_and_over,25666
+Oregon,male,Under_5_years,121051
+Oregon,male,5_to_9_years,124383
+Oregon,male,10_to_14_years,125796
+Oregon,male,15_to_19_years,126405
+Oregon,male,20_to_24_years,135075
+Oregon,male,25_to_29_years,151097
+Oregon,male,30_to_34_years,146521
+Oregon,male,35_to_39_years,144724
+Oregon,male,40_to_44_years,131463
+Oregon,male,45_to_49_years,133197
+Oregon,male,50_to_54_years,125324
+Oregon,male,55_to_59_years,131649
+Oregon,male,60_to_64_years,131528
+Oregon,male,65_to_69_years,118291
+Oregon,male,70_to_74_years,87616
+Oregon,male,75_to_79_years,54846
+Oregon,male,80_to_84_years,33457
+Oregon,male,85_years_and_over,30566
+Pennsylvania,male,Under_5_years,362260
+Pennsylvania,male,5_to_9_years,372675
+Pennsylvania,male,10_to_14_years,386165
+Pennsylvania,male,15_to_19_years,416635
+Pennsylvania,male,20_to_24_years,422152
+Pennsylvania,male,25_to_29_years,445010
+Pennsylvania,male,30_to_34_years,413661
+Pennsylvania,male,35_to_39_years,384956
+Pennsylvania,male,40_to_44_years,355853
+Pennsylvania,male,45_to_49_years,405779
+Pennsylvania,male,50_to_54_years,432743
+Pennsylvania,male,55_to_59_years,456956
+Pennsylvania,male,60_to_64_years,421786
+Pennsylvania,male,65_to_69_years,345331
+Pennsylvania,male,70_to_74_years,254437
+Pennsylvania,male,75_to_79_years,169237
+Pennsylvania,male,80_to_84_years,113704
+Pennsylvania,male,85_years_and_over,111989
+Rhode Island,male,Under_5_years,28045
+Rhode Island,male,5_to_9_years,28421
+Rhode Island,male,10_to_14_years,30342
+Rhode Island,male,15_to_19_years,36017
+Rhode Island,male,20_to_24_years,39730
+Rhode Island,male,25_to_29_years,39121
+Rhode Island,male,30_to_34_years,34737
+Rhode Island,male,35_to_39_years,32094
+Rhode Island,male,40_to_44_years,29193
+Rhode Island,male,45_to_49_years,33088
+Rhode Island,male,50_to_54_years,36230
+Rhode Island,male,55_to_59_years,37289
+Rhode Island,male,60_to_64_years,33810
+Rhode Island,male,65_to_69_years,27030
+Rhode Island,male,70_to_74_years,20091
+Rhode Island,male,75_to_79_years,12490
+Rhode Island,male,80_to_84_years,8433
+Rhode Island,male,85_years_and_over,8830
+South Carolina,male,Under_5_years,149964
+South Carolina,male,5_to_9_years,156061
+South Carolina,male,10_to_14_years,159662
+South Carolina,male,15_to_19_years,165026
+South Carolina,male,20_to_24_years,173360
+South Carolina,male,25_to_29_years,173929
+South Carolina,male,30_to_34_years,154446
+South Carolina,male,35_to_39_years,151534
+South Carolina,male,40_to_44_years,142751
+South Carolina,male,45_to_49_years,155386
+South Carolina,male,50_to_54_years,158536
+South Carolina,male,55_to_59_years,161475
+South Carolina,male,60_to_64_years,150991
+South Carolina,male,65_to_69_years,138128
+South Carolina,male,70_to_74_years,109271
+South Carolina,male,75_to_79_years,68196
+South Carolina,male,80_to_84_years,39364
+South Carolina,male,85_years_and_over,29607
+South Dakota,male,Under_5_years,31843
+South Dakota,male,5_to_9_years,30992
+South Dakota,male,10_to_14_years,30394
+South Dakota,male,15_to_19_years,29449
+South Dakota,male,20_to_24_years,31087
+South Dakota,male,25_to_29_years,29968
+South Dakota,male,30_to_34_years,29230
+South Dakota,male,35_to_39_years,28164
+South Dakota,male,40_to_44_years,24052
+South Dakota,male,45_to_49_years,24209
+South Dakota,male,50_to_54_years,26281
+South Dakota,male,55_to_59_years,29634
+South Dakota,male,60_to_64_years,28365
+South Dakota,male,65_to_69_years,24218
+South Dakota,male,70_to_74_years,16170
+South Dakota,male,75_to_79_years,10437
+South Dakota,male,80_to_84_years,7360
+South Dakota,male,85_years_and_over,7107
+Tennessee,male,Under_5_years,208554
+Tennessee,male,5_to_9_years,211184
+Tennessee,male,10_to_14_years,216600
+Tennessee,male,15_to_19_years,217732
+Tennessee,male,20_to_24_years,226109
+Tennessee,male,25_to_29_years,240885
+Tennessee,male,30_to_34_years,214133
+Tennessee,male,35_to_39_years,210703
+Tennessee,male,40_to_44_years,200515
+Tennessee,male,45_to_49_years,217884
+Tennessee,male,50_to_54_years,218576
+Tennessee,male,55_to_59_years,218185
+Tennessee,male,60_to_64_years,199164
+Tennessee,male,65_to_69_years,170647
+Tennessee,male,70_to_74_years,131003
+Tennessee,male,75_to_79_years,84602
+Tennessee,male,80_to_84_years,50035
+Tennessee,male,85_years_and_over,39455
+Texas,male,Under_5_years,1038600
+Texas,male,5_to_9_years,1040541
+Texas,male,10_to_14_years,1052335
+Texas,male,15_to_19_years,1026807
+Texas,male,20_to_24_years,1029220
+Texas,male,25_to_29_years,1081131
+Texas,male,30_to_34_years,1036504
+Texas,male,35_to_39_years,992663
+Texas,male,40_to_44_years,911033
+Texas,male,45_to_49_years,907265
+Texas,male,50_to_54_years,852194
+Texas,male,55_to_59_years,833381
+Texas,male,60_to_64_years,711608
+Texas,male,65_to_69_years,563094
+Texas,male,70_to_74_years,414097
+Texas,male,75_to_79_years,263441
+Texas,male,80_to_84_years,166567
+Texas,male,85_years_and_over,141312
+Utah,male,Under_5_years,131077
+Utah,male,5_to_9_years,133206
+Utah,male,10_to_14_years,135100
+Utah,male,15_to_19_years,123316
+Utah,male,20_to_24_years,129786
+Utah,male,25_to_29_years,122990
+Utah,male,30_to_34_years,109430
+Utah,male,35_to_39_years,116353
+Utah,male,40_to_44_years,98800
+Utah,male,45_to_49_years,84986
+Utah,male,50_to_54_years,75353
+Utah,male,55_to_59_years,75940
+Utah,male,60_to_64_years,69439
+Utah,male,65_to_69_years,55794
+Utah,male,70_to_74_years,40505
+Utah,male,75_to_79_years,26752
+Utah,male,80_to_84_years,17664
+Utah,male,85_years_and_over,15197
+Vermont,male,Under_5_years,15566
+Vermont,male,5_to_9_years,16286
+Vermont,male,10_to_14_years,17541
+Vermont,male,15_to_19_years,21428
+Vermont,male,20_to_24_years,23875
+Vermont,male,25_to_29_years,19006
+Vermont,male,30_to_34_years,18154
+Vermont,male,35_to_39_years,17791
+Vermont,male,40_to_44_years,16693
+Vermont,male,45_to_49_years,19446
+Vermont,male,50_to_54_years,21571
+Vermont,male,55_to_59_years,24130
+Vermont,male,60_to_64_years,23105
+Vermont,male,65_to_69_years,19815
+Vermont,male,70_to_74_years,14470
+Vermont,male,75_to_79_years,8871
+Vermont,male,80_to_84_years,5580
+Vermont,male,85_years_and_over,4928
+Virginia,male,Under_5_years,261835
+Virginia,male,5_to_9_years,262813
+Virginia,male,10_to_14_years,267355
+Virginia,male,15_to_19_years,274786
+Virginia,male,20_to_24_years,302339
+Virginia,male,25_to_29_years,305724
+Virginia,male,30_to_34_years,294182
+Virginia,male,35_to_39_years,283764
+Virginia,male,40_to_44_years,259785
+Virginia,male,45_to_49_years,278222
+Virginia,male,50_to_54_years,285256
+Virginia,male,55_to_59_years,282911
+Virginia,male,60_to_64_years,244873
+Virginia,male,65_to_69_years,201003
+Virginia,male,70_to_74_years,152358
+Virginia,male,75_to_79_years,97931
+Virginia,male,80_to_84_years,60181
+Virginia,male,85_years_and_over,51409
+Washington,male,Under_5_years,234818
+Washington,male,5_to_9_years,236455
+Washington,male,10_to_14_years,231577
+Washington,male,15_to_19_years,228430
+Washington,male,20_to_24_years,249645
+Washington,male,25_to_29_years,297787
+Washington,male,30_to_34_years,279700
+Washington,male,35_to_39_years,263409
+Washington,male,40_to_44_years,230572
+Washington,male,45_to_49_years,241600
+Washington,male,50_to_54_years,233167
+Washington,male,55_to_59_years,242776
+Washington,male,60_to_64_years,224570
+Washington,male,65_to_69_years,186906
+Washington,male,70_to_74_years,137459
+Washington,male,75_to_79_years,85354
+Washington,male,80_to_84_years,51777
+Washington,male,85_years_and_over,47471
+Washington,male,Under_5_years,234818
+Washington,male,5_to_9_years,236455
+Washington,male,10_to_14_years,231577
+Washington,male,15_to_19_years,228430
+Washington,male,20_to_24_years,249645
+Washington,male,25_to_29_years,297787
+Washington,male,30_to_34_years,279700
+Washington,male,35_to_39_years,263409
+Washington,male,40_to_44_years,230572
+Washington,male,45_to_49_years,241600
+Washington,male,50_to_54_years,233167
+Washington,male,55_to_59_years,242776
+Washington,male,60_to_64_years,224570
+Washington,male,65_to_69_years,186906
+Washington,male,70_to_74_years,137459
+Washington,male,75_to_79_years,85354
+Washington,male,80_to_84_years,51777
+Washington,male,85_years_and_over,47471
+West Virginia,male,Under_5_years,50371
+West Virginia,male,5_to_9_years,52270
+West Virginia,male,10_to_14_years,53805
+West Virginia,male,15_to_19_years,55827
+West Virginia,male,20_to_24_years,59155
+West Virginia,male,25_to_29_years,58240
+West Virginia,male,30_to_34_years,52462
+West Virginia,male,35_to_39_years,55498
+West Virginia,male,40_to_44_years,54595
+West Virginia,male,45_to_49_years,59124
+West Virginia,male,50_to_54_years,60310
+West Virginia,male,55_to_59_years,64021
+West Virginia,male,60_to_64_years,63452
+West Virginia,male,65_to_69_years,57794
+West Virginia,male,70_to_74_years,42481
+West Virginia,male,75_to_79_years,28110
+West Virginia,male,80_to_84_years,17288
+West Virginia,male,85_years_and_over,13817
+Wisconsin,male,Under_5_years,171722
+Wisconsin,male,5_to_9_years,180862
+Wisconsin,male,10_to_14_years,188711
+Wisconsin,male,15_to_19_years,193976
+Wisconsin,male,20_to_24_years,204039
+Wisconsin,male,25_to_29_years,188944
+Wisconsin,male,30_to_34_years,185502
+Wisconsin,male,35_to_39_years,185235
+Wisconsin,male,40_to_44_years,165992
+Wisconsin,male,45_to_49_years,181918
+Wisconsin,male,50_to_54_years,198942
+Wisconsin,male,55_to_59_years,212179
+Wisconsin,male,60_to_64_years,191153
+Wisconsin,male,65_to_69_years,157231
+Wisconsin,male,70_to_74_years,110559
+Wisconsin,male,75_to_79_years,72751
+Wisconsin,male,80_to_84_years,48471
+Wisconsin,male,85_years_and_over,44551
+Wyoming,male,Under_5_years,19132
+Wyoming,male,5_to_9_years,19838
+Wyoming,male,10_to_14_years,19974
+Wyoming,male,15_to_19_years,18866
+Wyoming,male,20_to_24_years,20297
+Wyoming,male,25_to_29_years,20620
+Wyoming,male,30_to_34_years,20735
+Wyoming,male,35_to_39_years,20001
+Wyoming,male,40_to_44_years,17233
+Wyoming,male,45_to_49_years,16991
+Wyoming,male,50_to_54_years,17160
+Wyoming,male,55_to_59_years,20403
+Wyoming,male,60_to_64_years,20328
+Wyoming,male,65_to_69_years,16578
+Wyoming,male,70_to_74_years,11655
+Wyoming,male,75_to_79_years,7277
+Wyoming,male,80_to_84_years,4383
+Wyoming,male,85_years_and_over,3967
+Puerto Rico,male,Under_5_years,362260
+Puerto Rico,male,5_to_9_years,372675
+Puerto Rico,male,10_to_14_years,386165
+Puerto Rico,male,15_to_19_years,416635
+Puerto Rico,male,20_to_24_years,422152
+Puerto Rico,male,25_to_29_years,445010
+Puerto Rico,male,30_to_34_years,413661
+Puerto Rico,male,35_to_39_years,384956
+Puerto Rico,male,40_to_44_years,355853
+Puerto Rico,male,45_to_49_years,405779
+Puerto Rico,male,50_to_54_years,432743
+Puerto Rico,male,55_to_59_years,456956
+Puerto Rico,male,60_to_64_years,421786
+Puerto Rico,male,65_to_69_years,345331
+Puerto Rico,male,70_to_74_years,254437
+Puerto Rico,male,75_to_79_years,169237
+Puerto Rico,male,80_to_84_years,113704
+Puerto Rico,male,85_years_and_over,111989
+Alabama,female,Under_5_years,144180
+Alabama,female,5_to_9_years,147759
+Alabama,female,10_to_14_years,150981
+Alabama,female,15_to_19_years,157072
+Alabama,female,20_to_24_years,163231
+Alabama,female,25_to_29_years,170408
+Alabama,female,30_to_34_years,154552
+Alabama,female,35_to_39_years,155256
+Alabama,female,40_to_44_years,149430
+Alabama,female,45_to_49_years,161003
+Alabama,female,50_to_54_years,166142
+Alabama,female,55_to_59_years,175678
+Alabama,female,60_to_64_years,165455
+Alabama,female,65_to_69_years,143689
+Alabama,female,70_to_74_years,113631
+Alabama,female,75_to_79_years,80897
+Alabama,female,80_to_84_years,56520
+Alabama,female,85_years_and_over,59027
+Alaska,female,Under_5_years,26458
+Alaska,female,5_to_9_years,25222
+Alaska,female,10_to_14_years,24147
+Alaska,female,15_to_19_years,22093
+Alaska,female,20_to_24_years,23268
+Alaska,female,25_to_29_years,29020
+Alaska,female,30_to_34_years,27136
+Alaska,female,35_to_39_years,24136
+Alaska,female,40_to_44_years,20419
+Alaska,female,45_to_49_years,21134
+Alaska,female,50_to_54_years,22291
+Alaska,female,55_to_59_years,24112
+Alaska,female,60_to_64_years,22133
+Alaska,female,65_to_69_years,16221
+Alaska,female,70_to_74_years,10689
+Alaska,female,75_to_79_years,6460
+Alaska,female,80_to_84_years,4043
+Alaska,female,85_years_and_over,4021
+Arizona,female,Under_5_years,213647
+Arizona,female,5_to_9_years,221269
+Arizona,female,10_to_14_years,228582
+Arizona,female,15_to_19_years,228331
+Arizona,female,20_to_24_years,231880
+Arizona,female,25_to_29_years,240414
+Arizona,female,30_to_34_years,220283
+Arizona,female,35_to_39_years,218635
+Arizona,female,40_to_44_years,206221
+Arizona,female,45_to_49_years,214562
+Arizona,female,50_to_54_years,213157
+Arizona,female,55_to_59_years,225341
+Arizona,female,60_to_64_years,218086
+Arizona,female,65_to_69_years,203496
+Arizona,female,70_to_74_years,168696
+Arizona,female,75_to_79_years,117691
+Arizona,female,80_to_84_years,76401
+Arizona,female,85_years_and_over,81277
+Arkansas,female,Under_5_years,93122
+Arkansas,female,5_to_9_years,95292
+Arkansas,female,10_to_14_years,97198
+Arkansas,female,15_to_19_years,96842
+Arkansas,female,20_to_24_years,99472
+Arkansas,female,25_to_29_years,102087
+Arkansas,female,30_to_34_years,94889
+Arkansas,female,35_to_39_years,94858
+Arkansas,female,40_to_44_years,89299
+Arkansas,female,45_to_49_years,93194
+Arkansas,female,50_to_54_years,96878
+Arkansas,female,55_to_59_years,101389
+Arkansas,female,60_to_64_years,96778
+Arkansas,female,65_to_69_years,85524
+Arkansas,female,70_to_74_years,69286
+Arkansas,female,75_to_79_years,49925
+Arkansas,female,80_to_84_years,34444
+Arkansas,female,85_years_and_over,37738
+California,female,Under_5_years,1206803
+California,female,5_to_9_years,1229425
+California,female,10_to_14_years,1245910
+California,female,15_to_19_years,1254099
+California,female,20_to_24_years,1338452
+California,female,25_to_29_years,1513117
+California,female,30_to_34_years,1405834
+California,female,35_to_39_years,1337511
+California,female,40_to_44_years,1255619
+California,female,45_to_49_years,1306528
+California,female,50_to_54_years,1285223
+California,female,55_to_59_years,1288876
+California,female,60_to_64_years,1161996
+California,female,65_to_69_years,968879
+California,female,70_to_74_years,740010
+California,female,75_to_79_years,516095
+California,female,80_to_84_years,372246
+California,female,85_years_and_over,462477
+Colorado,female,Under_5_years,164704
+Colorado,female,5_to_9_years,170520
+Colorado,female,10_to_14_years,177417
+Colorado,female,15_to_19_years,172981
+Colorado,female,20_to_24_years,178981
+Colorado,female,25_to_29_years,210878
+Colorado,female,30_to_34_years,205888
+Colorado,female,35_to_39_years,195146
+Colorado,female,40_to_44_years,173871
+Colorado,female,45_to_49_years,179379
+Colorado,female,50_to_54_years,174866
+Colorado,female,55_to_59_years,187796
+Colorado,female,60_to_64_years,173876
+Colorado,female,65_to_69_years,144876
+Colorado,female,70_to_74_years,104565
+Colorado,female,75_to_79_years,67792
+Colorado,female,80_to_84_years,46325
+Colorado,female,85_years_and_over,54960
+Connecticut,female,Under_5_years,89503
+Connecticut,female,5_to_9_years,97423
+Connecticut,female,10_to_14_years,107988
+Connecticut,female,15_to_19_years,119770
+Connecticut,female,20_to_24_years,119875
+Connecticut,female,25_to_29_years,107181
+Connecticut,female,30_to_34_years,110387
+Connecticut,female,35_to_39_years,109749
+Connecticut,female,40_to_44_years,105987
+Connecticut,female,45_to_49_years,125675
+Connecticut,female,50_to_54_years,138400
+Connecticut,female,55_to_59_years,140362
+Connecticut,female,60_to_64_years,123336
+Connecticut,female,65_to_69_years,99916
+Connecticut,female,70_to_74_years,81251
+Connecticut,female,75_to_79_years,56081
+Connecticut,female,80_to_84_years,42220
+Connecticut,female,85_years_and_over,61280
+Delaware,female,Under_5_years,27116
+Delaware,female,5_to_9_years,28030
+Delaware,female,10_to_14_years,28503
+Delaware,female,15_to_19_years,29906
+Delaware,female,20_to_24_years,29361
+Delaware,female,25_to_29_years,33919
+Delaware,female,30_to_34_years,30558
+Delaware,female,35_to_39_years,29574
+Delaware,female,40_to_44_years,27025
+Delaware,female,45_to_49_years,30992
+Delaware,female,50_to_54_years,34242
+Delaware,female,55_to_59_years,36153
+Delaware,female,60_to_64_years,34638
+Delaware,female,65_to_69_years,31408
+Delaware,female,70_to_74_years,24919
+Delaware,female,75_to_79_years,16682
+Delaware,female,80_to_84_years,11047
+Delaware,female,85_years_and_over,12352
+District of Columbia,female,Under_5_years,22184
+District of Columbia,female,5_to_9_years,18001
+District of Columbia,female,10_to_14_years,13740
+District of Columbia,female,15_to_19_years,19418
+District of Columbia,female,20_to_24_years,29102
+District of Columbia,female,25_to_29_years,44895
+District of Columbia,female,30_to_34_years,41413
+District of Columbia,female,35_to_39_years,30405
+District of Columbia,female,40_to_44_years,21231
+District of Columbia,female,45_to_49_years,19314
+District of Columbia,female,50_to_54_years,18593
+District of Columbia,female,55_to_59_years,18815
+District of Columbia,female,60_to_64_years,18168
+District of Columbia,female,65_to_69_years,15755
+District of Columbia,female,70_to_74_years,11612
+District of Columbia,female,75_to_79_years,8131
+District of Columbia,female,80_to_84_years,5857
+District of Columbia,female,85_years_and_over,8139
+Florida,female,Under_5_years,555832
+Florida,female,5_to_9_years,564078
+Florida,female,10_to_14_years,577916
+Florida,female,15_to_19_years,587833
+Florida,female,20_to_24_years,618724
+Florida,female,25_to_29_years,697702
+Florida,female,30_to_34_years,654015
+Florida,female,35_to_39_years,643110
+Florida,female,40_to_44_years,626815
+Florida,female,45_to_49_years,683559
+Florida,female,50_to_54_years,726919
+Florida,female,55_to_59_years,754742
+Florida,female,60_to_64_years,721830
+Florida,female,65_to_69_years,675701
+Florida,female,70_to_74_years,582447
+Florida,female,75_to_79_years,423245
+Florida,female,80_to_84_years,296971
+Florida,female,85_years_and_over,336142
+Georgia,female,Under_5_years,324076
+Georgia,female,5_to_9_years,339901
+Georgia,female,10_to_14_years,355022
+Georgia,female,15_to_19_years,354918
+Georgia,female,20_to_24_years,351620
+Georgia,female,25_to_29_years,378396
+Georgia,female,30_to_34_years,355148
+Georgia,female,35_to_39_years,360108
+Georgia,female,40_to_44_years,347209
+Georgia,female,45_to_49_years,368278
+Georgia,female,50_to_54_years,360639
+Georgia,female,55_to_59_years,350392
+Georgia,female,60_to_64_years,313281
+Georgia,female,65_to_69_years,268738
+Georgia,female,70_to_74_years,204589
+Georgia,female,75_to_79_years,135818
+Georgia,female,80_to_84_years,90403
+Georgia,female,85_years_and_over,95336
+Hawaii,female,Under_5_years,43752
+Hawaii,female,5_to_9_years,42457
+Hawaii,female,10_to_14_years,39563
+Hawaii,female,15_to_19_years,37287
+Hawaii,female,20_to_24_years,41729
+Hawaii,female,25_to_29_years,49533
+Hawaii,female,30_to_34_years,49027
+Hawaii,female,35_to_39_years,46850
+Hawaii,female,40_to_44_years,41498
+Hawaii,female,45_to_49_years,43342
+Hawaii,female,50_to_54_years,44267
+Hawaii,female,55_to_59_years,46578
+Hawaii,female,60_to_64_years,46672
+Hawaii,female,65_to_69_years,42164
+Hawaii,female,70_to_74_years,32723
+Hawaii,female,75_to_79_years,21704
+Hawaii,female,80_to_84_years,16356
+Hawaii,female,85_years_and_over,25949
+Idaho,female,Under_5_years,57373
+Idaho,female,5_to_9_years,60310
+Idaho,female,10_to_14_years,62542
+Idaho,female,15_to_19_years,59434
+Idaho,female,20_to_24_years,53648
+Idaho,female,25_to_29_years,56481
+Idaho,female,30_to_34_years,54400
+Idaho,female,35_to_39_years,55557
+Idaho,female,40_to_44_years,49421
+Idaho,female,45_to_49_years,49647
+Idaho,female,50_to_54_years,49986
+Idaho,female,55_to_59_years,54852
+Idaho,female,60_to_64_years,53222
+Idaho,female,65_to_69_years,46691
+Idaho,female,70_to_74_years,35524
+Idaho,female,75_to_79_years,23959
+Idaho,female,80_to_84_years,15833
+Idaho,female,85_years_and_over,17605
+Illinois,female,Under_5_years,377795
+Illinois,female,5_to_9_years,387212
+Illinois,female,10_to_14_years,404458
+Illinois,female,15_to_19_years,408244
+Illinois,female,20_to_24_years,425727
+Illinois,female,25_to_29_years,445164
+Illinois,female,30_to_34_years,432355
+Illinois,female,35_to_39_years,425670
+Illinois,female,40_to_44_years,394867
+Illinois,female,45_to_49_years,420728
+Illinois,female,50_to_54_years,430410
+Illinois,female,55_to_59_years,450310
+Illinois,female,60_to_64_years,408475
+Illinois,female,65_to_69_years,339099
+Illinois,female,70_to_74_years,258297
+Illinois,female,75_to_79_years,187460
+Illinois,female,80_to_84_years,136466
+Illinois,female,85_years_and_over,176808
+Indiana,female,Under_5_years,205085
+Indiana,female,5_to_9_years,211345
+Indiana,female,10_to_14_years,217903
+Indiana,female,15_to_19_years,223054
+Indiana,female,20_to_24_years,231403
+Indiana,female,25_to_29_years,223686
+Indiana,female,30_to_34_years,208517
+Indiana,female,35_to_39_years,210822
+Indiana,female,40_to_44_years,198140
+Indiana,female,45_to_49_years,210403
+Indiana,female,50_to_54_years,219001
+Indiana,female,55_to_59_years,232349
+Indiana,female,60_to_64_years,214293
+Indiana,female,65_to_69_years,180763
+Indiana,female,70_to_74_years,137174
+Indiana,female,75_to_79_years,98565
+Indiana,female,80_to_84_years,70657
+Indiana,female,85_years_and_over,86563
+Iowa,female,Under_5_years,97192
+Iowa,female,5_to_9_years,98868
+Iowa,female,10_to_14_years,100938
+Iowa,female,15_to_19_years,104979
+Iowa,female,20_to_24_years,110509
+Iowa,female,25_to_29_years,97340
+Iowa,female,30_to_34_years,95620
+Iowa,female,35_to_39_years,97879
+Iowa,female,40_to_44_years,85951
+Iowa,female,45_to_49_years,91634
+Iowa,female,50_to_54_years,97695
+Iowa,female,55_to_59_years,109344
+Iowa,female,60_to_64_years,101647
+Iowa,female,65_to_69_years,86409
+Iowa,female,70_to_74_years,64678
+Iowa,female,75_to_79_years,48981
+Iowa,female,80_to_84_years,38576
+Iowa,female,85_years_and_over,52738
+Kansas,female,Under_5_years,94709
+Kansas,female,5_to_9_years,97539
+Kansas,female,10_to_14_years,98015
+Kansas,female,15_to_19_years,96711
+Kansas,female,20_to_24_years,102116
+Kansas,female,25_to_29_years,92831
+Kansas,female,30_to_34_years,93590
+Kansas,female,35_to_39_years,92005
+Kansas,female,40_to_44_years,81353
+Kansas,female,45_to_49_years,83832
+Kansas,female,50_to_54_years,88946
+Kansas,female,55_to_59_years,99094
+Kansas,female,60_to_64_years,92034
+Kansas,female,65_to_69_years,75893
+Kansas,female,70_to_74_years,57113
+Kansas,female,75_to_79_years,41372
+Kansas,female,80_to_84_years,31677
+Kansas,female,85_years_and_over,42337
+Kentucky,female,Under_5_years,134750
+Kentucky,female,5_to_9_years,135281
+Kentucky,female,10_to_14_years,139244
+Kentucky,female,15_to_19_years,140011
+Kentucky,female,20_to_24_years,145649
+Kentucky,female,25_to_29_years,150402
+Kentucky,female,30_to_34_years,136646
+Kentucky,female,35_to_39_years,141288
+Kentucky,female,40_to_44_years,134476
+Kentucky,female,45_to_49_years,145115
+Kentucky,female,50_to_54_years,151952
+Kentucky,female,55_to_59_years,159826
+Kentucky,female,60_to_64_years,148449
+Kentucky,female,65_to_69_years,127851
+Kentucky,female,70_to_74_years,98059
+Kentucky,female,75_to_79_years,69781
+Kentucky,female,80_to_84_years,47912
+Kentucky,female,85_years_and_over,53179
+Louisiana,female,Under_5_years,153069
+Louisiana,female,5_to_9_years,150183
+Louisiana,female,10_to_14_years,150117
+Louisiana,female,15_to_19_years,146946
+Louisiana,female,20_to_24_years,156533
+Louisiana,female,25_to_29_years,175232
+Louisiana,female,30_to_34_years,164800
+Louisiana,female,35_to_39_years,156523
+Louisiana,female,40_to_44_years,136072
+Louisiana,female,45_to_49_years,143695
+Louisiana,female,50_to_54_years,153479
+Louisiana,female,55_to_59_years,163925
+Louisiana,female,60_to_64_years,152292
+Louisiana,female,65_to_69_years,127269
+Louisiana,female,70_to_74_years,96249
+Louisiana,female,75_to_79_years,68320
+Louisiana,female,80_to_84_years,47595
+Louisiana,female,85_years_and_over,52588
+Maine,female,Under_5_years,31249
+Maine,female,5_to_9_years,33406
+Maine,female,10_to_14_years,35696
+Maine,female,15_to_19_years,38473
+Maine,female,20_to_24_years,37439
+Maine,female,25_to_29_years,39529
+Maine,female,30_to_34_years,39264
+Maine,female,35_to_39_years,38998
+Maine,female,40_to_44_years,37832
+Maine,female,45_to_49_years,44772
+Maine,female,50_to_54_years,50356
+Maine,female,55_to_59_years,55732
+Maine,female,60_to_64_years,53448
+Maine,female,65_to_69_years,47028
+Maine,female,70_to_74_years,35266
+Maine,female,75_to_79_years,24071
+Maine,female,80_to_84_years,17485
+Maine,female,85_years_and_over,21343
+Maryland,female,Under_5_years,179481
+Maryland,female,5_to_9_years,183334
+Maryland,female,10_to_14_years,184885
+Maryland,female,15_to_19_years,188265
+Maryland,female,20_to_24_years,189678
+Maryland,female,25_to_29_years,210016
+Maryland,female,30_to_34_years,211334
+Maryland,female,35_to_39_years,205159
+Maryland,female,40_to_44_years,188834
+Maryland,female,45_to_49_years,212447
+Maryland,female,50_to_54_years,225689
+Maryland,female,55_to_59_years,226387
+Maryland,female,60_to_64_years,198831
+Maryland,female,65_to_69_years,164735
+Maryland,female,70_to_74_years,125762
+Maryland,female,75_to_79_years,86287
+Maryland,female,80_to_84_years,60082
+Maryland,female,85_years_and_over,76817
+Massachusetts,female,Under_5_years,176589
+Massachusetts,female,5_to_9_years,180974
+Massachusetts,female,10_to_14_years,191473
+Massachusetts,female,15_to_19_years,226569
+Massachusetts,female,20_to_24_years,247031
+Massachusetts,female,25_to_29_years,247423
+Massachusetts,female,30_to_34_years,237813
+Massachusetts,female,35_to_39_years,218232
+Massachusetts,female,40_to_44_years,204744
+Massachusetts,female,45_to_49_years,234305
+Massachusetts,female,50_to_54_years,251840
+Massachusetts,female,55_to_59_years,254590
+Massachusetts,female,60_to_64_years,229360
+Massachusetts,female,65_to_69_years,192848
+Massachusetts,female,70_to_74_years,148957
+Massachusetts,female,75_to_79_years,102281
+Massachusetts,female,80_to_84_years,77246
+Massachusetts,female,85_years_and_over,107179
+Michigan,female,Under_5_years,280196
+Michigan,female,5_to_9_years,287203
+Michigan,female,10_to_14_years,304083
+Michigan,female,15_to_19_years,323738
+Michigan,female,20_to_24_years,342820
+Michigan,female,25_to_29_years,330759
+Michigan,female,30_to_34_years,294358
+Michigan,female,35_to_39_years,297864
+Michigan,female,40_to_44_years,284759
+Michigan,female,45_to_49_years,324169
+Michigan,female,50_to_54_years,344964
+Michigan,female,55_to_59_years,370526
+Michigan,female,60_to_64_years,349807
+Michigan,female,65_to_69_years,294462
+Michigan,female,70_to_74_years,222007
+Michigan,female,75_to_79_years,155671
+Michigan,female,80_to_84_years,111342
+Michigan,female,85_years_and_over,139831
+Minnesota,female,Under_5_years,173439
+Minnesota,female,5_to_9_years,176223
+Minnesota,female,10_to_14_years,179935
+Minnesota,female,15_to_19_years,174958
+Minnesota,female,20_to_24_years,179390
+Minnesota,female,25_to_29_years,180704
+Minnesota,female,30_to_34_years,189679
+Minnesota,female,35_to_39_years,184352
+Minnesota,female,40_to_44_years,157723
+Minnesota,female,45_to_49_years,170302
+Minnesota,female,50_to_54_years,184079
+Minnesota,female,55_to_59_years,200029
+Minnesota,female,60_to_64_years,177936
+Minnesota,female,65_to_69_years,146932
+Minnesota,female,70_to_74_years,108708
+Minnesota,female,75_to_79_years,78585
+Minnesota,female,80_to_84_years,58390
+Minnesota,female,85_years_and_over,78396
+Mississippi,female,Under_5_years,92007
+Mississippi,female,5_to_9_years,97219
+Mississippi,female,10_to_14_years,100151
+Mississippi,female,15_to_19_years,101191
+Mississippi,female,20_to_24_years,103367
+Mississippi,female,25_to_29_years,104073
+Mississippi,female,30_to_34_years,95348
+Mississippi,female,35_to_39_years,96987
+Mississippi,female,40_to_44_years,90778
+Mississippi,female,45_to_49_years,95996
+Mississippi,female,50_to_54_years,98078
+Mississippi,female,55_to_59_years,104374
+Mississippi,female,60_to_64_years,97578
+Mississippi,female,65_to_69_years,83076
+Mississippi,female,70_to_74_years,64105
+Mississippi,female,75_to_79_years,46521
+Mississippi,female,80_to_84_years,32504
+Mississippi,female,85_years_and_over,34869
+Missouri,female,Under_5_years,182682
+Missouri,female,5_to_9_years,185963
+Missouri,female,10_to_14_years,191176
+Missouri,female,15_to_19_years,191316
+Missouri,female,20_to_24_years,202180
+Missouri,female,25_to_29_years,209567
+Missouri,female,30_to_34_years,199156
+Missouri,female,35_to_39_years,194232
+Missouri,female,40_to_44_years,175324
+Missouri,female,45_to_49_years,189181
+Missouri,female,50_to_54_years,202011
+Missouri,female,55_to_59_years,221726
+Missouri,female,60_to_64_years,204132
+Missouri,female,65_to_69_years,173787
+Missouri,female,70_to_74_years,135240
+Missouri,female,75_to_79_years,97636
+Missouri,female,80_to_84_years,70591
+Missouri,female,85_years_and_over,85396
+Montana,female,Under_5_years,30798
+Montana,female,5_to_9_years,31017
+Montana,female,10_to_14_years,31262
+Montana,female,15_to_19_years,30363
+Montana,female,20_to_24_years,34367
+Montana,female,25_to_29_years,33372
+Montana,female,30_to_34_years,32191
+Montana,female,35_to_39_years,31839
+Montana,female,40_to_44_years,27957
+Montana,female,45_to_49_years,29262
+Montana,female,50_to_54_years,32123
+Montana,female,55_to_59_years,38706
+Montana,female,60_to_64_years,39185
+Montana,female,65_to_69_years,33177
+Montana,female,70_to_74_years,24021
+Montana,female,75_to_79_years,16508
+Montana,female,80_to_84_years,11441
+Montana,female,85_years_and_over,13948
+Nebraska,female,Under_5_years,64664
+Nebraska,female,5_to_9_years,64770
+Nebraska,female,10_to_14_years,64762
+Nebraska,female,15_to_19_years,63964
+Nebraska,female,20_to_24_years,67285
+Nebraska,female,25_to_29_years,60935
+Nebraska,female,30_to_34_years,62755
+Nebraska,female,35_to_39_years,61458
+Nebraska,female,40_to_44_years,53775
+Nebraska,female,45_to_49_years,54372
+Nebraska,female,50_to_54_years,57270
+Nebraska,female,55_to_59_years,63823
+Nebraska,female,60_to_64_years,59014
+Nebraska,female,65_to_69_years,50242
+Nebraska,female,70_to_74_years,36823
+Nebraska,female,75_to_79_years,27045
+Nebraska,female,80_to_84_years,21130
+Nebraska,female,85_years_and_over,27858
+Nevada,female,Under_5_years,90801
+Nevada,female,5_to_9_years,93581
+Nevada,female,10_to_14_years,94910
+Nevada,female,15_to_19_years,86909
+Nevada,female,20_to_24_years,89416
+Nevada,female,25_to_29_years,111106
+Nevada,female,30_to_34_years,105156
+Nevada,female,35_to_39_years,101697
+Nevada,female,40_to_44_years,94865
+Nevada,female,45_to_49_years,99352
+Nevada,female,50_to_54_years,96148
+Nevada,female,55_to_59_years,95985
+Nevada,female,60_to_64_years,92365
+Nevada,female,65_to_69_years,82955
+Nevada,female,70_to_74_years,65765
+Nevada,female,75_to_79_years,42539
+Nevada,female,80_to_84_years,26176
+Nevada,female,85_years_and_over,24564
+New Hampshire,female,Under_5_years,31414
+New Hampshire,female,5_to_9_years,33631
+New Hampshire,female,10_to_14_years,37811
+New Hampshire,female,15_to_19_years,41865
+New Hampshire,female,20_to_24_years,44306
+New Hampshire,female,25_to_29_years,39701
+New Hampshire,female,30_to_34_years,39303
+New Hampshire,female,35_to_39_years,38447
+New Hampshire,female,40_to_44_years,37724
+New Hampshire,female,45_to_49_years,46578
+New Hampshire,female,50_to_54_years,52533
+New Hampshire,female,55_to_59_years,56241
+New Hampshire,female,60_to_64_years,50156
+New Hampshire,female,65_to_69_years,41683
+New Hampshire,female,70_to_74_years,31429
+New Hampshire,female,75_to_79_years,20428
+New Hampshire,female,80_to_84_years,14949
+New Hampshire,female,85_years_and_over,19587
+New Jersey,female,Under_5_years,255234
+New Jersey,female,5_to_9_years,265004
+New Jersey,female,10_to_14_years,277127
+New Jersey,female,15_to_19_years,276014
+New Jersey,female,20_to_24_years,279882
+New Jersey,female,25_to_29_years,286968
+New Jersey,female,30_to_34_years,289914
+New Jersey,female,35_to_39_years,296057
+New Jersey,female,40_to_44_years,286288
+New Jersey,female,45_to_49_years,318911
+New Jersey,female,50_to_54_years,337388
+New Jersey,female,55_to_59_years,335718
+New Jersey,female,60_to_64_years,294659
+New Jersey,female,65_to_69_years,241225
+New Jersey,female,70_to_74_years,193305
+New Jersey,female,75_to_79_years,137771
+New Jersey,female,80_to_84_years,101768
+New Jersey,female,85_years_and_over,135837
+New Mexico,female,Under_5_years,62527
+New Mexico,female,5_to_9_years,67121
+New Mexico,female,10_to_14_years,68679
+New Mexico,female,15_to_19_years,67846
+New Mexico,female,20_to_24_years,68840
+New Mexico,female,25_to_29_years,69164
+New Mexico,female,30_to_34_years,67047
+New Mexico,female,35_to_39_years,64175
+New Mexico,female,40_to_44_years,58214
+New Mexico,female,45_to_49_years,60664
+New Mexico,female,50_to_54_years,64629
+New Mexico,female,55_to_59_years,72711
+New Mexico,female,60_to_64_years,70810
+New Mexico,female,65_to_69_years,63249
+New Mexico,female,70_to_74_years,47916
+New Mexico,female,75_to_79_years,33054
+New Mexico,female,80_to_84_years,22596
+New Mexico,female,85_years_and_over,24684
+New York,female,Under_5_years,568433
+New York,female,5_to_9_years,554799
+New York,female,10_to_14_years,558695
+New York,female,15_to_19_years,600098
+New York,female,20_to_24_years,680026
+New York,female,25_to_29_years,762735
+New York,female,30_to_34_years,706031
+New York,female,35_to_39_years,650645
+New York,female,40_to_44_years,601518
+New York,female,45_to_49_years,661197
+New York,female,50_to_54_years,705026
+New York,female,55_to_59_years,713765
+New York,female,60_to_64_years,642095
+New York,female,65_to_69_years,544219
+New York,female,70_to_74_years,424083
+New York,female,75_to_79_years,307711
+New York,female,80_to_84_years,228531
+New York,female,85_years_and_over,302330
+North Carolina,female,Under_5_years,298253
+North Carolina,female,5_to_9_years,310665
+North Carolina,female,10_to_14_years,322735
+North Carolina,female,15_to_19_years,331778
+North Carolina,female,20_to_24_years,334435
+North Carolina,female,25_to_29_years,357172
+North Carolina,female,30_to_34_years,332287
+North Carolina,female,35_to_39_years,334237
+North Carolina,female,40_to_44_years,326748
+North Carolina,female,45_to_49_years,356429
+North Carolina,female,50_to_54_years,353227
+North Carolina,female,55_to_59_years,359507
+North Carolina,female,60_to_64_years,336223
+North Carolina,female,65_to_69_years,297283
+North Carolina,female,70_to_74_years,232306
+North Carolina,female,75_to_79_years,157239
+North Carolina,female,80_to_84_years,110415
+North Carolina,female,85_years_and_over,121042
+North Dakota,female,Under_5_years,26497
+North Dakota,female,5_to_9_years,24218
+North Dakota,female,10_to_14_years,22587
+North Dakota,female,15_to_19_years,22705
+North Dakota,female,20_to_24_years,30303
+North Dakota,female,25_to_29_years,27373
+North Dakota,female,30_to_34_years,24578
+North Dakota,female,35_to_39_years,22682
+North Dakota,female,40_to_44_years,18641
+North Dakota,female,45_to_49_years,19015
+North Dakota,female,50_to_54_years,21014
+North Dakota,female,55_to_59_years,24376
+North Dakota,female,60_to_64_years,22636
+North Dakota,female,65_to_69_years,17635
+North Dakota,female,70_to_74_years,13187
+North Dakota,female,75_to_79_years,9857
+North Dakota,female,80_to_84_years,8521
+North Dakota,female,85_years_and_over,12269
+Ohio,female,Under_5_years,341599
+Ohio,female,5_to_9_years,346324
+Ohio,female,10_to_14_years,361409
+Ohio,female,15_to_19_years,374594
+Ohio,female,20_to_24_years,376337
+Ohio,female,25_to_29_years,394315
+Ohio,female,30_to_34_years,363259
+Ohio,female,35_to_39_years,358962
+Ohio,female,40_to_44_years,335818
+Ohio,female,45_to_49_years,375535
+Ohio,female,50_to_54_years,393842
+Ohio,female,55_to_59_years,429895
+Ohio,female,60_to_64_years,402081
+Ohio,female,65_to_69_years,341182
+Ohio,female,70_to_74_years,255681
+Ohio,female,75_to_79_years,187924
+Ohio,female,80_to_84_years,137541
+Ohio,female,85_years_and_over,169211
+Oklahoma,female,Under_5_years,128753
+Oklahoma,female,5_to_9_years,131572
+Oklahoma,female,10_to_14_years,131063
+Oklahoma,female,15_to_19_years,127864
+Oklahoma,female,20_to_24_years,131774
+Oklahoma,female,25_to_29_years,138274
+Oklahoma,female,30_to_34_years,130846
+Oklahoma,female,35_to_39_years,126781
+Oklahoma,female,40_to_44_years,113212
+Oklahoma,female,45_to_49_years,116031
+Oklahoma,female,50_to_54_years,119467
+Oklahoma,female,55_to_59_years,131370
+Oklahoma,female,60_to_64_years,122305
+Oklahoma,female,65_to_69_years,103709
+Oklahoma,female,70_to_74_years,82820
+Oklahoma,female,75_to_79_years,59688
+Oklahoma,female,80_to_84_years,42072
+Oklahoma,female,85_years_and_over,45701
+Oregon,female,Under_5_years,114917
+Oregon,female,5_to_9_years,118882
+Oregon,female,10_to_14_years,120194
+Oregon,female,15_to_19_years,120366
+Oregon,female,20_to_24_years,129632
+Oregon,female,25_to_29_years,146156
+Oregon,female,30_to_34_years,143258
+Oregon,female,35_to_39_years,142805
+Oregon,female,40_to_44_years,128182
+Oregon,female,45_to_49_years,130282
+Oregon,female,50_to_54_years,126653
+Oregon,female,55_to_59_years,140593
+Oregon,female,60_to_64_years,143826
+Oregon,female,65_to_69_years,129014
+Oregon,female,70_to_74_years,96802
+Oregon,female,75_to_79_years,63280
+Oregon,female,80_to_84_years,42076
+Oregon,female,85_years_and_over,52869
+Pennsylvania,female,Under_5_years,346569
+Pennsylvania,female,5_to_9_years,356298
+Pennsylvania,female,10_to_14_years,368969
+Pennsylvania,female,15_to_19_years,399719
+Pennsylvania,female,20_to_24_years,409452
+Pennsylvania,female,25_to_29_years,426344
+Pennsylvania,female,30_to_34_years,403574
+Pennsylvania,female,35_to_39_years,384857
+Pennsylvania,female,40_to_44_years,359775
+Pennsylvania,female,45_to_49_years,412831
+Pennsylvania,female,50_to_54_years,447755
+Pennsylvania,female,55_to_59_years,480859
+Pennsylvania,female,60_to_64_years,452217
+Pennsylvania,female,65_to_69_years,381859
+Pennsylvania,female,70_to_74_years,297657
+Pennsylvania,female,75_to_79_years,216277
+Pennsylvania,female,80_to_84_years,165756
+Pennsylvania,female,85_years_and_over,223440
+Rhode Island,female,Under_5_years,26716
+Rhode Island,female,5_to_9_years,27134
+Rhode Island,female,10_to_14_years,29084
+Rhode Island,female,15_to_19_years,36449
+Rhode Island,female,20_to_24_years,39130
+Rhode Island,female,25_to_29_years,37298
+Rhode Island,female,30_to_34_years,33990
+Rhode Island,female,35_to_39_years,32209
+Rhode Island,female,40_to_44_years,29996
+Rhode Island,female,45_to_49_years,35166
+Rhode Island,female,50_to_54_years,38916
+Rhode Island,female,55_to_59_years,40472
+Rhode Island,female,60_to_64_years,37007
+Rhode Island,female,65_to_69_years,29919
+Rhode Island,female,70_to_74_years,23370
+Rhode Island,female,75_to_79_years,16285
+Rhode Island,female,80_to_84_years,12473
+Rhode Island,female,85_years_and_over,19034
+South Carolina,female,Under_5_years,143689
+South Carolina,female,5_to_9_years,151876
+South Carolina,female,10_to_14_years,154120
+South Carolina,female,15_to_19_years,157183
+South Carolina,female,20_to_24_years,161521
+South Carolina,female,25_to_29_years,177386
+South Carolina,female,30_to_34_years,159746
+South Carolina,female,35_to_39_years,158912
+South Carolina,female,40_to_44_years,150956
+South Carolina,female,45_to_49_years,164206
+South Carolina,female,50_to_54_years,172206
+South Carolina,female,55_to_59_years,179327
+South Carolina,female,60_to_64_years,175543
+South Carolina,female,65_to_69_years,160466
+South Carolina,female,70_to_74_years,125685
+South Carolina,female,75_to_79_years,82660
+South Carolina,female,80_to_84_years,54434
+South Carolina,female,85_years_and_over,56766
+South Dakota,female,Under_5_years,29916
+South Dakota,female,5_to_9_years,29380
+South Dakota,female,10_to_14_years,28909
+South Dakota,female,15_to_19_years,27226
+South Dakota,female,20_to_24_years,28463
+South Dakota,female,25_to_29_years,27289
+South Dakota,female,30_to_34_years,27118
+South Dakota,female,35_to_39_years,26372
+South Dakota,female,40_to_44_years,22406
+South Dakota,female,45_to_49_years,23216
+South Dakota,female,50_to_54_years,25828
+South Dakota,female,55_to_59_years,29842
+South Dakota,female,60_to_64_years,28409
+South Dakota,female,65_to_69_years,24059
+South Dakota,female,70_to_74_years,16782
+South Dakota,female,75_to_79_years,12026
+South Dakota,female,80_to_84_years,9791
+South Dakota,female,85_years_and_over,13674
+Tennessee,female,Under_5_years,200090
+Tennessee,female,5_to_9_years,202853
+Tennessee,female,10_to_14_years,208860
+Tennessee,female,15_to_19_years,207240
+Tennessee,female,20_to_24_years,220953
+Tennessee,female,25_to_29_years,242464
+Tennessee,female,30_to_34_years,218514
+Tennessee,female,35_to_39_years,216812
+Tennessee,female,40_to_44_years,206534
+Tennessee,female,45_to_49_years,224779
+Tennessee,female,50_to_54_years,230360
+Tennessee,female,55_to_59_years,236522
+Tennessee,female,60_to_64_years,223177
+Tennessee,female,65_to_69_years,193541
+Tennessee,female,70_to_74_years,150958
+Tennessee,female,75_to_79_years,105290
+Tennessee,female,80_to_84_years,72623
+Tennessee,female,85_years_and_over,78448
+Texas,female,Under_5_years,993025
+Texas,female,5_to_9_years,1000805
+Texas,female,10_to_14_years,1012736
+Texas,female,15_to_19_years,978094
+Texas,female,20_to_24_years,962303
+Texas,female,25_to_29_years,1035086
+Texas,female,30_to_34_years,1009319
+Texas,female,35_to_39_years,982601
+Texas,female,40_to_44_years,918452
+Texas,female,45_to_49_years,917835
+Texas,female,50_to_54_years,868571
+Texas,female,55_to_59_years,867324
+Texas,female,60_to_64_years,772451
+Texas,female,65_to_69_years,633332
+Texas,female,70_to_74_years,478713
+Texas,female,75_to_79_years,327494
+Texas,female,80_to_84_years,230583
+Texas,female,85_years_and_over,254079
+Utah,female,Under_5_years,124123
+Utah,female,5_to_9_years,125974
+Utah,female,10_to_14_years,127051
+Utah,female,15_to_19_years,118837
+Utah,female,20_to_24_years,123890
+Utah,female,25_to_29_years,117124
+Utah,female,30_to_34_years,107879
+Utah,female,35_to_39_years,112466
+Utah,female,40_to_44_years,94928
+Utah,female,45_to_49_years,82494
+Utah,female,50_to_54_years,74699
+Utah,female,55_to_59_years,78738
+Utah,female,60_to_64_years,72282
+Utah,female,65_to_69_years,59750
+Utah,female,70_to_74_years,45212
+Utah,female,75_to_79_years,30996
+Utah,female,80_to_84_years,21624
+Utah,female,85_years_and_over,22078
+Vermont,female,Under_5_years,14469
+Vermont,female,5_to_9_years,15217
+Vermont,female,10_to_14_years,16429
+Vermont,female,15_to_19_years,20438
+Vermont,female,20_to_24_years,22429
+Vermont,female,25_to_29_years,17640
+Vermont,female,30_to_34_years,18180
+Vermont,female,35_to_39_years,18175
+Vermont,female,40_to_44_years,16992
+Vermont,female,45_to_49_years,20054
+Vermont,female,50_to_54_years,22579
+Vermont,female,55_to_59_years,25367
+Vermont,female,60_to_64_years,24227
+Vermont,female,65_to_69_years,20687
+Vermont,female,70_to_74_years,15694
+Vermont,female,75_to_79_years,10274
+Vermont,female,80_to_84_years,7206
+Vermont,female,85_years_and_over,9344
+Virginia,female,Under_5_years,249839
+Virginia,female,5_to_9_years,252410
+Virginia,female,10_to_14_years,257113
+Virginia,female,15_to_19_years,265153
+Virginia,female,20_to_24_years,280468
+Virginia,female,25_to_29_years,294960
+Virginia,female,30_to_34_years,290404
+Virginia,female,35_to_39_years,285670
+Virginia,female,40_to_44_years,264513
+Virginia,female,45_to_49_years,287360
+Virginia,female,50_to_54_years,298165
+Virginia,female,55_to_59_years,299611
+Virginia,female,60_to_64_years,269081
+Virginia,female,65_to_69_years,227762
+Virginia,female,70_to_74_years,178395
+Virginia,female,75_to_79_years,121475
+Virginia,female,80_to_84_years,83789
+Virginia,female,85_years_and_over,97125
+Washington,female,Under_5_years,223395
+Washington,female,5_to_9_years,226827
+Washington,female,10_to_14_years,221744
+Washington,female,15_to_19_years,216216
+Washington,female,20_to_24_years,229578
+Washington,female,25_to_29_years,274047
+Washington,female,30_to_34_years,265845
+Washington,female,35_to_39_years,253594
+Washington,female,40_to_44_years,225474
+Washington,female,45_to_49_years,235643
+Washington,female,50_to_54_years,234285
+Washington,female,55_to_59_years,249766
+Washington,female,60_to_64_years,239781
+Washington,female,65_to_69_years,204546
+Washington,female,70_to_74_years,152852
+Washington,female,75_to_79_years,97924
+Washington,female,80_to_84_years,66807
+Washington,female,85_years_and_over,83946
+Washington,female,Under_5_years,223395
+Washington,female,5_to_9_years,226827
+Washington,female,10_to_14_years,221744
+Washington,female,15_to_19_years,216216
+Washington,female,20_to_24_years,229578
+Washington,female,25_to_29_years,274047
+Washington,female,30_to_34_years,265845
+Washington,female,35_to_39_years,253594
+Washington,female,40_to_44_years,225474
+Washington,female,45_to_49_years,235643
+Washington,female,50_to_54_years,234285
+Washington,female,55_to_59_years,249766
+Washington,female,60_to_64_years,239781
+Washington,female,65_to_69_years,204546
+Washington,female,70_to_74_years,152852
+Washington,female,75_to_79_years,97924
+Washington,female,80_to_84_years,66807
+Washington,female,85_years_and_over,83946
+West Virginia,female,Under_5_years,48113
+West Virginia,female,5_to_9_years,49755
+West Virginia,female,10_to_14_years,50892
+West Virginia,female,15_to_19_years,52305
+West Virginia,female,20_to_24_years,55830
+West Virginia,female,25_to_29_years,55097
+West Virginia,female,30_to_34_years,50271
+West Virginia,female,35_to_39_years,54758
+West Virginia,female,40_to_44_years,53993
+West Virginia,female,45_to_49_years,58446
+West Virginia,female,50_to_54_years,61041
+West Virginia,female,55_to_59_years,67304
+West Virginia,female,60_to_64_years,67323
+West Virginia,female,65_to_69_years,61951
+West Virginia,female,70_to_74_years,46308
+West Virginia,female,75_to_79_years,33685
+West Virginia,female,80_to_84_years,24172
+West Virginia,female,85_years_and_over,25993
+Wisconsin,female,Under_5_years,164166
+Wisconsin,female,5_to_9_years,172527
+Wisconsin,female,10_to_14_years,179858
+Wisconsin,female,15_to_19_years,186254
+Wisconsin,female,20_to_24_years,197742
+Wisconsin,female,25_to_29_years,176576
+Wisconsin,female,30_to_34_years,180338
+Wisconsin,female,35_to_39_years,180468
+Wisconsin,female,40_to_44_years,162441
+Wisconsin,female,45_to_49_years,179081
+Wisconsin,female,50_to_54_years,200294
+Wisconsin,female,55_to_59_years,216194
+Wisconsin,female,60_to_64_years,195812
+Wisconsin,female,65_to_69_years,163786
+Wisconsin,female,70_to_74_years,120833
+Wisconsin,female,75_to_79_years,87040
+Wisconsin,female,80_to_84_years,65038
+Wisconsin,female,85_years_and_over,84297
+Wyoming,female,Under_5_years,17899
+Wyoming,female,5_to_9_years,19020
+Wyoming,female,10_to_14_years,18800
+Wyoming,female,15_to_19_years,17250
+Wyoming,female,20_to_24_years,17946
+Wyoming,female,25_to_29_years,18891
+Wyoming,female,30_to_34_years,19268
+Wyoming,female,35_to_39_years,18427
+Wyoming,female,40_to_44_years,15958
+Wyoming,female,45_to_49_years,15758
+Wyoming,female,50_to_54_years,16790
+Wyoming,female,55_to_59_years,20122
+Wyoming,female,60_to_64_years,20001
+Wyoming,female,65_to_69_years,16072
+Wyoming,female,70_to_74_years,11639
+Wyoming,female,75_to_79_years,7964
+Wyoming,female,80_to_84_years,5530
+Wyoming,female,85_years_and_over,6542
+Puerto Rico,female,Under_5_years,346569
+Puerto Rico,female,5_to_9_years,356298
+Puerto Rico,female,10_to_14_years,368969
+Puerto Rico,female,15_to_19_years,399719
+Puerto Rico,female,20_to_24_years,409452
+Puerto Rico,female,25_to_29_years,426344
+Puerto Rico,female,30_to_34_years,403574
+Puerto Rico,female,35_to_39_years,384857
+Puerto Rico,female,40_to_44_years,359775
+Puerto Rico,female,45_to_49_years,412831
+Puerto Rico,female,50_to_54_years,447755
+Puerto Rico,female,55_to_59_years,480859
+Puerto Rico,female,60_to_64_years,452217
+Puerto Rico,female,65_to_69_years,381859
+Puerto Rico,female,70_to_74_years,297657
+Puerto Rico,female,75_to_79_years,216277
+Puerto Rico,female,80_to_84_years,165756
+Puerto Rico,female,85_years_and_over,223440
