@@ -51,7 +51,7 @@ The [Coordinate Data:](https://www.kaggle.com/washimahmed/usa-latlong-for-state-
 
 ## Technology Used
 
-<img src="https://cdn-images-1.medium.com/max/439/1*TN3K15kcQUDYPsl8SM5DcA.png" width="240" height="75"/>
+<img src="https://cdn-images-1.medium.com/max/439/1*TN3K15kcQUDYPsl8SM5DcA.png" width="240" height="85"/>
 
 <img src="https://raw.githubusercontent.com/david880110/tech-logo/master/python%20logo.png" width="240" height="50"/>
 
