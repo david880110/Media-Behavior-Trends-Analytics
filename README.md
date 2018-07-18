@@ -31,6 +31,14 @@
 
 ## Proposal 
 
+## Findings 
+
+(1)
+
+(2)
+
+(3)
+
 ## Data Source
 
 <img src="https://www.niss.org/sites/default/files/affiliate_images/census_bureau_logo.png" width="240" height="80"/>
@@ -44,14 +52,6 @@ The [Demography Data:](https://factfinder.census.gov/faces/tableservices/jsf/pag
 <img src="https://www.kaggle.com/static/images/logos/kaggle-logo-transparent-300.png" width="240" height="80"/>
 
 The [Coordinate Data:](https://www.kaggle.com/washimahmed/usa-latlong-for-state-abbreviations/) is USA latitude and longitude for state abbreviations retreived from Kaggle
-
-## Findings 
-
-(1)
-
-(2)
-
-(3)
 
 ## Technology Used
 
