@@ -16,6 +16,16 @@
 
 ## Story 
 
+We are a group of data enthusiast from various background including business, media marketing, statistics and engineering who aim to 
+
+* Use demographic, psychographic, attitudinal, and behavioral data to refine consumer targets and inform engagement strategies
+
+* Brings consumer targets to life with vivid and complete profiles, including lifestyles, attitudes, brand preferences and media use
+
+* Generate geographic nuances of consumers in all of America’s media markets, including purchase behavior, attitudes, lifestyles and much more.
+
+* Develop a unique, media-neutral machine learning metric for detecting consumer trends in terms of planning, buying and selling
+
 |            Generation   Name           | Births Start | Births End | Age as of 2018 |
 |:--------------------------------------:|:------------:|:----------:|:--------------:|
 |        The   Greatest Generation       |     1910     |    1924    |    94 - 108    |
