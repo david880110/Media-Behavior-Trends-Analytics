@@ -4,6 +4,8 @@
 
 # Datakenstein
 
+![alt text](https://raw.githubusercontent.com/david880110/Consumer-Behavior-Analytics/master/image/Frankenselfie-Logomoose.png)
+
 ## Contributors (In Alphabetical Order):
 
 -   [David Gu](https://www.linkedin.com/in/thatmandavid-gu-a0806b5a/)
