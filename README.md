@@ -4,7 +4,7 @@
 
 # Datakenstein
 
-<img src="https://raw.githubusercontent.com/david880110/Consumer-Behavior-Analytics/master/image/Frankenselfie-Logomoose.png" width="200" height="180"/>
+<img src="https://raw.githubusercontent.com/david880110/Consumer-Behavior-Analytics/master/image/Frankenselfie-Logomoose.png" width="200" height="150"/>
 
 ## Contributors (In Alphabetical Order):
 
