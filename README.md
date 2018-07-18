@@ -1,6 +1,8 @@
-# final-project
+# Consumer Behavior Analytics
 
 ![alt text](https://curiousanalysis.files.wordpress.com/2014/06/millennialsfeatured.jpg)
+
+# Datakenstein
 
 ## Contributors (In Alphabetical Order):
 
