@@ -57,7 +57,7 @@ The [____ Data:] is ________
 
 * Note: 
 
-* Limitation:
+* Limitation: District data only
 
 <img src="https://www.niss.org/sites/default/files/affiliate_images/census_bureau_logo.png" width="240" height="80"/>
 
