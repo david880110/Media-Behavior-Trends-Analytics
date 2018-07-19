@@ -1,4 +1,4 @@
-# Consumer Behavior Analytics1
+# Consumer Behavior Analytics
 
 ![alt text](https://curiousanalysis.files.wordpress.com/2014/06/millennialsfeatured.jpg)
 
