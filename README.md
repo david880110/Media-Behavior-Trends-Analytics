@@ -84,8 +84,10 @@ The [Coordinate Data:](https://www.kaggle.com/washimahmed/usa-latlong-for-state-
 (5) API Development: Transform data into json format and deploy into API to support front-end applications
 
 (6) Data Visulization:
-    - (6.1) Front-end Visulization:
-    - (6.2) BI Tool:
+
+    (6.1) Front-end Visulization:
+    
+    (6.2) BI Tool:
 
 ## Technology Used
 
