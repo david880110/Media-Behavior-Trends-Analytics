@@ -1,3 +1,5 @@
+![built with D3](https://img.shields.io/badge/built%20with-D3-yellow.svg)![built with HTML5](https://img.shields.io/badge/built%20with-HTML5-yellowgreen.svg)[![built with javascript](https://img.shields.io/badge/built%20with-javascript-brightgreen.svg)](https://www.python.org/)![built with Python3](https://img.shields.io/badge/built%20with-Python3-red.svg)
+
 # Consumer Behavior Analytics
 
 ![alt text](https://curiousanalysis.files.wordpress.com/2014/06/millennialsfeatured.jpg)
@@ -102,3 +104,6 @@ The [Coordinate Data:](https://www.kaggle.com/washimahmed/usa-latlong-for-state-
 
 <img src="https://raw.githubusercontent.com/david880110/tech-logo/master/sqlite%20logo.png" width="230" height="75"/>
 
+<img src="https://raw.githubusercontent.com/david880110/tech-logo/master/web%20dev%20tech%20logo.jpeg" width="240" height="80"/>
+
+<img src="https://raw.githubusercontent.com/david880110/tech-logo/master/leaflet%20logo.gif" width="240" height="100"/>
