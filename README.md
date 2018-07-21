@@ -42,7 +42,7 @@ We are a group of data enthusiast from various background including business, me
 
 ## Story 
 
-> Nielsen Region DMA (Designated Market Area) regions are the geographic areas in the United States in which local television viewing is measured by The Nielsen Company. The DMA data are essential for any marketer, researcher, or organization seeking to utilize standardized geographic areas within their business.
+> DMA (Designated Market Area) regions are the geographic areas in the United States in which local television viewing is measured by The Nielsen Company. The DMA data are essential for any marketer, researcher, or organization seeking to utilize standardized geographic areas within their business.
 * North East
 * East Central
 * West Central
