@@ -9,7 +9,7 @@
 
 ## Contributors (In Alphabetical Order):
 
--   [David Gu](https://www.linkedin.com/in/thatmandavid-gu-a0806b5a/)
+-   ![alt text](https://media.licdn.com/dms/image/C5103AQGeXUC9DXdBEA/profile-displayphoto-shrink_200_200/0?e=1537401600&v=beta&t=oC5X_aGBHvyw3Q6_sJITvrB1bYP4B06Q76a6JZuoMC4)[David Gu](https://www.linkedin.com/in/thatmandavid-gu-a0806b5a/)
 -   [Yuanyuan (Yoyo) Wu](https://www.linkedin.com/in/yuanyuan-yoyo-wu-442474116/)
 -   [Yinling Wang](pending)
 -   [Weijing Zhang](https://www.linkedin.com/in/weijing-zhang-100839149/)
@@ -42,7 +42,7 @@ We are a group of data enthusiast from various background including business, me
 
 ## Proposal 
 
-## Methodology
+## Methodology: Random Forest Classifier
 
 ![alt text](https://cdn-images-1.medium.com/max/1600/0*tG-IWcxL1jg7RkT0.png)
 
