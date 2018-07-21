@@ -1,4 +1,4 @@
-![built with scikilearn](https://img.shields.io/badge/built%20with-scikilearn-orange.svg)![built with Python3](https://img.shields.io/badge/built%20with-Python3-blue.svg)![built with SQLite](https://img.shields.io/badge/built%20with-SQLite-blue.svg)![built with HTML/JS/CSS](https://img.shields.io/badge/built%20with-HTML/JS/CSS-yellowgreen.svg)![built with leaflet](https://img.shields.io/badge/built%20with-leaflet-brightgreen.svg)]
+![built with scikilearn](https://img.shields.io/badge/built%20with-scikilearn-orange.svg)![built with Python3](https://img.shields.io/badge/built%20with-Python3-blue.svg)![built with SQLite](https://img.shields.io/badge/built%20with-SQLite-blue.svg)![built with HTML/JS/CSS](https://img.shields.io/badge/built%20with-HTML/JS/CSS-yellowgreen.svg)![built with leaflet](https://img.shields.io/badge/built%20with-leaflet-brightgreen.svg)
 # Consumer Behavior Analytics
 
 ![alt text](https://curiousanalysis.files.wordpress.com/2014/06/millennialsfeatured.jpg)
