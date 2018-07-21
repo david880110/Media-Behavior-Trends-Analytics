@@ -5,7 +5,7 @@
 
 # Group Name: Datakenstein 
 
-<img src="https://raw.githubusercontent.com/david880110/Consumer-Behavior-Analytics/master/image/Frankenselfie-Logomoose.png" width="120" height="80"/>
+<img src="https://raw.githubusercontent.com/david880110/Consumer-Behavior-Analytics/master/image/Frankenselfie-Logomoose.png" width="120" height="100"/>
 
 ## Contributors (In Alphabetical Order):
 
