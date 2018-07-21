@@ -10,6 +10,7 @@
 ## Contributors (In Alphabetical Order):
 
 <img src="https://media.licdn.com/dms/image/C5103AQGeXUC9DXdBEA/profile-displayphoto-shrink_100_100/0?e=1537401600&v=beta&t=Usm4q9j8p3SmsXs5SVGLYWyQbaixZIm5uWU5KJ9itsM" width="90" height="90"/>
+
 [David Gu](https://www.linkedin.com/in/thatmandavid-gu-a0806b5a/)
 
 -   [Yuanyuan (Yoyo) Wu](https://www.linkedin.com/in/yuanyuan-yoyo-wu-442474116/)
