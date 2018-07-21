@@ -73,15 +73,20 @@ The [Coordinate Data:](https://www.kaggle.com/washimahmed/usa-latlong-for-state-
 
 ## Process
 
-    (1) Data Retrieval: Obtaining data from data sources
+    (1) Data Retrieval: 
+    Obtaining data from data sources
 
-    (2) Data Engineering: Develop pipelines that prepare and transform data for Machine Learning, front-end engineering, and tableau usage
+    (2) Data Engineering: 
+    Develop pipelines that prepare and transform data for Machine Learning, front-end engineering, and tableau usage
 
-    (3) Database Engineering: Design and maintain a database that provides informative and relevant data for full-stack project usage
+    (3) Database Engineering: 
+    Design and maintain a database that provides informative and relevant data for full-stack project usage
 
-    (4) Data Analytics: Query SQL to analyze and interpret data sets to generate marketing insights and BI reporting
+    (4) Data Analytics: 
+    Query SQL to analyze and interpret data sets to generate marketing insights and BI reporting
 
-    (5) API Development: Transform data into json format and deploy into API to support front-end applications
+    (5) API Development: 
+    Transform data into json format and deploy into API to support front-end applications
 
     (6) Data Visulization:
 
