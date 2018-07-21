@@ -1,4 +1,4 @@
-![built with scikilearn](https://img.shields.io/badge/built%20with-scikilearn-blue.svg)![built with Python3](https://img.shields.io/badge/built%20with-Python3-red.svg)![built with D3](https://img.shields.io/badge/built%20with-D3-yellow.svg)![built with HTML5](https://img.shields.io/badge/built%20with-HTML5-yellowgreen.svg)[![built with javascript](https://img.shields.io/badge/built%20with-javascript-brightgreen.svg)](https://www.python.org/)
+![built with scikilearn](https://img.shields.io/badge/built%20with-scikilearn-orange.svg)![built with Python3](https://img.shields.io/badge/built%20with-Python3-blue.svg)![built with D3](https://img.shields.io/badge/built%20with-D3-yellow.svg)![built with HTML5](https://img.shields.io/badge/built%20with-HTML5-yellowgreen.svg)[![built with javascript](https://img.shields.io/badge/built%20with-javascript-brightgreen.svg)](https://www.python.org/)
 
 # Consumer Behavior Analytics
 
