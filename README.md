@@ -71,6 +71,22 @@ The [Demography Data:](https://factfinder.census.gov/faces/tableservices/jsf/pag
 
 The [Coordinate Data:](https://www.kaggle.com/washimahmed/usa-latlong-for-state-abbreviations/) is USA latitude and longitude for state abbreviations retreived from Kaggle
 
+## Process
+
+(1) Pull data from data source
+
+(2) Data Engineering: Develop pipelines that prepare and transform data for Machine Learning, front-end engineering, and tableau usage
+
+(3) Database Engineering: Design and maintain a database that provides informative and relevant data for full-stack project usage
+
+(4) API Development: Deploy API to support front-end applications
+
+(6) Data Analytics:
+
+(7) Data Visulization:
+    (7.1) Front-end Visulization:
+    (7.2) BI:
+
 ## Technology Used
 
 <img src="https://cdn-images-1.medium.com/max/439/1*TN3K15kcQUDYPsl8SM5DcA.png" width="240" height="85"/>
