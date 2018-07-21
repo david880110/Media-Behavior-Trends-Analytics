@@ -99,6 +99,7 @@ The [Coordinate Data:](https://www.kaggle.com/washimahmed/usa-latlong-for-state-
 ## Technology Used
 
 <img src="https://cdn-images-1.medium.com/max/439/1*TN3K15kcQUDYPsl8SM5DcA.png" width="240" height="85"/>
+  > **Scikit-learn** is a free software machine learning library for the Python programming language. It features various classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting, k-means and DBSCAN, and is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy.
 
 <img src="https://raw.githubusercontent.com/david880110/tech-logo/master/python%20logo.png" width="240" height="50"/>
 
