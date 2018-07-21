@@ -63,7 +63,7 @@ The [____ Data:] is ________
 
 <img src="https://www.niss.org/sites/default/files/affiliate_images/census_bureau_logo.png" width="240" height="80"/>
 
-The [Demography Data:](https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?src=bkmk/) is Annual Estimates of the Resident Population for Selected Age Groups by Sex for the United States, States, Counties, and Puerto Rico Commonwealth and Municipios: April 1, 2010 to July 1, 2017 retreived from U.S. Census Bureau, Population Division
+> The [Demography Data:](https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?src=bkmk/) is Annual Estimates of the Resident Population for Selected Age Groups by Sex for the United States, States, Counties, and Puerto Rico Commonwealth and Municipios: April 1, 2010 to July 1, 2017 retreived from U.S. Census Bureau, Population Division
 
 * Note: The estimates are based on the 2010 Census and reflect changes to the April 1, 2010 population due to the Count Question Resolution program and geographic program revisions. Median age is calculated based on single year of age. For population estimates methodology statements, see [here](https://www.census.gov/programs-surveys/popest/technical-documentation/methodology.html)
 
