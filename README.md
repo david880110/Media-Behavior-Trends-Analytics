@@ -55,7 +55,7 @@ We are a group of data enthusiast from various background including business, me
 
 <img src="https://www.simmonsresearch.com/wp-content/uploads/2017/04/simmons_clr_horiz.svg" width="240" height="80"/>
 
-The [____ Data:] is ________
+> The [____ Data:] Simmons Research is the leading provider of consumer profiling, media planning and activation tools.
 
 * Note: 
 
