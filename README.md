@@ -25,7 +25,7 @@
 
 [Weijing Zhang](https://www.linkedin.com/in/weijing-zhang-100839149/) 
 
-<img src="https://media.licdn.com/dms/image/C5103AQGeXUC9DXdBEA/profile-displayphoto-shrink_100_100/0?e=1537401600&v=beta&t=Usm4q9j8p3SmsXs5SVGLYWyQbaixZIm5uWU5KJ9itsM" width="90" height="90"/>
+<img src="pending" width="90" height="90"/>
 
 [Xiangyu Zhang](https://www.linkedin.com/in/xiangyu-zhang-13046b155/)
 
