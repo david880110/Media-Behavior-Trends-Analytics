@@ -3,7 +3,7 @@
 
 ![alt text](https://curiousanalysis.files.wordpress.com/2014/06/millennialsfeatured.jpg)
 
-# Group Name: Datakenstein <img src="https://raw.githubusercontent.com/david880110/Consumer-Behavior-Analytics/master/image/Frankenselfie-Logomoose.png" width="100" height="0"/>
+# Group Name: Datakenstein <img src="https://raw.githubusercontent.com/david880110/Consumer-Behavior-Analytics/master/image/Frankenselfie-Logomoose.png" width="100" height="80"/>
 
 ## Contributors (In Alphabetical Order):
 
