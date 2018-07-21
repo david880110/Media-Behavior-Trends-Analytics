@@ -13,10 +13,22 @@
 
 [David Gu](https://www.linkedin.com/in/thatmandavid-gu-a0806b5a/)
 
--   [Yuanyuan (Yoyo) Wu](https://www.linkedin.com/in/yuanyuan-yoyo-wu-442474116/)
--   [Yinling Wang](pending)
--   [Weijing Zhang](https://www.linkedin.com/in/weijing-zhang-100839149/)
--   [Xiangyu Zhang](https://www.linkedin.com/in/xiangyu-zhang-13046b155/)
+<img src="https://media.licdn.com/dms/image/C5103AQHMiIhmJN6irQ/profile-displayphoto-shrink_800_800/0?e=1537401600&v=beta&t=wGxNH7DbU2yA_u1imE23mD47reRhA2Biba3jrN-GpWw" width="90" height="90"/>
+
+[Yuanyuan (Yoyo) Wu](https://www.linkedin.com/in/yuanyuan-yoyo-wu-442474116/)
+
+<img src="pending" width="90" height="90"/>
+
+[Yingling Wang](pending)  
+
+<img src="https://media.licdn.com/dms/image/C5603AQFVs13CewviYQ/profile-displayphoto-shrink_800_800/0?e=1537401600&v=beta&t=zd7PItQMN58B9g94ciaYhPria1qKm598ygYfyuAE4rw" width="90" height="90"/>
+
+[Weijing Zhang](https://www.linkedin.com/in/weijing-zhang-100839149/) 
+
+<img src="https://media.licdn.com/dms/image/C5103AQGeXUC9DXdBEA/profile-displayphoto-shrink_100_100/0?e=1537401600&v=beta&t=Usm4q9j8p3SmsXs5SVGLYWyQbaixZIm5uWU5KJ9itsM" width="90" height="90"/>
+
+[Xiangyu Zhang](https://www.linkedin.com/in/xiangyu-zhang-13046b155/)
+
 
 We are a group of data enthusiast from various background including business, media marketing, statistics and engineering who aim to 
 
