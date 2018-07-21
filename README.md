@@ -104,8 +104,14 @@ The [Coordinate Data:](https://www.kaggle.com/washimahmed/usa-latlong-for-state-
 
 <img src="https://raw.githubusercontent.com/david880110/tech-logo/master/python%20logo.png" width="240" height="50"/>
 
+> Python is an interpreted high-level programming language for general-purpose programming. Created by Guido van Rossum and first released in 1991, Python has a design philosophy that emphasizes code readability, notably using significant whitespace. It provides constructs that enable clear programming on both small and large scales
+
 <img src="https://raw.githubusercontent.com/david880110/tech-logo/master/sqlite%20logo.png" width="230" height="75"/>
+
+> SQLite is a self-contained, high-reliability, embedded, full-featured, public-domain, SQL database engine. SQLite is the most used database engine in the world.
 
 <img src="https://raw.githubusercontent.com/david880110/tech-logo/master/web%20dev%20tech%20logo.jpeg" width="240" height="80"/>
 
 <img src="https://raw.githubusercontent.com/david880110/tech-logo/master/leaflet%20logo.gif" width="240" height="100"/>
+
+> Leaflet is the leading open-source JavaScript library for mobile-friendly interactive maps. Weighing just about 38 KB of JS , it has all the mapping features most developers ever need. Leaflet is designed with simplicity, performance and usability in mind.
