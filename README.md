@@ -21,6 +21,10 @@
 
 [Yingling Wang](https://avatars3.githubusercontent.com/u/35980231?s=460&v=4/)  
 
+<img src="https://media.licdn.com/dms/image/C4E03AQFCb9SJOZ3jlQ/profile-displayphoto-shrink_800_800/0?e=1538006400&v=beta&t=6mvI-BqQWaaqi9Zsz7dIByW85EiioZaILtvPH7UbxFs" width="90" height="90"/>
+
+[Sean Yu](https://www.linkedin.com/in/sean-yu-733205a6/)  
+
 <img src="https://media.licdn.com/dms/image/C5603AQFVs13CewviYQ/profile-displayphoto-shrink_800_800/0?e=1537401600&v=beta&t=zd7PItQMN58B9g94ciaYhPria1qKm598ygYfyuAE4rw" width="90" height="90"/>
 
 [Weijing Zhang](https://www.linkedin.com/in/weijing-zhang-100839149/) 
