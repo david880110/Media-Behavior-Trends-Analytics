@@ -72,6 +72,12 @@ We are a group of data enthusiast from various background including business, me
 
 ## Proposal 
 
+(1)
+
+(2)
+
+(3)
+
 ## Methodology: Random Forest Classifier
 
 ![alt text](https://cdn-images-1.medium.com/max/1600/0*tG-IWcxL1jg7RkT0.png)
