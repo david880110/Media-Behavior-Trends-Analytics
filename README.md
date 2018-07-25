@@ -1,5 +1,5 @@
 # Consumer Behavior Analytics
-![built with scikitlearn](https://img.shields.io/badge/built%20with-scikitlearn-orange.svg)![built with Python3](https://img.shields.io/badge/built%20with-Python3-blue.svg)![built with SQLite](https://img.shields.io/badge/built%20with-SQLite-red.svg)![built with HTML/JS/CSS](https://img.shields.io/badge/built%20with-HTML/JS/CSS-yellow.svg)![built with leaflet](https://img.shields.io/badge/built%20with-leaflet-brightgreen.svg)![built with Flask](https://img.shields.io/badge/built%20with-Flask-lightgrey.svg)
+![built with scikitlearn](https://img.shields.io/badge/built%20with-scikitlearn-orange.svg)  ![built with Python3](https://img.shields.io/badge/built%20with-Python3-blue.svg)![built with SQLite](https://img.shields.io/badge/built%20with-SQLite-red.svg)![built with HTML/JS/CSS](https://img.shields.io/badge/built%20with-HTML/JS/CSS-yellow.svg)![built with leaflet](https://img.shields.io/badge/built%20with-leaflet-brightgreen.svg)![built with Flask](https://img.shields.io/badge/built%20with-Flask-lightgrey.svg)
 
 ![alt text](https://curiousanalysis.files.wordpress.com/2014/06/millennialsfeatured.jpg)
 
@@ -87,7 +87,7 @@ We are a group of data enthusiast from various background including business, me
 =======
 ## Temporate Reference
 
-![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/image/reference.png)
+![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/reference.png)
 
 ## Findings 
 >>>>>>> 71a39f8412b221de2f12fa553ddccee713366866
