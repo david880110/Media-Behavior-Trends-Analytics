@@ -82,6 +82,10 @@ We are a group of data enthusiast from various background including business, me
 
 ![alt text](https://cdn-images-1.medium.com/max/1600/0*tG-IWcxL1jg7RkT0.png)
 
+## Temporate Reference
+
+![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/image/reference.png)
+
 ## Findings 
 
 (1)
