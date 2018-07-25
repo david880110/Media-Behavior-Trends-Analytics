@@ -1,11 +1,11 @@
 # Consumer Behavior Analytics
-![built with scikitlearn](https://img.shields.io/badge/built%20with-scikitlearn-orange.svg)![built with Python3](https://img.shields.io/badge/built%20with-Python3-blue.svg)![built with SQLite](https://img.shields.io/badge/built%20with-SQLite-red.svg)![built with HTML/JS/CSS](https://img.shields.io/badge/built%20with-HTML/JS/CSS-yellow.svg)![built with leaflet](https://img.shields.io/badge/built%20with-leaflet-brightgreen.svg)![built with Flask](https://img.shields.io/badge/built%20with-Flask-lightgrey.svg)
+![built with scikitlearn](https://img.shields.io/badge/built%20with-scikitlearn-orange.svg)  ![built with Python3](https://img.shields.io/badge/built%20with-Python3-blue.svg)    ![built with SQLite](https://img.shields.io/badge/built%20with-SQLite-red.svg)![built with HTML/JS/CSS](https://img.shields.io/badge/built%20with-HTML/JS/CSS-yellow.svg)![built with leaflet](https://img.shields.io/badge/built%20with-leaflet-brightgreen.svg)  ![built with Flask](https://img.shields.io/badge/built%20with-Flask-lightgrey.svg)
 
 ![alt text](https://curiousanalysis.files.wordpress.com/2014/06/millennialsfeatured.jpg)
 
-# Group Name: Datakenstein 
+# Group Name: Datakenstein
 
-<img src="https://raw.githubusercontent.com/david880110/Consumer-Behavior-Analytics/master/image/Frankenselfie-Logomoose.png" width="120" height="100"/>
+<img src="https://raw.githubusercontent.com/david880110/Consumer-Behavior-Analytics/master/images/Frankenselfie-Logomoose.png" width="120" height="100"/>
 
 ## Contributors (In Alphabetical Order):
 
@@ -19,22 +19,22 @@
 
 <img src="https://avatars3.githubusercontent.com/u/35980231?s=460&v=4" width="90" height="90"/>
 
-[Yingling Wang](https://avatars3.githubusercontent.com/u/35980231?s=460&v=4/)  
+[Yingling Wang](https://avatars3.githubusercontent.com/u/35980231?s=460&v=4/)
 
 <img src="https://media.licdn.com/dms/image/C4E03AQFCb9SJOZ3jlQ/profile-displayphoto-shrink_800_800/0?e=1538006400&v=beta&t=6mvI-BqQWaaqi9Zsz7dIByW85EiioZaILtvPH7UbxFs" width="90" height="90"/>
 
-[Sean Yu](https://www.linkedin.com/in/sean-yu-733205a6/)  
+[Sean Yu](https://www.linkedin.com/in/sean-yu-733205a6/)
 
 <img src="https://media.licdn.com/dms/image/C5603AQFVs13CewviYQ/profile-displayphoto-shrink_800_800/0?e=1537401600&v=beta&t=zd7PItQMN58B9g94ciaYhPria1qKm598ygYfyuAE4rw" width="90" height="90"/>
 
-[Weijing Zhang](https://www.linkedin.com/in/weijing-zhang-100839149/) 
+[Weijing Zhang](https://www.linkedin.com/in/weijing-zhang-100839149/)
 
 <img src="pending" width="90" height="90"/>
 
 [Xiangyu Zhang](https://www.linkedin.com/in/xiangyu-zhang-13046b155/)
 
 
-We are a group of data enthusiast from various background including business, media marketing, statistics and engineering who aim to 
+We are a group of data enthusiast from various background including business, media marketing, statistics and engineering who aim to
 
 * Use demographic, psychographic, attitudinal, and behavioral data to refine consumer targets and inform engagement strategies
 
@@ -44,7 +44,7 @@ We are a group of data enthusiast from various background including business, me
 
 * Develop a unique, media-neutral machine learning metric for detecting consumer trends in terms of planning, buying and selling
 
-## Story 
+## Story
 
 > DMA (Designated Market Area) regions are the geographic areas in the United States in which local television viewing is measured by The Nielsen Company. The DMA data are essential for any marketer, researcher, or organization seeking to utilize standardized geographic areas within their business in terms of:
 >- North East
@@ -68,9 +68,31 @@ We are a group of data enthusiast from various background including business, me
 |             iGen /   Gen Z             |     1995     |    2012    |     6 - 23     |
 |               Gen   Alpha              |     2013     |    2025    |      0 - 5     |
 
-![alt text](https://raw.githubusercontent.com/david880110/final-project/master/image/map.png)
+![alt text](https://raw.githubusercontent.com/david880110/final-project/master/images/map.png)
+<<<<<<< HEAD
+
+<<<<<<< HEAD
+## Think before the demo day
+
+- Why did you pick this problem?
+- What was the datset like when you got it?
+- What data cleaning did you have to do?
+
+- Why did you your model?
+- What did you find when the model
+    predictive features
+    Model tuning
+    
+- Why the choice of visualization/display
 
 ## Proposal 
+=======
+## Proposal
+>>>>>>> ead49805bc6c309b2264f41a1949377a0d1d47c5
+=======
+
+## Proposal
+>>>>>>> ead49805bc6c309b2264f41a1949377a0d1d47c5
 
 (1)
 
@@ -82,7 +104,15 @@ We are a group of data enthusiast from various background including business, me
 
 ![alt text](https://cdn-images-1.medium.com/max/1600/0*tG-IWcxL1jg7RkT0.png)
 
+<<<<<<< HEAD
+## Findings
+=======
+## Temporate Reference
+
+![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/reference.png)
+
 ## Findings 
+>>>>>>> 71a39f8412b221de2f12fa553ddccee713366866
 
 (1)
 
@@ -96,7 +126,7 @@ We are a group of data enthusiast from various background including business, me
 
 > The [____ Data:] Simmons Research is the leading provider of consumer profiling, media planning and activation tools.
 
-* Note: 
+* Note:
 
 * Limitation: District data only
 
@@ -114,25 +144,25 @@ The [Coordinate Data:](https://www.kaggle.com/washimahmed/usa-latlong-for-state-
 
 ## Process
 
-    (1) Data Retrieval: 
+    (1) Data Retrieval:
         Obtaining data from data sources
-
-    (2) Data Engineering: 
+    
+    (2) Data Engineering:
         Develop pipelines that prepare and transform data for Machine Learning, front-end engineering, and BI usage
-
-    (3) Database Engineering: 
+    
+    (3) Database Engineering:
         Design and maintain a database that provides informative and relevant data for full-stack project usage
-
-    (4) Data Analytics: 
+    
+    (4) Data Analytics:
         Query SQL to analyze and interpret data sets to generate marketing insights and BI reporting
-
-    (5) API Development: 
+    
+    (5) API Development:
         Transform data into json format and deploy into API to support front-end applications
-
+    
     (6) Data Visulization:
-
+    
         (6.1) Front-end Visulization:
-        
+    
         (6.2) BI Tool:
 
 ## Technology Used
