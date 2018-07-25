@@ -69,6 +69,7 @@ We are a group of data enthusiast from various background including business, me
 |               Gen   Alpha              |     2013     |    2025    |      0 - 5     |
 
 ![alt text](https://raw.githubusercontent.com/david880110/final-project/master/images/map.png)
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 ## Think before the demo day
@@ -86,6 +87,10 @@ We are a group of data enthusiast from various background including business, me
 
 ## Proposal 
 =======
+## Proposal
+>>>>>>> ead49805bc6c309b2264f41a1949377a0d1d47c5
+=======
+
 ## Proposal
 >>>>>>> ead49805bc6c309b2264f41a1949377a0d1d47c5
 
