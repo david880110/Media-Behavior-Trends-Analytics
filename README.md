@@ -68,7 +68,7 @@ We are a group of data enthusiast from various background including business, me
 |             iGen /   Gen Z             |     1995     |    2012    |     6 - 23     |
 |               Gen   Alpha              |     2013     |    2025    |      0 - 5     |
 
-![alt text](https://raw.githubusercontent.com/david880110/final-project/master/image/map.png)
+![alt text](https://raw.githubusercontent.com/david880110/final-project/master/images/map.png)
 
 ## Proposal
 
