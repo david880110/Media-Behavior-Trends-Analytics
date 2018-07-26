@@ -1,12 +1,30 @@
-{'all_live_theater/concerts/dance-attended_last_12_months': '8',
- 'digital_music': '10',
- 'magazine': '4',
- 'movie_goers': '5',
- 'radio': '3',
- 'social_media_[social_media_user]': '9',
- 'streaming_video': '11',
- 'supermarket_goer_last_4_weeks': '6',
- 'tablet_owner': '7',
- 'totals': '0',
- 'tv': '2',
- 'video_game': '1'}
+{
+'totals': '0',
+'video_game': '1',
+'tv': '2',
+'radio': '3',
+'magazine': '4',
+'movie_goers': '5',
+'supermarket_goer_last_4_weeks': '6',
+'tablet_owner': '7',
+'all_live_theater/concerts/dance-attended_last_12_months': '8',
+'social_media_[social_media_user]': '9',
+'digital_music': '10',
+'streaming_video': '11'
+}
+
+{
+'18-24': '18',
+'25-34': '25',
+'35-44': '35',
+'45-54': '45',
+'55+': '55'}
+
+{
+'east_central': '1',
+'north_east': '2',
+'pacific': '3',
+'south': '4',
+'south_east': '5',
+'south_west': '6',
+'west_central': '7'}
