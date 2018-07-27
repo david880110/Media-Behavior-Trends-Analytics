@@ -20,26 +20,35 @@ app = Flask(__name__)
 # Flask Routes
 
 # Website Home Page
-
-
 @app.route('/')
 def welcome():
     return render_template('index.html')
 
 
+# Tableau
+@app.route("/tableau")
+def projectmainpage1():
+    return render_template("tableau.html")
+
+# Project Main Page
 @app.route("/projects")
-def visualization():
+def projectmainpage2():
     return render_template("projects.html")
 
-
-@app.route("/team")
-def visualization():
-    return render_template("meet_the_team.html")
-
-
+# ML Knowleage
 @app.route("/ml_knowledge")
-def visualization():
+def knowledge():
     return render_template("machine_learning.html")
+
+# Acknowledgements
+@app.route("/acknowledgments")
+def acknowledgments():
+    return render_template("acknowledgments.html")
+
+# Team Infos
+@app.route("/meet_the_team")
+def team():
+    return render_template("meet_the_team.html")
 
 
 # ORM Process
