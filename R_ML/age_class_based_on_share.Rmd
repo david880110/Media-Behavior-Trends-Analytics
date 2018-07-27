@@ -35,7 +35,7 @@ metric <- "Accuracy"
 # and use the remaining 20% as validation dataset
 set.seed(1)
 n = nrow(d_class)
-train = sample(1:n, n*0.5)
+train = sample(1:n, n*0.75)
 test = (-train)
 dataset = d_class[train, ]
 validation = d_class[test, ]
@@ -74,13 +74,13 @@ dotplot(results) # Random Forest has the highest accuracy
 ```
 
 ```{r}
-print(fit.rf)
+print(fit.lda)
 ```
 
 ```{r}
-importance <- varImp(fit.rf, scale=FALSE)
+importance = varImp(fit.rf, scale=FALSE)
 print(importance)
-plot(importance)
+#plot(importance)
 ```
 
 
@@ -89,6 +89,20 @@ predictions <- predict(fit.rf, validation)
 print(predictions)
 confusionMatrix(predictions, validation$age_label)
 ```
+
+```{r}
+set.seed(1)
+fit.rf2 <- train(age_label~tv+social_media+radio+video_game+tablet_owner, data=dataset, method="rf", metric=metric, trControl=control)
+predictions <- predict(fit.rf2, validation)
+confusionMatrix(predictions, validation$age_label)
+
+#without "movie_goer",86.79%
+# - last 3, 86.79%
+# - last 4, 88.68%
+# - last 5, 84.91%
+
+```
+
 
 ```{r}
 # 70% and 30%, accuracy: 81.13%
