@@ -27,19 +27,29 @@ def welcome():
     return render_template('index.html')
 
 
+@app.route("/tableau")
+def projectmainpage1():
+    return render_template("tableau.html")
+
+
 @app.route("/projects")
-def projectmainpage():
+def projectmainpage2():
     return render_template("projects.html")
-
-
-@app.route("/meet_the_team")
-def team():
-    return render_template("meet_the_team.html")
 
 
 @app.route("/ml_knowledge")
 def knowledge():
     return render_template("machine_learning.html")
+
+
+@app.route("/acknowledgments")
+def acknowledgments():
+    return render_template("acknowledgments.html")
+
+
+@app.route("/meet_the_team")
+def team():
+    return render_template("meet_the_team.html")
 
 
 # ORM Process
