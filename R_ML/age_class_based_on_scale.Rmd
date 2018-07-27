@@ -12,6 +12,13 @@ library(caret)
 ```
 
 ```{r}
+d_class = read.csv("r_data_18_35_55_scaled.csv")
+```
+
+
+
+```{r}
+
 d_class$age_label = as.factor(d_class$age_label)
 head(d_class)
 ```
@@ -35,7 +42,7 @@ metric <- "Accuracy"
 # and use the remaining 20% as validation dataset
 set.seed(1)
 n = nrow(d_class)
-train = sample(1:n, n*0.5)
+train = sample(1:n, n*0.7)
 test = (-train)
 dataset = d_class[train, ]
 validation = d_class[test, ]
@@ -49,8 +56,8 @@ set.seed(1)
 fit.lda <- train(age_label~., data=dataset, method="lda", metric=metric, trControl=control)
 # b) nonlinear algorithms
 # CART
-#set.seed(1)
-#fit.cart <- train(age_label~., data=dataset, method="rpart", metric=metric, trControl=control)
+set.seed(1)
+fit.cart <- train(age_label~., data=dataset, method="rpart", metric=metric, trControl=control)
 # kNN
 set.seed(1)
 fit.knn <- train(age_label~., data=dataset, method="knn", metric=metric, trControl=control)
@@ -65,7 +72,7 @@ fit.rf <- train(age_label~., data=dataset, method="rf", metric=metric, trControl
 
 ```{r}
 # summarize accuracy of models
-results <- resamples(list(lda=fit.lda, knn=fit.knn, svm=fit.svm, rf=fit.rf))
+results <- resamples(list(lda=fit.lda, cart=fit.cart, knn=fit.knn, svm=fit.svm, rf=fit.rf))
 summary(results)
 ```
 
@@ -78,7 +85,7 @@ print(fit.rf)
 ```
 
 ```{r}
-importance <- varImp(fit.rf, scale=FALSE)
+importance = varImp(fit.rf, scale=FALSE)
 print(importance)
 plot(importance)
 ```
@@ -89,6 +96,22 @@ predictions <- predict(fit.rf, validation)
 print(predictions)
 confusionMatrix(predictions, validation$age_label)
 ```
+
+```{r}
+set.seed(1)
+fit.rf2 <- train(age_label~tv+social_media+video_game+tablet_owner+magazine+all_live, data=dataset, method="rf", metric=metric, trControl=control)
+predictions <- predict(fit.rf2, validation)
+confusionMatrix(predictions, validation$age_label)
+
+#without "movie_goer",86.79%predictions <- predict(fit.rf, validation)
+print(predictions)
+confusionMatrix(predictions, validation$age_label)
+# - last 3, 86.79%
+# - last 4, 88.68%
+# - last 5, 84.91%
+
+```
+
 
 ```{r}
 # 70% and 30%, accuracy: 81.13%
