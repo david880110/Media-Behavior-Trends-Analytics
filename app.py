@@ -28,17 +28,17 @@ def welcome():
 
 
 @app.route("/projects")
-def visualization():
+def projectmainpage():
     return render_template("projects.html")
 
 
-@app.route("/team")
-def visualization():
+@app.route("/meet_the_team")
+def team():
     return render_template("meet_the_team.html")
 
 
 @app.route("/ml_knowledge")
-def visualization():
+def knowledge():
     return render_template("machine_learning.html")
 
 
