@@ -2,17 +2,17 @@ let url = "/api/stacked_chart";
 
 Plotly.d3.json(url, function (err, data) {
     // Create a lookup table to sort and regroup the columns of data,
-    // first by year, then by studio:
+    // first by year, then by population:
     let lookup = {};
-    function getData(year_id, Studio_name) {
+    function getData(year, population) {
     let byYear, trace;
-    if (!(byYear = lookup[year_id])) {;
-            byYear = lookup[year_id] = {};
+    if (!(byYear = lookup[year])) {;
+            byYear = lookup[year] = {};
     }
      // If a container for this year + studio doesn't exist yet,
      // then create one:
-    if (!(trace = byYear[Studio_name])) {
-      trace = byYear[Studio_name] = {
+    if (!(trace = byYear[population])) {
+      trace = byYear[population] = {
         x: [],
         y: [],
         id: [],
@@ -27,11 +27,11 @@ Plotly.d3.json(url, function (err, data) {
     for (let i = 0; i < data.length; i++) {
         let datum = data[i];
         let trace = getData(datum.year_id, datum.Studio_name);
-        trace.text.push(`Studio: ${datum.Studio_name}<br>Total Gross: ${datum.Studio_Gross}<br>Studio_Gross: ${datum.Studio_Gross} %`);
-        trace.id.push(datum.Studio_name);
-        trace.x.push(datum.Studio_Gross);
-        trace.y.push(datum.Percentage);
-        trace.marker.size.push(datum.pop_size);
+        trace.text.push(`Category: ${datum.category}<br>Population: ${datum.population}<br>Age: ${datum.Age} %`);
+        trace.id.push(datum.category);
+        trace.x.push(datum.Age);
+        trace.y.push(datum.Population);
+        trace.marker.size.push(datum.population);
   }
 
     // Get the group names:
@@ -39,20 +39,20 @@ Plotly.d3.json(url, function (err, data) {
     // In this case, every year includes every studio, so we
       // can just infer the studios from the *first* year:
       let firstYear = lookup[years[0]];
-      let studios = Object.keys(firstYear);
+      let category = Object.keys(firstYear);
 
       // Create the main traces, one for each studio:
       let traces = [];
 
-      for (i = 0; i < studios.length; i++) {
-        let data = firstYear[studios[i]];
+      for (i = 0; i < category.length; i++) {
+        let data = firstYear[category[i]];
          // One small note. We're creating a single trace here, to which
          // the frames will pass data for the different year_id. It's
          // subtle, but to avoid data reference problems, we'll slice
          // the arrays to ensure we never write any new data into our
          // lookup table:
         traces.push({
-          name: studios[i],
+          name: category[i],
           x: data.x.slice(),
           y: data.y.slice(),
           id: data.id.slice(),
@@ -74,8 +74,8 @@ Plotly.d3.json(url, function (err, data) {
       for (i = 0; i < years.length; i++) {
         frames.push({
           name: years[i],
-          data: studios.map(function (Studio_name) {
-            return getData(years[i], Studio_name);
+          data: category.map(function (population) {
+            return getData(years[i], population);
           })
         })
       }
@@ -99,16 +99,16 @@ Plotly.d3.json(url, function (err, data) {
 
       let layout = {
         xaxis: {
-          title: 'Box Office',
-          range: [0, 3000000000]
+          title: 'Age',
+          range: [0, 100]
         },
         yaxis: {
-          title: 'Market Share per Studio',
-          range: [0, 0.4]
+          title: 'Population',
+          range: [0, 100]
         },
 
-        paper_bgcolor:'#D1D6E7',
-        plot_bgcolor:'#D1D6E7',
+        // paper_bgcolor:'#D1D6E7',
+        // plot_bgcolor:'#D1D6E7',
 
         hovermode: 'closest',
          // We'll use updatemenus (whose functionality includes menus as
