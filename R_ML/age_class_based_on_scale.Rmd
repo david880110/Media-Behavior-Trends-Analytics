@@ -12,6 +12,13 @@ library(caret)
 ```
 
 ```{r}
+d_class = read.csv("r_data_18_35_55_scaled.csv")
+```
+
+
+
+```{r}
+
 d_class$age_label = as.factor(d_class$age_label)
 head(d_class)
 ```
@@ -80,7 +87,7 @@ print(fit.rf)
 ```{r}
 importance = varImp(fit.rf, scale=FALSE)
 print(importance)
-#plot(importance)
+plot(importance)
 ```
 
 
