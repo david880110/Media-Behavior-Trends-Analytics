@@ -1,4 +1,4 @@
-let url = "/api/v1.0/market_share";
+let url = "/api/stacked_chart";
 
 Plotly.d3.json(url, function (err, data) {
     // Create a lookup table to sort and regroup the columns of data,
