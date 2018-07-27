@@ -1,4 +1,4 @@
-age_label,all_live_theater/concerts/dance-attended_last_12_months,magazine,movie_goers,radio,social_media_[social_media_user],supermarket_goer_last_4_weeks,tablet_owner,tv,video_game
+age_label,all_live,magazine,movie_goers,radio,social_media,supermarket,tablet_owner,tv,video_game
 1,0.599193548,1.0,1.0,0.661693548,0.942741935,0.971370968,0.173387097,0.745967742,0.7193548390000001
 1,0.413265306,0.7551020409999999,1.0,0.676020408,0.93622449,0.9464285709999999,0.280612245,0.7295918370000001,0.658163265
 1,0.69047619,0.712121212,1.0,0.670995671,0.942640693,0.984848485,0.428571429,0.642857143,0.601731602
