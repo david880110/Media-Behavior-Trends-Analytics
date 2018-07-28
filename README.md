@@ -69,7 +69,7 @@ We are a group of data enthusiast from various background including business, me
 
 ![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/Linear.png)
 
-[Tableau Visulization](https://public.tableau.com/profile/davidgu#!/vizhome/ConsumerBehavior_3/Linear?publish=yes)
+[Tableau Visulization](https://public.tableau.com/profile/davidgu#!/vizhome/ConsumerBehavior_3/GenZvsBabyBoomerDb?publish=yes)
 
 ## Think before the demo day
 
@@ -98,9 +98,9 @@ We are a group of data enthusiast from various background including business, me
 
 ## Findings
 
-(1)
+(1)  
 
-(2)
+(2)Gen Z is the minority which only contains 12.78% of the total population, Baby Boomer buyers are tend to increase over time as they are mostly TV and Radio users but lessly video game players, compared to Gen Z
 
 (3)
 
