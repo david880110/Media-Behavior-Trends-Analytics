@@ -140,6 +140,8 @@ In the end of the project we made movie purchasers’ consumer behavior portfoli
 
 > The Simmons Research is the leading provider of consumer profiling, media planning and activation tools.
 
+![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/weighted_and_unweighted_explaination.png)
+
 > What is the difference between the Weighted and Unweighted Nielsen Sample?
 > Weighted - The weights measure the number of people in the population that are represented by each member of the sample. For example, if sample member has a weight of 20,000 for a selected day, this means that on that day the sample member represents 20,000 in the population.
 > Unweighted - If Unweighted is selected, then all analyses will function based on the unweighted sample. In other words, sample members will be weighted equally. Each sample member will effectively be assigned a weight of 1.
