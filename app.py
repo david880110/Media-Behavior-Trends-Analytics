@@ -11,6 +11,8 @@ import json
 
 from flask import Flask, jsonify, render_template, request
 
+from wtforms import Form, TextField, TextAreaField, validators, StringField, SubmitField
+
 # Database Setup
 engine = create_engine("sqlite:///database.sqlite")
 
@@ -68,14 +70,6 @@ def input():
     return render_template('ml_input.html')
 
 
-@app.route("/result", methods=['GET', 'POST'])
-def output():
-    data = {"sucess": False}
-    if request.methods == 'POST':
-        request = request.form
-        return render_template("ml_result.html", result=result)
-
-
 # ORM Process
 # Stacked Chart (test_data)
 query = """
@@ -87,8 +81,8 @@ FROM test_table
 @app.route("/api/stacked_chart")
 def summary_data():
     # Return the data
-    df = pd.read_sql_query(query, engine)
-    return jsonify(df.to_dict(orient="records"))
+    df_1 = pd.read_sql_query(query, engine)
+    return jsonify(df_1.to_dict(orient="records"))
 
 # Bubble Chart
 
@@ -104,9 +98,71 @@ group by category, age, year
 @app.route("/api/bubble_chart")
 def bubble_chart_data():
     # Return the data
-    df = pd.read_sql_query(query_1, engine)
-    return jsonify(df.to_dict(orient="records"))
+    df_2 = pd.read_sql_query(query_1, engine)
+    return jsonify(df_2.to_dict(orient="records"))
 
+
+# ML Library
+query_3 = """
+SELECT result, pref_ID
+from prediction_table
+"""
+
+
+@app.route("/api/library")
+def ml_library():
+    # Return the data
+    df3 = pd.read_csv("all_possible_prediction.csv")
+    df4 = pd.DataFrame(df3)
+    key_list = list(df4['pref_ID'])
+    value_list = list(df4['result'])
+    test_list = []
+    for i in range(0, len(key_list)):
+        unit_dict = {}
+        unit_dict[key_list[i]] = value_list[i]
+        test_list.append(unit_dict)
+    return jsonify(test_list)
+    # return jsonify(df4.to_dict(orient="records"))
+
+
+# Acquire Users' Inputs
+
+
+'''
+def get_time():
+    time = strftime("%Y-%m-%dT%H:%M")
+    return time
+
+
+def write_to_disk(TV, Social_Media, Magazine, All_Lives, Video_Games, Tablet):
+    data = open('file.csv')
+    timestamp = get_time()
+    data.write('DateStamp={}, TV={}, Social_Media={}, Magazine={}, All_Lives={}, Video_Games={}, Tablet={} \n'.format(timestamp, tv, social_media, magazine, all_lives, video_games, tablet))
+    data.close()
+
+
+@app.route("/", methods=['GET', 'POST'])
+def get_post():
+    form = ReusableForm(request.form)
+
+    # print(form.errors)
+    if request.method == 'POST':
+        tv = request.form['tv']
+        social_media = request.form['social_media']
+        magazine = request.form['magazine']
+        all_lives = request.form['all_lives']
+        video_games = request.form['video_games']
+        tablet = request.form['tablet']
+
+        if form.validate():
+            write_to_disk(tv, social_media, magazine, all_lives, video_games, tablet)
+            flash('You Picked {} {}'.format(tv, social_media, magazine, all_lives, video_games, tablet))
+
+        else:
+            flash('Error: All Fields are Required')
+
+    return render_template('projects.html', form=form)
+'''
 
 if __name__ == '__main__':
     app.run(debug=True)

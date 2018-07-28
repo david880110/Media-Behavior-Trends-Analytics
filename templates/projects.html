@@ -5,11 +5,23 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Media Behavior Trends</title>
 
-    <!--  PORTFOLIO  -->
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css">
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" media="screen" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Material Design Bootstrap -->
+    <link href="css/mdb.min.css" rel="stylesheet">
+    <!-- Your custom styles (optional) -->
+    <link href="css/style.css" rel="stylesheet">
 
+    <!-- Google Font  -->
     <link href="https://fonts.googleapis.com/css?family=Oxygen:300,400" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700" rel="stylesheet">
 
+    <!-- W3 CSS -->
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <!-- Plotly.js -->
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
@@ -82,7 +94,7 @@
             <div class="flexslider">
                 <ul class="slides">
 
-                <li style="background-image: url(https://github.com/david880110/Media-Behavior-Trends-Analytics/blob/master/images/project.jpg);">
+                <li style="background-image: url(../images/project.jpg);">
                     <div class="overlay-gradient"></div>
                     <div class="container-fluids">
                         <div class="row">
@@ -95,45 +107,118 @@
             </div>
         </aside>
 
-        <br />
+
+       <!-- Input Box  -->
+       <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" data-whatever="@mdo">Take a Quick Survey</button>
+       <!-- Modal -->
+       <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+
+          <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                  <div class="modal-header">
+                    <h2 class="modal-title" id="exampleModalLabel">Rank Your Preferences</h2>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                      <span aria-hidden="true">&times;</span>
+                    </button>
+                  </div>
+
+                <div class="modal-body">
+                    <form  action="" method="post" role="form">
+                    {{ form.csrf }}
+
+                    <div class="form-group">
+                        <label for="tv">TV</label>
+                          <input type="text" class="form-control" id="tv" name="tv" placeholder="Enter a Number">
+                            <br>
+
+                          <label for="social_media">Social Media</label>
+                          <input type="text" class="form-control" id="social_media" name="social_media" placeholder="Enter a Number">
+                        <br>
+
+                      <label for="magazine">Magazine</label>
+                      <input type="text" class="form-control" id="magazine" name="magazine" placeholder="Enter a Number">
+                        <br>
+                            <label for="tv">All Lives</label>
+                          <input type="text" class="form-control" id="all_lives" name="all_lives" placeholder="Enter a Number">
+                            <br>
+
+                            <label for="video_games">Video Games</label>
+                          <input type="text" class="form-control" id="video_games" name="video_games" placeholder="Enter a Number">
+                            <br>
+
+                             <label for="tableau">Tablet</label>
+                          <input type="text" class="form-control" id="tableau" name="tableau" placeholder="Enter a Number">
+                            <br>
+                    </div>
+                    </form>
+                    <br>
+        {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+        {% for message in messages %}
+            {% if "Error" not in message[1]: %}
+                <div class="alert alert-info">
+                <strong>Success! </strong> {{ message[1] }}
+                </div>
+            {% endif %}
+            {% if "Error" in message[1]: %}
+                <div class="alert alert-danger">
+                <strong>Error: </strong> {{ message[1] }}
+                </div>
+            {% endif %}
+        {% endfor %}
+            {% endif %}
+        {% endwith %}
+                </div>
+
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="submit" class="btn btn-primary">Submit</button>
+
+                </div>
 
 
-        <!--  Tableau  -->
-        <div class='tableauPlaceholder' id='viz1532731082801' style='position: relative'>
-        <noscript>
-            <a href='#'>
-                <img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;ConsumerBehavior_5&#47;CategoryperGender&#47;1_rss.png' style='border: none' />
-            </a>
-        </noscript>
-        <object class='tableauViz'  style='display:none;'>
-            <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
-            <param name='embed_code_version' value='3' />
-            <param name='site_root' value='' />
-            <param name='name' value='ConsumerBehavior_5&#47;CategoryperGender' />
-            <param name='tabs' value='yes' />
-            <param name='toolbar' value='yes' />
-            <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;ConsumerBehavior_5&#47;CategoryperGender&#47;1.png' />
-            <param name='animate_transition' value='yes' />
-            <param name='display_static_image' value='yes' />
-            <param name='display_spinner' value='yes' />
-            <param name='display_overlay' value='yes' />
-            <param name='display_count' value='yes' />
-            <param name='filter' value='publish=yes' />
-        </object>
-    </div>
+            </div>
+          </div>
+        </div>
 
-    <script type='text/javascript'>
-        var divElement = document.getElementById('viz1532731082801');
-        var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
-        var scriptElement = document.createElement('script');
-            scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-            vizElement.parentNode.insertBefore(scriptElement, vizElement);
-    </script>
 
-                <!--  Bubble Chart  -->
-                <!-- <div id="myDiv" style="width: 100%;">
-                    <script src="../static/js/bubble.js"></script>
-                </div> -->
+                <!--
+                <div class="w3-container">
+                    <h2>Rank Your Preferences</h2>
+                    <h5>The least frequently(1) to the most frequently(6)</h5>
+                </div>
+
+                <div class="input-group input-group-lg">
+                    <span class="input-group-addon" id="sizing-addon1">TV</span>
+                    <input type="text" class="form-control" placeholder="Enter your number from 1 to 6" aria-describedby="sizing-addon1">
+                </div>
+
+                <div class="input-group input-group-lg">
+                    <span class="input-group-addon" id="sizing-addon1">All Lives</span>
+                    <input type="text" class="form-control" placeholder="Enter your number from 1 to 6" aria-describedby="sizing-addon1">
+                </div>
+
+                <div class="input-group input-group-lg">
+                    <span class="input-group-addon" id="sizing-addon1">Video Games</span>
+                    <input type="text" class="form-control" placeholder="Enter your number from 1 to 6" aria-describedby="sizing-addon1">
+                </div>
+
+                <div class="input-group input-group-lg">
+                    <span class="input-group-addon" id="sizing-addon1">Social Media</span>
+                    <input type="text" class="form-control" placeholder="Enter your number from 1 to 6" aria-describedby="sizing-addon1">
+                </div>
+
+                <div class="input-group input-group-lg">
+                    <span class="input-group-addon" id="sizing-addon1">Magazine</span>
+                    <input type="text" class="form-control" placeholder="Enter your number from 1 to 6" aria-describedby="sizing-addon1">
+                </div>
+
+                <div class="input-group input-group-lg">
+                    <span class="input-group-addon" id="sizing-addon1">Tablet</span>
+                    <input type="text" class="form-control" placeholder="Enter your number from 1 to 6" aria-describedby="sizing-addon1">
+                </div>
+
+                Input box  -->
 
             </div>
         </div>
