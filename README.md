@@ -54,8 +54,14 @@ We are a group of data enthusiast from various background including business, me
 |       Generation   X (Baby Bust)       |     1960     |    1969    |     45 - 54    |
 |                Xennials                |     1970     |    1979    |     35 - 44    |
 | Millennials   (Generation Y, Gen Next) |     1980     |    1994    |     25 - 34    |
-|                 Gen Z                  |     1995     |    2012    |     18 - 24    |
-  
+|                 Gen Z                  |     1995     |    2012    |     18 - 24  
+
+
+Our Main Focus of this project is to compare Millennials& Gen Z and other generations' consumer behaviours.
+Becuase Millennials and Gen Z grew up with smart phone and internet.  
+Millenials are aging into a new lifestage as they start to get married settle down, and have families. 
+Gen Z are aging from teenagers to young adults, they start graduating from college and getting the first job. 
+
 ![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/Geography.png)
 
 ![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/Linear.png)
@@ -88,7 +94,7 @@ Home entertainment is a more convenience and private way to attain the propose o
 
 “Most adults say they enjoy entertaining people in their home—an attitude that has remained constant for more than a decade. In the last three years, a substantial 77% of adults have hosted a party in their home. Informal gatherings are far more prevalent than formal parties, with 44% participation compared to 17%. Lifestyle trends, technology and social media influences, demographic factors, and motivations to host parties support the prevalence of informal gatherings.”
 
-- Dana Macke, Associate Director, Lifestyles & Leisure
+ By -Dana Macke, Associate Director, Lifestyles & Leisure
 
 As the largest film industry in the world, in the United States people love movies, and enjoy watching movies at home. Our purpose is to track movie purchasers’ behaviors in different generations and genders.
 
@@ -109,6 +115,7 @@ Live events goers
 Social Media Users
 
 In the end of the project we made movie purchasers’ consumer behavior portfolio for each generations, and analyze each generations’ preference in each categories.
+
 ## Methodology: Random Forest Classifier
 
 ![alt text](https://cdn-images-1.medium.com/max/1600/0*tG-IWcxL1jg7RkT0.png)
