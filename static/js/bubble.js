@@ -1,6 +1,6 @@
-let url = "/api/stacked_chart";
+let data_url = "/api/bubble_chart";
 
-Plotly.d3.json(url, function (err, data) {
+Plotly.d3.json(data_url, function (err, data) {
     // Create a lookup table to sort and regroup the columns of data,
     // first by year, then by population:
     let lookup = {};
@@ -9,7 +9,7 @@ Plotly.d3.json(url, function (err, data) {
     if (!(byYear = lookup[year])) {;
             byYear = lookup[year] = {};
     }
-     // If a container for this year + studio doesn't exist yet,
+     // If a container for this year + population doesn't exist yet,
      // then create one:
     if (!(trace = byYear[population])) {
       trace = byYear[population] = {
@@ -26,12 +26,12 @@ Plotly.d3.json(url, function (err, data) {
     // Go through each row, get the right trace, and append the data:
     for (let i = 0; i < data.length; i++) {
         let datum = data[i];
-        let trace = getData(datum.year_id, datum.Studio_name);
-        trace.text.push(`Category: ${datum.category}<br>Population: ${datum.population}<br>Age: ${datum.Age} %`);
+        let trace = getData(datum.year, datum.population);
+        trace.text.push(`Category: ${datum.category}<br>population: ${datum.population}<br>Age: ${datum.age} `);
         trace.id.push(datum.category);
-        trace.x.push(datum.Age);
-        trace.y.push(datum.Population);
-        trace.marker.size.push(datum.population);
+        trace.x.push(datum.age);
+        trace.y.push(datum.population);
+        trace.marker.size.push(datum.population*100);
   }
 
     // Get the group names:
@@ -39,20 +39,20 @@ Plotly.d3.json(url, function (err, data) {
     // In this case, every year includes every studio, so we
       // can just infer the studios from the *first* year:
       let firstYear = lookup[years[0]];
-      let category = Object.keys(firstYear);
+      let categories = Object.keys(firstYear);
 
       // Create the main traces, one for each studio:
       let traces = [];
 
-      for (i = 0; i < category.length; i++) {
-        let data = firstYear[category[i]];
+      for (i = 0; i < categories.length; i++) {
+        let data = firstYear[categories[i]];
          // One small note. We're creating a single trace here, to which
          // the frames will pass data for the different year_id. It's
          // subtle, but to avoid data reference problems, we'll slice
          // the arrays to ensure we never write any new data into our
          // lookup table:
         traces.push({
-          name: category[i],
+          name: categories[i],
           x: data.x.slice(),
           y: data.y.slice(),
           id: data.id.slice(),
@@ -61,7 +61,7 @@ Plotly.d3.json(url, function (err, data) {
           marker: {
             size: data.marker.size.slice(),
             sizemode: 'area',
-            sizeref: 200000
+            sizeref: 20
           }
         });
       }
@@ -74,7 +74,7 @@ Plotly.d3.json(url, function (err, data) {
       for (i = 0; i < years.length; i++) {
         frames.push({
           name: years[i],
-          data: category.map(function (population) {
+          data: categories.map(function (population) {
             return getData(years[i], population);
           })
         })
@@ -100,11 +100,11 @@ Plotly.d3.json(url, function (err, data) {
       let layout = {
         xaxis: {
           title: 'Age',
-          range: [0, 100]
+          //range: [0, 100]
         },
         yaxis: {
-          title: 'Population',
-          range: [0, 100]
+          title: 'population',
+          //range: [0, 100]
         },
 
         // paper_bgcolor:'#D1D6E7',
