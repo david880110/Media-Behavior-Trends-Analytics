@@ -13,7 +13,7 @@
 
 [David Gu](https://www.linkedin.com/in/thatmandavid-gu-a0806b5a/)
 
-<img src="https://media.licdn.com/dms/image/C5103AQHMiIhmJN6irQ/profile-displayphoto-shrink_800_800/0?e=1537401600&v=beta&t=wGxNH7DbU2yA_u1imE23mD47reRhA2Biba3jrN-GpWw" width="90" height="90"/>
+<img src="https://media.licdn.com/dms/image/C5103AQHMiIhmJN6irQ/profile-displayphoto-shrink_800_800/0?e=1537401600&v=beta&t=wGxNH7DbU2yA_u1imE23mD47reRhA2Biba3jrN-GpWw" width="90" sheight="90"/>
 
 [Yuanyuan (Yoyo) Wu](https://www.linkedin.com/in/yuanyuan-yoyo-wu-442474116/)
 
