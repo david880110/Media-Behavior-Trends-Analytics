@@ -59,15 +59,12 @@ We are a group of data enthusiast from various background including business, me
 
 |            Generation   Name           | Births Start | Births End | Age as of 2018 |
 |:--------------------------------------:|:------------:|:----------:|:--------------:|
-|        The   Greatest Generation       |     1910     |    1924    |    94 - 108    |
-|         The   Silent Generation        |     1925     |    1945    |     73 - 93    |
-|        Baby   Boomer Generation        |     1946     |    1964    |     54 - 72    |
-|       Generation   X (Baby Bust)       |     1965     |    1979    |     39 - 53    |
-|                Xennials                |     1975     |    1985    |     33 - 43    |
-| Millennials   (Generation Y, Gen Next) |     1980     |    1994    |     24 - 38    |
-|             iGen /   Gen Z             |     1995     |    2012    |     6 - 23     |
-|               Gen   Alpha              |     2013     |    2025    |      0 - 5     |
-
+|        Baby   Boomer Generation        |     1946     |    1964    |     55 +       |
+|       Generation   X (Baby Bust)       |     1965     |    1979    |     45 - 54    |
+|                Xennials                |     1975     |    1985    |     35 - 44    |
+| Millennials   (Generation Y, Gen Next) |     1980     |    1994    |     25 - 34    |
+|                 Gen Z                  |     2000     |    2012    |     18 - 24    |
+|  
 ![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/Geography.png)
 
 ![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/Linear.png)
