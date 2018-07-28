@@ -68,10 +68,12 @@ We are a group of data enthusiast from various background including business, me
 |             iGen /   Gen Z             |     1995     |    2012    |     6 - 23     |
 |               Gen   Alpha              |     2013     |    2025    |      0 - 5     |
 
-![alt text](https://raw.githubusercontent.com/david880110/final-project/master/images/map.png)
-<<<<<<< HEAD
+![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/Geography.png)
 
-<<<<<<< HEAD
+![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/Linear.png)
+
+[Tableau Visulization](https://public.tableau.com/profile/davidgu#!/vizhome/ConsumerBehavior_3/Linear?publish=yes)
+
 ## Think before the demo day
 
 - Why did you pick this problem?
