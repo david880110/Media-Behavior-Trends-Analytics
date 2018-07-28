@@ -47,31 +47,29 @@ We are a group of data enthusiast from various background including business, me
 ## Story
 
 > DMA (Designated Market Area) regions are the geographic areas in the United States in which local television viewing is measured by The Nielsen Company. The DMA data are essential for any marketer, researcher, or organization seeking to utilize standardized geographic areas within their business in terms of:
->- North East
->- East Central
->- West Central
->- South
->- South East
->- South West
->- Pacfic
-
-
 
 |            Generation   Name           | Births Start | Births End | Age as of 2018 |
 |:--------------------------------------:|:------------:|:----------:|:--------------:|
-|        The   Greatest Generation       |     1910     |    1924    |    94 - 108    |
-|         The   Silent Generation        |     1925     |    1945    |     73 - 93    |
-|        Baby   Boomer Generation        |     1946     |    1964    |     54 - 72    |
-|       Generation   X (Baby Bust)       |     1965     |    1979    |     39 - 53    |
-|                Xennials                |     1975     |    1985    |     33 - 43    |
-| Millennials   (Generation Y, Gen Next) |     1980     |    1994    |     24 - 38    |
-|             iGen /   Gen Z             |     1995     |    2012    |     6 - 23     |
-|               Gen   Alpha              |     2013     |    2025    |      0 - 5     |
+|        Baby   Boomer Generation        |     1946     |    1964    |     55 +       |
+|       Generation   X (Baby Bust)       |     1960     |    1969    |     45 - 54    |
+|                Xennials                |     1970     |    1979    |     35 - 44    |
+| Millennials   (Generation Y, Gen Next) |     1980     |    1994    |     25 - 34    |
+|                 Gen Z                  |     1995     |    2012    |     18 - 24  
 
-![alt text](https://raw.githubusercontent.com/david880110/final-project/master/images/map.png)
-<<<<<<< HEAD
 
-<<<<<<< HEAD
+Our Main Focus of this project is to compare Millennials& Gen Z and other generations' consumer behaviours.
+Becuase Millennials and Gen Z grew up with smart phone and internet.  
+Millenials are aging into a new lifestage as they start to get married settle down, and have families. 
+Gen Z are aging from teenagers to young adults, they start graduating from college and getting the first job. 
+
+![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/Geography.png)
+
+![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/Linear.png)
+
+![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/Gen%20Z%20vs%20Baby%20Boomer%20Db.png)
+
+[Tableau Visulization](https://public.tableau.com/profile/davidgu#!/vizhome/ConsumerBehavior_3/GenZvsBabyBoomerDb?publish=yes)
+
 ## Think before the demo day
 
 - Why did you pick this problem?
@@ -85,58 +83,69 @@ We are a group of data enthusiast from various background including business, me
     
 - Why the choice of visualization/display
 
-## Proposal 
-=======
 ## Proposal
->>>>>>> ead49805bc6c309b2264f41a1949377a0d1d47c5
-=======
 
-## Proposal
->>>>>>> ead49805bc6c309b2264f41a1949377a0d1d47c5
+- This study, based on a behavioral data set of media indstry from 2013 - 2016, suggests that about 85% of the customer loyalty in terms of actual behavior can be predicted, in particular by demographic factors such as their generation group  
+In the modern society, everyone is trying to make more money for living, and time has literally become more valuable.
 
-(1)
+Not everyone has time to go to the theatre and spend two hours to watch a movie, but people still need entertainment industry for relaxing and enjoying their lives.
 
-(2)
+Home entertainment is a more convenience and private way to attain the propose of entertaining.
 
-(3)
+“Most adults say they enjoy entertaining people in their home—an attitude that has remained constant for more than a decade. In the last three years, a substantial 77% of adults have hosted a party in their home. Informal gatherings are far more prevalent than formal parties, with 44% participation compared to 17%. Lifestyle trends, technology and social media influences, demographic factors, and motivations to host parties support the prevalence of informal gatherings.”
+
+ By -Dana Macke, Associate Director, Lifestyles & Leisure
+
+As the largest film industry in the world, in the United States people love movies, and enjoy watching movies at home. Our purpose is to track movie purchasers’ behaviors in different generations and genders.
+
+Top Retailers like Amazon, Walmart, Target and Best & Buy, they are using data analysis and ML to target audiences, and do dynamic advertising targeting to raise awareness and to increase sales of the products.
+
+On social media and websites, there are many sponsored ads and banners ads, most of them are targeting consumers who have specific behaviors. 
+We pulled data from Simmon consumer behavior database, and list eleven behavior categories for movie purchasers (purchase dvd/blu-ray dics in past 12 months) in different generations ( Millennial, Gen X, Gen Y, Gen Z):
+Video Games console owners or players
+Streaming video users
+Digital music users
+TV watchers
+Radio Listeners
+Magazine readers
+Movie goers
+Supermarket goers
+Tablet owners
+Live events goers
+Social Media Users
+
+In the end of the project we made movie purchasers’ consumer behavior portfolio for each generations, and analyze each generations’ preference in each categories.
 
 ## Methodology: Random Forest Classifier
 
 ![alt text](https://cdn-images-1.medium.com/max/1600/0*tG-IWcxL1jg7RkT0.png)
 
-<<<<<<< HEAD
 ## Findings
-=======
+
+(1) South division is the winner in terms of population and most of the people are used to old school media such as Movies, Supermarket, TV, Magzine and Radio whereas younge generations are apprently stick to modernized media
+
+(2) Female takes the majority of the market share in all categories and Movies and Supermarkets are pretty much their backyards
+
+(3) Comparing Gen Z and Baby Boomers, Gen Z is the minority which only contains 12.78% of the total population and only beats Baby Boomer in video game section; Baby Boomer buyers are tend to increase over time as they are mostly TV and Radio users but less likely enjoy video games
+
+
 ## Temporate Reference
 
 ![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/reference.png)
-
-## Findings 
->>>>>>> 71a39f8412b221de2f12fa553ddccee713366866
-
-(1)
-
-(2)
-
-(3)
 
 ## Data Source
 
 <img src="https://www.simmonsresearch.com/wp-content/uploads/2017/04/simmons_clr_horiz.svg" width="240" height="80"/>
 
-> The [____ Data:] Simmons Research is the leading provider of consumer profiling, media planning and activation tools.
+> The Simmons Research is the leading provider of consumer profiling, media planning and activation tools.
 
-* Note:
+* Note: US is divided into 7 divisions in terms of North East, East Central, West Central, South, South East, South West, Pacfic
 
-* Limitation: District data only
+* Limitation: 
 
-<img src="https://www.niss.org/sites/default/files/affiliate_images/census_bureau_logo.png" width="240" height="80"/>
-
-> The [Demography Data:](https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?src=bkmk/) is Annual Estimates of the Resident Population for Selected Age Groups by Sex for the United States, States, Counties, and Puerto Rico Commonwealth and Municipios: April 1, 2010 to July 1, 2017 retreived from U.S. Census Bureau, Population Division
-
-* Note: The estimates are based on the 2010 Census and reflect changes to the April 1, 2010 population due to the Count Question Resolution program and geographic program revisions. Median age is calculated based on single year of age. For population estimates methodology statements, see [here](https://www.census.gov/programs-surveys/popest/technical-documentation/methodology.html)
-
-* Limitation:
+    (1) The database doest contains any data in mountain division
+    
+    (2) The database doest contains Streaming Video data from 2013 to 2014
 
 <img src="https://www.kaggle.com/static/images/logos/kaggle-logo-transparent-300.png" width="240" height="80"/>
 
@@ -159,11 +168,14 @@ The [Coordinate Data:](https://www.kaggle.com/washimahmed/usa-latlong-for-state-
     
     (4) Data Analytics:
         Query SQL to analyze and interpret data sets to generate marketing insights and BI reporting
+
+    (5) Machine Learning:
+        Compare models and select algorithm to predict classifications based on scaled data
+        
+    (6) API Development:
+        Transform data into JSON format and deploy into API to support front-end applications
     
-    (5) API Development:
-        Transform data into json format and deploy into API to support front-end applications
-    
-    (6) Data Visulization:
+    (7) Data Visulization:
     
         (6.1) Front-end Visulization:
     
