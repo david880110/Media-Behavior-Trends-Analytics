@@ -138,7 +138,7 @@ In the end of the project we made movie purchasers’ consumer behavior portfoli
 
 <img src="https://www.simmonsresearch.com/wp-content/uploads/2017/04/simmons_clr_horiz.svg" width="240" height="80"/>
 
-> The Simmons Research is the leading provider of consumer profiling, media planning and activation tools.
+> The Simmons / Nielsen partnership allows advertisers, agencies, and media to go beyond demographics when profiling TV audiences. By integrating viewership of Nielsen-measured national TV programs and networks with the 60,000 variables available in the Simmons National Consumer Study, clients can illustrate compelling, data-driven stories about the true value of TV audiences.
 
 ![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/weighted_and_unweighted_explaination.png)
 
