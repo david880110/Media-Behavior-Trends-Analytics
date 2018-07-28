@@ -12,8 +12,9 @@ library(caret)
 ```
 
 ```{r}
+# set working directory 
 # Load csv file with with all category rescaled to index 1 to 5
-d_class = read.csv("../clean_data/r_data_18_35_55_scaled.csv")
+d_class = read.csv("../../clean_data/r_data_18_35_55_scaled.csv")
 ```
 
 
@@ -38,8 +39,8 @@ metric <- "Accuracy"
 
 
 ```{r}
-# use 80% of data to training and testing the models
-# and use the remaining 20% as validation dataset
+# use 70% of data to training and testing the models
+# and use the remaining 30% as validation dataset
 set.seed(1)
 n = nrow(d_class)
 train = sample(1:n, n*0.7)
