@@ -100,11 +100,12 @@ We are a group of data enthusiast from various background including business, me
 
 ## Findings
 
-(1)  
+(1) South division is the winner in terms of population and most of the people are used to old school media such as Movies, Supermarket, TV, Magzine and Radio whereas younge generations are apprently stick to modernized media
 
-(2)Gen Z is the minority which only contains 12.78% of the total population, Baby Boomer buyers are tend to increase over time as they are mostly TV and Radio users but lessly video game players, compared to Gen Z
+(2) Female takes the majority of the market share in all categories and Movies and Supermarkets are pretty much their backyards
 
-(3)
+(3) Comparing Gen Z and Baby Boomers, Gen Z is the minority which only contains 12.78% of the total population and only beats Baby Boomer in video game section; Baby Boomer buyers are tend to increase over time as they are mostly TV and Radio users but less likely enjoy video games
+
 
 ## Temporate Reference
 
@@ -114,19 +115,15 @@ We are a group of data enthusiast from various background including business, me
 
 <img src="https://www.simmonsresearch.com/wp-content/uploads/2017/04/simmons_clr_horiz.svg" width="240" height="80"/>
 
-> The [____ Data:] Simmons Research is the leading provider of consumer profiling, media planning and activation tools.
+> The Simmons Research is the leading provider of consumer profiling, media planning and activation tools.
 
 * Note:
 
-* Limitation: District data only
+* Limitation: 
 
-<img src="https://www.niss.org/sites/default/files/affiliate_images/census_bureau_logo.png" width="240" height="80"/>
-
-> The [Demography Data:](https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?src=bkmk/) is Annual Estimates of the Resident Population for Selected Age Groups by Sex for the United States, States, Counties, and Puerto Rico Commonwealth and Municipios: April 1, 2010 to July 1, 2017 retreived from U.S. Census Bureau, Population Division
-
-* Note: The estimates are based on the 2010 Census and reflect changes to the April 1, 2010 population due to the Count Question Resolution program and geographic program revisions. Median age is calculated based on single year of age. For population estimates methodology statements, see [here](https://www.census.gov/programs-surveys/popest/technical-documentation/methodology.html)
-
-* Limitation:
+    (1) The database doest contains any data in mountain division
+    
+    (2) The database doest contains Streaming Video data from 2013 to 2014
 
 <img src="https://www.kaggle.com/static/images/logos/kaggle-logo-transparent-300.png" width="240" height="80"/>
 
