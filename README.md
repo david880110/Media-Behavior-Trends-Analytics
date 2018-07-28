@@ -50,10 +50,9 @@ We are a group of data enthusiast from various background including business, me
 
 |            Generation   Name           | Births Start | Births End | Age as of 2018 |
 |:--------------------------------------:|:------------:|:----------:|:--------------:|
-|        Baby   Boomer Generation        |     1946     |    1964    |     55 +       |
-|       Generation   X (Baby Bust)       |     1960     |    1969    |     45 - 54    |
-|                Xennials                |     1970     |    1979    |     35 - 44    |
-| Millennials   (Generation Y, Gen Next) |     1980     |    1994    |     25 - 34    |
+|        Baby   Boomer Generation        |     1946     |    1961    |     55 +       |
+|            Generation   X              |     1960     |    1979    |     35 - 54    |
+|            Millennials                 |     1980     |    1994    |     25 - 34    |
 |                 Gen Z                  |     1995     |    2012    |     18 - 24  
 
 
@@ -61,6 +60,7 @@ Our Main Focus of this project is to compare Millennials& Gen Z and other genera
 Becuase Millennials and Gen Z grew up with smart phone and internet.  
 Millenials are aging into a new lifestage as they start to get married settle down, and have families. 
 Gen Z are aging from teenagers to young adults, they start graduating from college and getting the first job. 
+
 
 ![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/Geography.png)
 
@@ -91,15 +91,15 @@ In the modern society, everyone is trying to make more money for living, and tim
 Not everyone has time to go to the theatre and spend two hours to watch a movie, but people still need entertainment industry for relaxing and enjoying their lives.
 
 Home entertainment is a more convenience and private way to attain the propose of entertaining.
-
+![alt text](https://www.edimax.com/edimax/mw/cufiles/images/productimage/wireless/News/CV-7428nS_Home_Entertainment.jpg)
 “Most adults say they enjoy entertaining people in their home—an attitude that has remained constant for more than a decade. In the last three years, a substantial 77% of adults have hosted a party in their home. Informal gatherings are far more prevalent than formal parties, with 44% participation compared to 17%. Lifestyle trends, technology and social media influences, demographic factors, and motivations to host parties support the prevalence of informal gatherings.”
 
- By -Dana Macke, Associate Director, Lifestyles & Leisure
+ By *-Dana Macke, Associate Director, Lifestyles & Leisure*
 
 As the largest film industry in the world, in the United States people love movies, and enjoy watching movies at home. Our purpose is to track movie purchasers’ behaviors in different generations and genders.
 
 Top Retailers like Amazon, Walmart, Target and Best & Buy, they are using data analysis and ML to target audiences, and do dynamic advertising targeting to raise awareness and to increase sales of the products.
-
+![alt text](https://i.imgur.com/ZajQNLG.jpg)
 On social media and websites, there are many sponsored ads and banners ads, most of them are targeting consumers who have specific behaviors. 
 We pulled data from Simmon consumer behavior database, and list eleven behavior categories for movie purchasers (purchase dvd/blu-ray dics in past 12 months) in different generations ( Millennial, Gen X, Gen Y, Gen Z):
 Video Games console owners or players
@@ -123,7 +123,7 @@ In the end of the project we made movie purchasers’ consumer behavior portfoli
 ## Findings
 
 (1) South division is the winner in terms of population and most of the people are used to old school media such as Movies, Supermarket, TV, Magzine and Radio whereas younge generations are apprently stick to modernized media
-
+        *South Division has more states include than others*
 (2) Female takes the majority of the market share in all categories and Movies and Supermarkets are pretty much their backyards
 
 (3) Comparing Gen Z and Baby Boomers, Gen Z is the minority which only contains 12.78% of the total population and only beats Baby Boomer in video game section; Baby Boomer buyers are tend to increase over time as they are mostly TV and Radio users but less likely enjoy video games
