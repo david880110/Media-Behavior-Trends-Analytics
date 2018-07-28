@@ -64,7 +64,7 @@ We are a group of data enthusiast from various background including business, me
 |                Xennials                |     1975     |    1985    |     35 - 44    |
 | Millennials   (Generation Y, Gen Next) |     1980     |    1994    |     25 - 34    |
 |                 Gen Z                  |     2000     |    2012    |     18 - 24    |
-|  
+  
 ![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/Geography.png)
 
 ![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/Linear.png)
