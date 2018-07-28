@@ -91,7 +91,7 @@ In the modern society, everyone is trying to make more money for living, and tim
 Not everyone has time to go to the theatre and spend two hours to watch a movie, but people still need entertainment industry for relaxing and enjoying their lives.
 
 Home entertainment is a more convenience and private way to attain the propose of entertaining.
-
+![alt text](https://www.edimax.com/edimax/mw/cufiles/images/productimage/wireless/News/CV-7428nS_Home_Entertainment.jpg)
 “Most adults say they enjoy entertaining people in their home—an attitude that has remained constant for more than a decade. In the last three years, a substantial 77% of adults have hosted a party in their home. Informal gatherings are far more prevalent than formal parties, with 44% participation compared to 17%. Lifestyle trends, technology and social media influences, demographic factors, and motivations to host parties support the prevalence of informal gatherings.”
 
  By *-Dana Macke, Associate Director, Lifestyles & Leisure*
@@ -99,7 +99,7 @@ Home entertainment is a more convenience and private way to attain the propose o
 As the largest film industry in the world, in the United States people love movies, and enjoy watching movies at home. Our purpose is to track movie purchasers’ behaviors in different generations and genders.
 
 Top Retailers like Amazon, Walmart, Target and Best & Buy, they are using data analysis and ML to target audiences, and do dynamic advertising targeting to raise awareness and to increase sales of the products.
-
+![alt text](https://i.imgur.com/ZajQNLG.jpg)
 On social media and websites, there are many sponsored ads and banners ads, most of them are targeting consumers who have specific behaviors. 
 We pulled data from Simmon consumer behavior database, and list eleven behavior categories for movie purchasers (purchase dvd/blu-ray dics in past 12 months) in different generations ( Millennial, Gen X, Gen Y, Gen Z):
 Video Games console owners or players
