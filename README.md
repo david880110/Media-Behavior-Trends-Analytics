@@ -140,6 +140,19 @@ In the end of the project we made movie purchasers’ consumer behavior portfoli
 
 > The Simmons Research is the leading provider of consumer profiling, media planning and activation tools.
 
+> What is the difference between the Weighted and Unweighted Nielsen Sample?
+> Weighted - The weights measure the number of people in the population that are represented by each member of the sample. For example, if sample member has a weight of 20,000 for a selected day, this means that on that day the sample member represents 20,000 in the population.
+> Unweighted - If Unweighted is selected, then all analyses will function based on the unweighted sample. In other words, sample members will be weighted equally. Each sample member will effectively be assigned a weight of 1.
+> When should I use the Weighted sample?
+ 
+> As a rule of thumb, use the Weighted sample.  Weighted sample analysis, which is the default, is more accurate in representing the population, and should generally be used.
+ 
+> When should I use the Unweighted sample?
+ 
+> Unweighted sample analysis could be used if:
+> You want to recreate an analysis that was made in Audience Watch version 5.73 or earlier.
+> You really do want to see the viewing behavior of individual sample members.
+
 * Note: US is divided into 7 divisions in terms of North East, East Central, West Central, South, South East, South West, Pacfic
 
 * Limitation: 
