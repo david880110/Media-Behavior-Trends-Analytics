@@ -159,11 +159,14 @@ The [Coordinate Data:](https://www.kaggle.com/washimahmed/usa-latlong-for-state-
     
     (4) Data Analytics:
         Query SQL to analyze and interpret data sets to generate marketing insights and BI reporting
+
+    (5) Machine Learning:
+        Compare models and select algorithm to predict classifications based on scaled data
+        
+    (6) API Development:
+        Transform data into JSON format and deploy into API to support front-end applications
     
-    (5) API Development:
-        Transform data into json format and deploy into API to support front-end applications
-    
-    (6) Data Visulization:
+    (7) Data Visulization:
     
         (6.1) Front-end Visulization:
     
