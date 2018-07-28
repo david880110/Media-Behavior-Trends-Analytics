@@ -84,14 +84,7 @@ We are a group of data enthusiast from various background including business, me
     
 - Why the choice of visualization/display
 
-## Proposal 
-=======
 ## Proposal
->>>>>>> ead49805bc6c309b2264f41a1949377a0d1d47c5
-=======
-
-## Proposal
->>>>>>> ead49805bc6c309b2264f41a1949377a0d1d47c5
 
 (1)
 
@@ -103,21 +96,17 @@ We are a group of data enthusiast from various background including business, me
 
 ![alt text](https://cdn-images-1.medium.com/max/1600/0*tG-IWcxL1jg7RkT0.png)
 
-<<<<<<< HEAD
 ## Findings
-=======
-## Temporate Reference
-
-![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/reference.png)
-
-## Findings 
->>>>>>> 71a39f8412b221de2f12fa553ddccee713366866
 
 (1)
 
 (2)
 
 (3)
+
+## Temporate Reference
+
+![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/reference.png)
 
 ## Data Source
 
