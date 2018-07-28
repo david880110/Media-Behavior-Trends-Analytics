@@ -88,11 +88,11 @@ We are a group of data enthusiast from various background including business, me
 
 ## Proposal
 
-(1)
+(1) This study, based on a behavioral data set of media indstry from 2013 - 2016, suggests that about 85% of the customer loyalty in terms of actual behavior can be predicted, in particular by demographic factors such as their generation group  
 
 (2)
 
-(3)
+(3) 
 
 ## Methodology: Random Forest Classifier
 
