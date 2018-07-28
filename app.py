@@ -11,11 +11,6 @@ import json
 
 from flask import Flask, jsonify, render_template, request
 
-import keras
-from keras.preprocessing import image
-from keras import backend as K
-
-
 # Database Setup
 engine = create_engine("sqlite:///database.sqlite")
 
@@ -73,7 +68,7 @@ def input():
     return render_template('ml_input.html')
 
 
-@app.route("result", methods=['GET', 'POST'])
+@app.route("/result", methods=['GET', 'POST'])
 def output():
     data = {"sucess": False}
     if request.methods == 'POST':
