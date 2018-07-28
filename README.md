@@ -51,10 +51,10 @@ We are a group of data enthusiast from various background including business, me
 |            Generation   Name           | Births Start | Births End | Age as of 2018 |
 |:--------------------------------------:|:------------:|:----------:|:--------------:|
 |        Baby   Boomer Generation        |     1946     |    1964    |     55 +       |
-|       Generation   X (Baby Bust)       |     1965     |    1979    |     45 - 54    |
-|                Xennials                |     1975     |    1985    |     35 - 44    |
+|       Generation   X (Baby Bust)       |     1960     |    1969    |     45 - 54    |
+|                Xennials                |     1970     |    1979    |     35 - 44    |
 | Millennials   (Generation Y, Gen Next) |     1980     |    1994    |     25 - 34    |
-|                 Gen Z                  |     2000     |    2012    |     18 - 24    |
+|                 Gen Z                  |     1995     |    2012    |     18 - 24    |
   
 ![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/Geography.png)
 
@@ -79,12 +79,36 @@ We are a group of data enthusiast from various background including business, me
 
 ## Proposal
 
-(1) This study, based on a behavioral data set of media indstry from 2013 - 2016, suggests that about 85% of the customer loyalty in terms of actual behavior can be predicted, in particular by demographic factors such as their generation group  
+- This study, based on a behavioral data set of media indstry from 2013 - 2016, suggests that about 85% of the customer loyalty in terms of actual behavior can be predicted, in particular by demographic factors such as their generation group  
+In the modern society, everyone is trying to make more money for living, and time has literally become more valuable.
 
-(2)
+Not everyone has time to go to the theatre and spend two hours to watch a movie, but people still need entertainment industry for relaxing and enjoying their lives.
 
-(3) 
+Home entertainment is a more convenience and private way to attain the propose of entertaining.
 
+“Most adults say they enjoy entertaining people in their home—an attitude that has remained constant for more than a decade. In the last three years, a substantial 77% of adults have hosted a party in their home. Informal gatherings are far more prevalent than formal parties, with 44% participation compared to 17%. Lifestyle trends, technology and social media influences, demographic factors, and motivations to host parties support the prevalence of informal gatherings.”
+
+- Dana Macke, Associate Director, Lifestyles & Leisure
+
+As the largest film industry in the world, in the United States people love movies, and enjoy watching movies at home. Our purpose is to track movie purchasers’ behaviors in different generations and genders.
+
+Top Retailers like Amazon, Walmart, Target and Best & Buy, they are using data analysis and ML to target audiences, and do dynamic advertising targeting to raise awareness and to increase sales of the products.
+
+On social media and websites, there are many sponsored ads and banners ads, most of them are targeting consumers who have specific behaviors. 
+We pulled data from Simmon consumer behavior database, and list eleven behavior categories for movie purchasers (purchase dvd/blu-ray dics in past 12 months) in different generations ( Millennial, Gen X, Gen Y, Gen Z):
+Video Games console owners or players
+Streaming video users
+Digital music users
+TV watchers
+Radio Listeners
+Magazine readers
+Movie goers
+Supermarket goers
+Tablet owners
+Live events goers
+Social Media Users
+
+In the end of the project we made movie purchasers’ consumer behavior portfolio for each generations, and analyze each generations’ preference in each categories.
 ## Methodology: Random Forest Classifier
 
 ![alt text](https://cdn-images-1.medium.com/max/1600/0*tG-IWcxL1jg7RkT0.png)
