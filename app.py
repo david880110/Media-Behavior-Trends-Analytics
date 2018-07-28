@@ -1,3 +1,4 @@
+import os
 import datetime as dt
 import numpy as np
 import pandas as pd
@@ -8,7 +9,11 @@ from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func
 import json
 
-from flask import Flask, jsonify, render_template
+from flask import Flask, jsonify, render_template, request
+
+import keras
+from keras.preprocessing import image
+from keras import backend as K
 
 
 # Database Setup
@@ -16,6 +21,7 @@ engine = create_engine("sqlite:///database.sqlite")
 
 # Flask Setup
 app = Flask(__name__)
+
 
 # Flask Routes
 
@@ -59,6 +65,20 @@ def acknowledgments():
 @app.route("/meet_the_team")
 def team():
     return render_template("meet_the_team.html")
+
+
+# ML Model Test
+@app.route("/ml_input")
+def input():
+    return render_template('ml_input.html')
+
+
+@app.route("result", methods=['GET', 'POST'])
+def output():
+    data = {"sucess": False}
+    if request.methods == 'POST':
+        request = request.form
+        return render_template("ml_result.html", result=result)
 
 
 # ORM Process
