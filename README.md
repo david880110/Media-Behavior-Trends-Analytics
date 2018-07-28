@@ -94,7 +94,7 @@ Home entertainment is a more convenience and private way to attain the propose o
 
 “Most adults say they enjoy entertaining people in their home—an attitude that has remained constant for more than a decade. In the last three years, a substantial 77% of adults have hosted a party in their home. Informal gatherings are far more prevalent than formal parties, with 44% participation compared to 17%. Lifestyle trends, technology and social media influences, demographic factors, and motivations to host parties support the prevalence of informal gatherings.”
 
- By -Dana Macke, Associate Director, Lifestyles & Leisure
+ By *-Dana Macke, Associate Director, Lifestyles & Leisure*
 
 As the largest film industry in the world, in the United States people love movies, and enjoy watching movies at home. Our purpose is to track movie purchasers’ behaviors in different generations and genders.
 
