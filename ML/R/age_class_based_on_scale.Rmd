@@ -13,7 +13,7 @@ library(caret)
 
 ```{r}
 # Load csv file with with all category rescaled to index 1 to 5
-d_class = read.csv("r_data_18_35_55_scaled.csv")
+d_class = read.csv("../clean_data/r_data_18_35_55_scaled.csv")
 ```
 
 
