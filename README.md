@@ -102,16 +102,16 @@ Top Retailers like Amazon, Walmart, Target and Best & Buy, they are using data a
 ![alt text](https://i.imgur.com/ZajQNLG.jpg)
 On social media and websites, there are many sponsored ads and banners ads, most of them are targeting consumers who have specific behaviors. 
 We pulled data from Simmon consumer behavior database, and list eleven behavior categories for movie purchasers (purchase dvd/blu-ray dics in past 12 months) in different generations ( Millennial, Gen X, Gen Y, Gen Z):
-Video Games console owners or players
-Streaming video users
-Digital music users
-TV watchers
+Video Games Players
+Streaming Video Watchers
+Digital Music Users
+Cable TV Watchers
 Radio Listeners
-Magazine readers
-Movie goers
-Supermarket goers
-Tablet owners
-Live events goers
+Magazine Readers
+Movie Goers
+Supermarket Shoppers
+Tablet Owners
+Live events Goers
 Social Media Users
 
 In the end of the project we made movie purchasers’ consumer behavior portfolio for each generations, and analyze each generations’ preference in each categories.
@@ -124,6 +124,7 @@ In the end of the project we made movie purchasers’ consumer behavior portfoli
 
 (1) South division is the winner in terms of population and most of the people are used to old school media such as Movies, Supermarket, TV, Magzine and Radio whereas younge generations are apprently stick to modernized media
         *South Division has more states include than others*
+
 (2) Female takes the majority of the market share in all categories and Movies and Supermarkets are pretty much their backyards
 
 (3) Comparing Gen Z and Baby Boomers, Gen Z is the minority which only contains 12.78% of the total population and only beats Baby Boomer in video game section; Baby Boomer buyers are tend to increase over time as they are mostly TV and Radio users but less likely enjoy video games
