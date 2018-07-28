@@ -9,7 +9,7 @@ from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func
 import json
 
-from flask import Flask, jsonify, render_template, request
+from flask import Flask, flash, jsonify, render_template, request
 
 from wtforms import Form, TextField, TextAreaField, validators, StringField, SubmitField
 
@@ -38,8 +38,42 @@ def projectmainpage1():
 # Project Main Page
 
 
-@app.route("/projects")
+@app.route("/projects", methods=['GET', 'POST'])
 def projectmainpage2():
+    if request.method == 'GET':
+        pass
+
+    if request.method == 'POST':
+        tv = request.form["tv"]
+        social = request.form["social_media"]
+        magazine = request.form["magazine"]
+        all_lives = request.form["all_lives"]
+        video_games = request.form["video_games"]
+        tableau = request.form['tableau']
+        """
+        do whatever we want this to do
+        session.query
+        function_name(input)
+        """
+
+        # print(tv)
+        input_x = str(tv) + str(social) + str(magazine) + str(all_lives) + str(video_games) + str(tableau)
+        print(input_x)
+        print(type(input_x))
+
+        df3 = pd.read_csv("all_possible_prediction.csv")
+        df4 = pd.DataFrame(df3)
+        key_list = list(df4['pref_ID'])
+        value_list = list(df4['result'])
+        test_dict = {}
+        for i in range(0, len(key_list)):
+            test_dict[str(key_list[i])] = str(value_list[i])
+
+        print("Result:", test_dict[str(input_x)])
+        # flash("Result:", test_dict[str(input_x)])
+
+        return jsonify([test_dict[str(input_x)]])
+
     return render_template("projects.html")
 
 # ML Knowleage
@@ -103,10 +137,12 @@ def bubble_chart_data():
 
 
 # ML Library
+'''
 query_3 = """
 SELECT result, pref_ID
 from prediction_table
 """
+'''
 
 
 @app.route("/api/library")
@@ -116,16 +152,21 @@ def ml_library():
     df4 = pd.DataFrame(df3)
     key_list = list(df4['pref_ID'])
     value_list = list(df4['result'])
-    test_list = []
+    test_dict = {}
     for i in range(0, len(key_list)):
-        unit_dict = {}
-        unit_dict[key_list[i]] = value_list[i]
-        test_list.append(unit_dict)
-    return jsonify(test_list)
+        test_dict[key_list[i]] = value_list[i]
+
+        #print("Result:", test_dict[str(input_x)])
+
+    return jsonify(test_dict)
     # return jsonify(df4.to_dict(orient="records"))
 
 
 # Acquire Users' Inputs
+@app.route("/api/library/<pref_id>")
+def libraryPref(pref_id):
+    library = getLibraryPref(pref_id)
+    return jsonify(library)
 
 
 '''

@@ -94,7 +94,7 @@
             <div class="flexslider">
                 <ul class="slides">
 
-                <li style="background-image: url(../images/project.jpg);">
+                <li style="background-image: url(https://github.com/david880110/Media-Behavior-Trends-Analytics/blob/master/images/project.jpg?raw=true);">
                     <div class="overlay-gradient"></div>
                     <div class="container-fluids">
                         <div class="row">
@@ -124,7 +124,6 @@
 
                 <div class="modal-body">
                     <form  action="" method="post" role="form">
-                    {{ form.csrf }}
 
                     <div class="form-group">
                         <label for="tv">TV</label>
@@ -138,7 +137,7 @@
                       <label for="magazine">Magazine</label>
                       <input type="text" class="form-control" id="magazine" name="magazine" placeholder="Enter a Number">
                         <br>
-                            <label for="tv">All Lives</label>
+                            <label for="all_lives">All Lives</label>
                           <input type="text" class="form-control" id="all_lives" name="all_lives" placeholder="Enter a Number">
                             <br>
 
@@ -146,37 +145,15 @@
                           <input type="text" class="form-control" id="video_games" name="video_games" placeholder="Enter a Number">
                             <br>
 
-                             <label for="tableau">Tablet</label>
-                          <input type="text" class="form-control" id="tableau" name="tableau" placeholder="Enter a Number">
+                             <label for="tablet">Tablet</label>
+                          <input type="text" class="form-control" id="tablet" name="tablet" placeholder="Enter a Number">
                             <br>
+                                <button type="submit" class="btn btn-primary">Submit</button>
                     </div>
                     </form>
                     <br>
-        {% with messages = get_flashed_messages(with_categories=true) %}
-            {% if messages %}
-        {% for message in messages %}
-            {% if "Error" not in message[1]: %}
-                <div class="alert alert-info">
-                <strong>Success! </strong> {{ message[1] }}
-                </div>
-            {% endif %}
-            {% if "Error" in message[1]: %}
-                <div class="alert alert-danger">
-                <strong>Error: </strong> {{ message[1] }}
-                </div>
-            {% endif %}
-        {% endfor %}
-            {% endif %}
-        {% endwith %}
-                </div>
-
-                <div class="modal-footer">
-                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                    <button type="submit" class="btn btn-primary">Submit</button>
 
                 </div>
-
-
             </div>
           </div>
         </div>
