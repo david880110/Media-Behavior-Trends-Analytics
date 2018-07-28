@@ -47,15 +47,6 @@ We are a group of data enthusiast from various background including business, me
 ## Story
 
 > DMA (Designated Market Area) regions are the geographic areas in the United States in which local television viewing is measured by The Nielsen Company. The DMA data are essential for any marketer, researcher, or organization seeking to utilize standardized geographic areas within their business in terms of:
->- North East
->- East Central
->- West Central
->- South
->- South East
->- South West
->- Pacfic
-
-
 
 |            Generation   Name           | Births Start | Births End | Age as of 2018 |
 |:--------------------------------------:|:------------:|:----------:|:--------------:|
@@ -117,7 +108,7 @@ We are a group of data enthusiast from various background including business, me
 
 > The Simmons Research is the leading provider of consumer profiling, media planning and activation tools.
 
-* Note:
+* Note: US is divided into 7 divisions in terms of North East, East Central, West Central, South, South East, South West, Pacfic
 
 * Limitation: 
 
