@@ -66,7 +66,7 @@ Gen Z are aging from teenagers to young adults, they start graduating from colle
 
 ![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/Linear.png)
 
-![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/Gen%20Z%20vs%20Baby%20Boomer%20Db.png)
+![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/Gen%20Z%20%2B%20M.png)
 
 [Tableau Visulization](https://public.tableau.com/profile/davidgu#!/vizhome/BehaviorAnalytics/Geography?publish=yes)
 
