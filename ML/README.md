@@ -53,12 +53,12 @@ several models with different feature selection. And we found the one with featu
 
 ## Step 6  
 
-We rebuilt a Random Forest Classification Model using Python since it is more front-end friendly. 
+We rebuilt a **Random Forest Classification Model** using **Python** since it is more front-end friendly. 
 The following table were used as validation dataset, and we have calculated a probability array, 
 where each one array inside represents a case in the validation dataset, and each of the three numbers 
 in this array is the probability of the model predicted class. For instance, in first array, it shows 
 [1., 0., 0.] which mean the model predicted that this case has 100% probability belongs to class 1, and 
-zero probability belongs to other two classes. And then we generated a confusion matrix, and numbers on 
+zero probability belongs to other two classes. And then we generated a **confusion matrix**, and numbers on 
 the diagonal means it was corrected predicted, and numbers on all other position means it was not correctly 
 predicted. So the **accuracy rate = (11 + 19 + 13)/(11 + 2 + 1 + 19 + 1 + 1 + 13) = 89.6%**.
 
