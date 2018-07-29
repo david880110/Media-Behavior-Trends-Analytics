@@ -66,9 +66,9 @@ Gen Z are aging from teenagers to young adults, they start graduating from colle
 
 ![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/Linear.png)
 
-![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/Gen%20Z%20vs%20Baby%20Boomer%20Db.png)
+![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/Gen%20Z%20%2B%20M.png)
 
-[Tableau Visulization](https://public.tableau.com/profile/davidgu#!/vizhome/ConsumerBehavior_3/GenZvsBabyBoomerDb?publish=yes)
+[Tableau Visulization](https://public.tableau.com/profile/davidgu#!/vizhome/BehaviorAnalytics/Geography?publish=yes)
 
 ## Think before the demo day
 
@@ -130,9 +130,27 @@ In the end of the project we made movie purchasers’ consumer behavior portfoli
 (3) Comparing Gen Z and Baby Boomers, Gen Z is the minority which only contains 12.78% of the total population and only beats Baby Boomer in video game section; Baby Boomer buyers are tend to increase over time as they are mostly TV and Radio users but less likely enjoy video games
 
 
-## Temporate Reference
+## Index Reference
 
-![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/reference.png)
+- Millennials + Gen Z: Generation Class #1
+
+- Generation X: Generation Class #2
+
+- Baby Boomer Generation: Generation Class #3
+
+
+
+- Preference levels 1: = Never  
+
+- Preference levels 2: = Seldom 
+
+- Preference levels 3: = Occasionally 
+
+- Preference levels 4: = Often
+
+- Preference levels 5: = Frequently  
+
+  
 
 ## Data Source
 
