@@ -146,11 +146,11 @@ In the end of the project we made movie purchasers’ consumer behavior portfoli
 > Weighted - The weights measure the number of people in the population that are represented by each member of the sample. For example, if sample member has a weight of 20,000 for a selected day, this means that on that day the sample member represents 20,000 in the population.
 > Unweighted - If Unweighted is selected, then all analyses will function based on the unweighted sample. In other words, sample members will be weighted equally. Each sample member will effectively be assigned a weight of 1.
 > When should I use the Weighted sample?
- 
+
 > As a rule of thumb, use the Weighted sample.  Weighted sample analysis, which is the default, is more accurate in representing the population, and should generally be used.
- 
+
 > When should I use the Unweighted sample?
- 
+
 > Unweighted sample analysis could be used if:
 > You want to recreate an analysis that was made in Audience Watch version 5.73 or earlier.
 > You really do want to see the viewing behavior of individual sample members.
@@ -184,7 +184,7 @@ The [Coordinate Data:](https://www.kaggle.com/washimahmed/usa-latlong-for-state-
     
     (4) Data Analytics:
         Query SQL to analyze and interpret data sets to generate marketing insights and BI reporting
-
+    
     (5) Machine Learning:
         Compare models and select algorithm to predict classifications based on scaled data
         
