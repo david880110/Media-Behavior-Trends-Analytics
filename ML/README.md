@@ -6,7 +6,8 @@ Category “Totals” refers to the sample group of our project which is the tot
 of _**DVD movie purchasers**_  with given division (region), year, age and gender. Population under 
 all other categories refer to the “Cross Region” with our study group. For example: 
 
-![graph1](images/graph1.png)
+![graph1](images/graph1.png)  
+
 ![graph2](images/graph2.png)
 
 
@@ -16,7 +17,8 @@ choose given category **(e.g. share = 15/31 = 0.484)**, and there are 48.4% peop
 who also choose social media, who are male at age 18-24 from east central region . So, there are 
 absolutely some people who will choose more than one category. 
 
-![graph3](images/graph3.png)
+![graph3](images/graph3.png)  
+
 
 ## Step 3  
 
@@ -42,9 +44,12 @@ Model and make prediction in python. And according to the “Variable Importance
 several models with different feature selection. And we found the one with features [ 'tv','social_media',
 'magazine','all_live','video_game','tablet_owner'] has the highest accuracy.
 
-![graph6](images/graph6.png)
-![graph7](images/graph7.png)
-![graph8](images/graph8.png)
+![graph6](images/graph6.png)  
+
+![graph8](images/graph8.png)  
+
+![graph7](images/graph7.png)  
+
 
 ## Step 6  
 
@@ -57,6 +62,8 @@ zero probability belongs to other two classes. And then we generated a confusion
 the diagonal means it was corrected predicted, and numbers on all other position means it was not correctly 
 predicted. So the **accuracy rate = (11 + 19 + 13)/(11 + 2 + 1 + 19 + 1 + 1 + 13) = 89.6%**.
 
-![graph9](images/graph9.png)
-![graph10](images/graph10.png)
+![graph9](images/graph9.png) 
+
+![graph10](images/graph10.png)  
+
 ![graph11](images/graph11.png)
