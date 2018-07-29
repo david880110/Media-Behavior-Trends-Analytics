@@ -130,9 +130,24 @@ In the end of the project we made movie purchasers’ consumer behavior portfoli
 (3) Comparing Gen Z and Baby Boomers, Gen Z is the minority which only contains 12.78% of the total population and only beats Baby Boomer in video game section; Baby Boomer buyers are tend to increase over time as they are mostly TV and Radio users but less likely enjoy video games
 
 
-## Temporate Reference
+## Index Reference
 
-![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/reference.png)
+Video Game Players: 2
+Cable TV Watchers: 3
+Magazine Readers: 5
+Live Events Goers: 9
+Tablet Owners: 8
+Social Media Users: 10
+
+Millennials + Gen Z: 1
+Generation X: 2
+Baby Boomer Generation: 3
+
+Preference levels 1: = Never  
+Preference levels 2: = Seldom 
+Preference levels 3: = Occasionally 
+Preference levels 4: = Often
+Preference levels 5: = Frequently  
 
 ## Data Source
 
