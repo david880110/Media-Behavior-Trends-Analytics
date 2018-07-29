@@ -10,6 +10,8 @@ import json
 
 from flask import Flask, flash, jsonify, render_template, request
 
+# messagebox.showinfo("Hello", "a Tk MessageBox")
+
 # Database Setup
 engine = create_engine("sqlite:///database.sqlite")
 
@@ -62,8 +64,7 @@ def projectmainpage2():
 
         output_y = test_dict[str(input_x)]
         print("Result:", output_y)
-        # return jsonify([test_dict[str(input_x)]])
-        flash(output_y)
+        return 'Result:' + output_y
     return render_template("projects.html")
 
 
