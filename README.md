@@ -1,4 +1,4 @@
-# Consumer Behavior Analytics
+# Consumer Media Behavior Analytics
 ![built with scikitlearn](https://img.shields.io/badge/built%20with-scikitlearn-orange.svg)  ![built with Python3](https://img.shields.io/badge/built%20with-Python3-blue.svg)    ![built with SQLite](https://img.shields.io/badge/built%20with-SQLite-red.svg)![built with HTML/JS/CSS](https://img.shields.io/badge/built%20with-HTML/JS/CSS-yellow.svg)![built with leaflet](https://img.shields.io/badge/built%20with-leaflet-brightgreen.svg)  ![built with Flask](https://img.shields.io/badge/built%20with-Flask-lightgrey.svg)
 
 ![alt text](https://curiousanalysis.files.wordpress.com/2014/06/millennialsfeatured.jpg)
@@ -119,6 +119,83 @@ In the end of the project we made movie purchasers’ consumer behavior portfoli
 ## Methodology: Random Forest Classifier
 
 ![alt text](https://cdn-images-1.medium.com/max/1600/0*tG-IWcxL1jg7RkT0.png)
+
+## Machine Learning
+
+#### Step 1
+
+Category “Totals” refers to the sample group of our project which is the total population of _**DVD movie purchasers**_  with given division (region), year, age and gender. Population under all other categories refer to the “Cross Region” with our study group. For example: 
+
+![graph1](images/graph1.png)
+
+![graph2](images/graph2.png)
+
+---
+
+#### Step 2
+
+We generate another column named “share” which is the proportion in _**DVD purchaser**_ people who also 
+choose given category **(e.g. share = 15/31 = 0.484)**, and there are 48.4% people from the sample group 
+who also choose social media, who are male at age 18-24 from east central region . So, there are 
+absolutely some people who will choose more than one category. 
+
+![graph3](/Users/sean/Documents/GitHub/Consumer-Behavior-Analytics/ML/images/graph3.png)  
+
+---
+
+#### Step 3
+
+We generate a share table with average share of each category between two genders each division and year. 
+(using Pivot Table in Excel)
+
+![graph4](/Users/sean/Documents/GitHub/Consumer-Behavior-Analytics/ML/images/graph4.png)
+
+---
+
+#### Step 4
+
+We replace each text age label with index, where **age 18-35 was defined as class 1, age 35-55 was 
+defined as class 2, and 55+ was defined as class 3**. And we used Excel to rescale all share decimal 
+numbers to 5 levels, indexing 1 through 5. 
+
+![graph5](/Users/sean/Documents/GitHub/Consumer-Behavior-Analytics/ML/images/graph5.png)
+
+---
+
+#### Step 5
+
+We used **R** to do model comparison and feature selections. There are 5 candidate ML models, and 
+Random Forest Classifier has the highest Accuracy and Kappa, so we choose to build RF Classification 
+Model and make prediction in python. And according to the “Variable Importance Table”, we have tested 
+several models with different feature selection. And we found the one with features [ 'tv','social_media',
+'magazine','all_live','video_game','tablet_owner'] has the highest accuracy.
+
+![graph6](/Users/sean/Documents/GitHub/Consumer-Behavior-Analytics/ML/images/graph6.png)  
+
+![graph8](/Users/sean/Documents/GitHub/Consumer-Behavior-Analytics/ML/images/graph8.png)  
+
+![graph7](/Users/sean/Documents/GitHub/Consumer-Behavior-Analytics/ML/images/graph7.png)
+
+---
+
+#### Step 6
+
+We rebuilt a **Random Forest Classification Model** using **Python** since it is more front-end friendly. 
+The following table were used as validation dataset, and we have calculated a probability array, 
+where each one array inside represents a case in the validation dataset, and each of the three numbers 
+in this array is the probability of the model predicted class. For instance, in first array, it shows 
+[1., 0., 0.] which mean the model predicted that this case has 100% probability belongs to class 1, and 
+zero probability belongs to other two classes. And then we generated a **confusion matrix**, and numbers on 
+the diagonal means it was corrected predicted, and numbers on all other position means it was not correctly 
+predicted. So the **accuracy rate = (11 + 19 + 13)/(11 + 2 + 1 + 19 + 1 + 1 + 13) = 89.6%**.
+
+![graph9](/Users/sean/Documents/GitHub/Consumer-Behavior-Analytics/ML/images/graph9.png) 
+
+![graph10](/Users/sean/Documents/GitHub/Consumer-Behavior-Analytics/ML/images/graph10.png)  
+
+
+
+
 
 ## Findings
 
