@@ -64,7 +64,7 @@ def projectmainpage2():
 
         output_y = test_dict[str(input_x)]
         print("Result:", output_y)
-        return 'Result:' + output_y
+        return 'Result:  ' + output_y
     return render_template("projects.html")
 
 
