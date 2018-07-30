@@ -24,7 +24,7 @@
 
 Welcome to *Media Behavior Trends Analytics*, we are team **Datakenstein** !
 
-[David Gu](https://www.linkedin.com/in/thatmandavid-gu-a0806b5a/) | [Yuanyuan (Yoyo) Wu](https://www.linkedin.com/in/yuanyuan-yoyo-wu-442474116/) | [Yingling Wang](https://avatars3.githubusercontent.com/u/35980231?s=460&v=4/) | [Sean Yu](https://www.linkedin.com/in/sean-yu-733205a6/) | [Weijing Zhang](https://www.linkedin.com/in/weijing-zhang-100839149/) | [Xiangyu Zhang](https://www.linkedin.com/in/xiangyu-zhang-13046b155/)
+[David Gu](https://www.linkedin.com/in/david-gu-a0806b5a/) | [Yuanyuan (Yoyo) Wu](https://www.linkedin.com/in/yuanyuan-yoyo-wu-442474116/) | [Yingling Wang](https://avatars3.githubusercontent.com/u/35980231?s=460&v=4/) | [Sean Yu](https://www.linkedin.com/in/sean-yu-733205a6/) | [Weijing Zhang](https://www.linkedin.com/in/weijing-zhang-100839149/) | [Xiangyu Zhang](https://www.linkedin.com/in/xiangyu-zhang-13046b155/)
 
 
 
