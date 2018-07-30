@@ -150,9 +150,7 @@ We generate a share table with average share of each category between two gender
 
 #### Step 4
 
-We replace each text age label with index, where **age 18-35 was defined as class 1, age 35-55 was 
-defined as class 2, and 55+ was defined as class 3**. And we used Excel to rescale all share decimal 
-numbers to 5 levels, indexing 1 through 5. 
+We replace each text age label with index, where **age 18-35 was defined as class 1**, **age 35-55 was defined as class 2**, **and 55+ was defined as class 3**. And we used Excel to rescale all share decimal numbers to 5 levels, indexing 1 through 5. 
 
 ![graph5](images/graph5.png)
 
@@ -181,9 +179,7 @@ The following table were used as validation dataset, and we have calculated a pr
 where each one array inside represents a case in the validation dataset, and each of the three numbers 
 in this array is the probability of the model predicted class. For instance, in first array, it shows 
 [1., 0., 0.] which mean the model predicted that this case has 100% probability belongs to class 1, and 
-zero probability belongs to other two classes. And then we generated a **confusion matrix**, and numbers on 
-the diagonal means it was corrected predicted, and numbers on all other position means it was not correctly 
-predicted. So the **accuracy rate = (11 + 19 + 13)/(11 + 2 + 1 + 19 + 1 + 1 + 13) = 89.6%**.
+zero probability belongs to other two classes. And then we generated a **confusion matrix**, and numbers on the diagonal means it was corrected predicted, and numbers on all other position means it was not correctly predicted. So the **accuracy rate = (11 + 19 + 13)/(11 + 2 + 1 + 19 + 1 + 1 + 13) = 89.6%**.
 
 ![graph9](images/graph9.png) 
 
