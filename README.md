@@ -1,5 +1,18 @@
-# Media Behavior Trends Analytics
+
+
 ![built with scikitlearn](https://img.shields.io/badge/built%20with-scikitlearn-orange.svg)  ![built with Python3](https://img.shields.io/badge/built%20with-Python3-blue.svg)    ![built with SQLite](https://img.shields.io/badge/built%20with-SQLite-red.svg)![built with HTML/JS/CSS](https://img.shields.io/badge/built%20with-HTML/JS/CSS-yellow.svg)![built with leaflet](https://img.shields.io/badge/built%20with-leaflet-brightgreen.svg)  ![built with Flask](https://img.shields.io/badge/built%20with-Flask-lightgrey.svg)
+
+
+
+<h1 align="center">Media Behavior Trends Analytics</h1>
+
+<p align="center">Predicting Consumer Behavior with Artificial Neural Networks</p>
+
+<div align="center">
+
+🎩
+
+</div>
 
 ![alt text](https://github.com/david880110/Media-Behavior-Trends-Analytics/blob/master/images/project.jpg?raw=true)
 
@@ -7,11 +20,13 @@
 
 ## Contributors
 
-<img src="https://raw.githubusercontent.com/david880110/Consumer-Behavior-Analytics/master/images/Frankenselfie-Logomoose.png" width="120" height="100"/>
+<img align="center" width="100" height="100" src="https://raw.githubusercontent.com/david880110/Consumer-Behavior-Analytics/master/images/Frankenselfie-Logomoose.png">
 
 Welcome to *Media Behavior Trends Analytics*, we are team **Datakenstein** !
 
 [David Gu](https://www.linkedin.com/in/thatmandavid-gu-a0806b5a/) | [Yuanyuan (Yoyo) Wu](https://www.linkedin.com/in/yuanyuan-yoyo-wu-442474116/) | [Yingling Wang](https://avatars3.githubusercontent.com/u/35980231?s=460&v=4/) | [Sean Yu](https://www.linkedin.com/in/sean-yu-733205a6/) | [Weijing Zhang](https://www.linkedin.com/in/weijing-zhang-100839149/) | [Xiangyu Zhang](https://www.linkedin.com/in/xiangyu-zhang-13046b155/)
+
+
 
 
 We are a group of data enthusiast from various background including business, media marketing, statistics and engineering who aim to
