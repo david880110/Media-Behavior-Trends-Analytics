@@ -1,37 +1,17 @@
-# Consumer Media Behavior Analytics
+# Media Behavior Trends Analytics
 ![built with scikitlearn](https://img.shields.io/badge/built%20with-scikitlearn-orange.svg)  ![built with Python3](https://img.shields.io/badge/built%20with-Python3-blue.svg)    ![built with SQLite](https://img.shields.io/badge/built%20with-SQLite-red.svg)![built with HTML/JS/CSS](https://img.shields.io/badge/built%20with-HTML/JS/CSS-yellow.svg)![built with leaflet](https://img.shields.io/badge/built%20with-leaflet-brightgreen.svg)  ![built with Flask](https://img.shields.io/badge/built%20with-Flask-lightgrey.svg)
 
-![alt text](https://curiousanalysis.files.wordpress.com/2014/06/millennialsfeatured.jpg)
+![alt text](https://github.com/david880110/Media-Behavior-Trends-Analytics/blob/master/images/project.jpg?raw=true)
 
-# Group Name: Datakenstein
+
+
+## Contributors
 
 <img src="https://raw.githubusercontent.com/david880110/Consumer-Behavior-Analytics/master/images/Frankenselfie-Logomoose.png" width="120" height="100"/>
 
-## Contributors (In Alphabetical Order):
+Welcome to *Media Behavior Trends Analytics*, we are team **Datakenstein** !
 
-<img src="https://media.licdn.com/dms/image/C5103AQGeXUC9DXdBEA/profile-displayphoto-shrink_100_100/0?e=1537401600&v=beta&t=Usm4q9j8p3SmsXs5SVGLYWyQbaixZIm5uWU5KJ9itsM" width="90" height="90"/>
-
-[David Gu](https://www.linkedin.com/in/thatmandavid-gu-a0806b5a/)
-
-<img src="https://media.licdn.com/dms/image/C5103AQHMiIhmJN6irQ/profile-displayphoto-shrink_800_800/0?e=1537401600&v=beta&t=wGxNH7DbU2yA_u1imE23mD47reRhA2Biba3jrN-GpWw" width="90" sheight="90"/>
-
-[Yuanyuan (Yoyo) Wu](https://www.linkedin.com/in/yuanyuan-yoyo-wu-442474116/)
-
-<img src="https://avatars3.githubusercontent.com/u/35980231?s=460&v=4" width="90" height="90"/>
-
-[Yingling Wang](https://avatars3.githubusercontent.com/u/35980231?s=460&v=4/)
-
-<img src="https://media.licdn.com/dms/image/C4E03AQFCb9SJOZ3jlQ/profile-displayphoto-shrink_800_800/0?e=1538006400&v=beta&t=6mvI-BqQWaaqi9Zsz7dIByW85EiioZaILtvPH7UbxFs" width="90" height="90"/>
-
-[Sean Yu](https://www.linkedin.com/in/sean-yu-733205a6/)
-
-<img src="https://media.licdn.com/dms/image/C5603AQFVs13CewviYQ/profile-displayphoto-shrink_800_800/0?e=1537401600&v=beta&t=zd7PItQMN58B9g94ciaYhPria1qKm598ygYfyuAE4rw" width="90" height="90"/>
-
-[Weijing Zhang](https://www.linkedin.com/in/weijing-zhang-100839149/)
-
-<img src="pending" width="90" height="90"/>
-
-[Xiangyu Zhang](https://www.linkedin.com/in/xiangyu-zhang-13046b155/)
+[David Gu](https://www.linkedin.com/in/thatmandavid-gu-a0806b5a/) | [Yuanyuan (Yoyo) Wu](https://www.linkedin.com/in/yuanyuan-yoyo-wu-442474116/) | [Yingling Wang](https://avatars3.githubusercontent.com/u/35980231?s=460&v=4/) | [Sean Yu](https://www.linkedin.com/in/sean-yu-733205a6/) | [Weijing Zhang](https://www.linkedin.com/in/weijing-zhang-100839149/) | [Xiangyu Zhang](https://www.linkedin.com/in/xiangyu-zhang-13046b155/)
 
 
 We are a group of data enthusiast from various background including business, media marketing, statistics and engineering who aim to
