@@ -54,7 +54,7 @@ def projectmainpage2():
         print(input_x)
         # print(type(input_x))
 
-        df3 = pd.read_csv("all_possible_prediction.csv")
+        df3 = pd.read_csv("clean_data/all_possible_prediction.csv")
         df4 = pd.DataFrame(df3)
         key_list = list(df4['pref_ID'])
         value_list = list(df4['result'])
