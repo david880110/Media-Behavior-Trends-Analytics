@@ -254,6 +254,7 @@ The original data set comes with 2 major variables: Unweighted and Weighted Niel
 
 #### Step 4： Data Analytics:
 #### Query SQL to analyze and interpret data sets to generate marketing insights and BI reporting
+![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/query_avg_coordinate.png)
     
 ---
 
