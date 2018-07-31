@@ -74,7 +74,6 @@ Gen Z are aging from teenagers to young adults, they start graduating from colle
 ![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/Behavior%20Comperison%20Based%20on%20Generation%20Group.png)
 
 
-[Tableau Visulization](https://public.tableau.com/profile/davidgu#!/vizhome/BehaviorAnalytics/Geography?publish=yes)
 
 ## Think before the demo day
 
@@ -103,6 +102,7 @@ In the modern society, everyone is trying to make more money for living, and tim
 As the largest film industry in the world, Americans love movies, and enjoy watching movies at home. Our purpose is to track movie purchasers’ behaviors in different generations and genders.
 
 Top Retailers like Amazon, Walmart, Target and Best & Buy, they are using data analysis and ML to target audiences, and do dynamic advertising targeting to raise awareness and to increase sales of the products.
+
 
 ![alt text](https://i.imgur.com/ZajQNLG.jpg)
 
@@ -238,6 +238,9 @@ zero probability belongs to other two classes. And then we generated a **confusi
 (2) Female takes the majority of the market share in all categories and Movies and Supermarkets are pretty much their backyards
 
 (3) Comparing Gen Z and Baby Boomers, Gen Z is the minority which only contains 12.78% of the total population and only beats Baby Boomer in video game section; Baby Boomer buyers are tend to increase over time as they are mostly TV and Radio users but less likely enjoy video games
+
+[Tableau Visulization](https://public.tableau.com/profile/davidgu#!/vizhome/BehaviorAnalytics/Geography?publish=yes)
+
 
 ## Data Source
 
