@@ -14,13 +14,25 @@
 
 </div>
 
+<p align="center">
+
+​	<a href="#contributors">Contributors</a> •  <a href="#story">Story</a> •  <a href="#proposal">Proposal</a> •  <a href="#machine-learning">Machine Learning</a> •  <a href="#findings">Findings</a> •  <a href="#data-source">Data Source</a> •  <a href="#process">Process</a> • <a href="#technology-used">Technology Used</a>
+
+<p>
+
+
+
 ![alt text](https://github.com/david880110/Media-Behavior-Trends-Analytics/blob/master/images/project.jpg?raw=true)
 
 
 
 ## Contributors
 
-<img align="center" width="160" height="160" src="https://raw.githubusercontent.com/david880110/Consumer-Behavior-Analytics/master/images/Frankenselfie-Logomoose.png">
+<div align="center">
+
+<img width="160" height="140" src="https://raw.githubusercontent.com/david880110/Consumer-Behavior-Analytics/master/images/Frankenselfie-Logomoose.png">
+
+</div>
 
 Welcome to *Media Behavior Trends Analytics*, we are team **Datakenstein** !
 
@@ -293,27 +305,27 @@ The [Coordinate Data:](https://www.kaggle.com/washimahmed/usa-latlong-for-state-
 
 ## Technology Used
 
-<img src="https://cdn-images-1.medium.com/max/439/1*TN3K15kcQUDYPsl8SM5DcA.png" width="240" height="85"/>
+Scikit-learn
 
 > Scikit-learn is a free software machine learning library for the Python programming language. It features various classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting, k-means and DBSCAN, and is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy.
 
-<img src="https://raw.githubusercontent.com/david880110/tech-logo/master/python%20logo.png" width="240" height="50"/>
+Python
 
 > Python is an interpreted high-level programming language for general-purpose programming. Created by Guido van Rossum and first released in 1991, Python has a design philosophy that emphasizes code readability, notably using significant whitespace. It provides constructs that enable clear programming on both small and large scales
 
-<img src="https://raw.githubusercontent.com/david880110/tech-logo/master/sqlite%20logo.png" width="230" height="75"/>
+SQLite
 
 > SQLite is a self-contained, high-reliability, embedded, full-featured, public-domain, SQL database engine. SQLite is the most used database engine in the world.
 
-<img src="https://raw.githubusercontent.com/david880110/tech-logo/master/web%20dev%20tech%20logo.jpeg" width="240" height="80"/>
+HTML / CSS / JavaScript
 
 > HTML provides the basic structure of sites, which is enhanced and modified by other technologies like CSS and JavaScript. CSS is used to control presentation, formatting, and layout. JavaScript is used to control the behavior of different elements.
 
-<img src="https://raw.githubusercontent.com/david880110/tech-logo/master/tableau%20logo.png" width="240" height="60"/>
+Tableau
 
 > Tableau can help anyone see and understand their data. Connect to almost any database, drag and drop to create visualizations, and share with a click.
 
-<img src="https://camo.githubusercontent.com/374f4b395383ef4728c1bb7a1622c30a60c968dc/68747470733a2f2f66696c6573746f72652e6861737572612e696f2f76312f66696c652f65653138343866352d396630342d343062612d396439372d363033343262613764363733" width="240" height="100"/>
+Flask
 
 > Flask is a microframework for Python based on Werkzeug, Jinja 2 and good intentions.
 
