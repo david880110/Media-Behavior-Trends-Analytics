@@ -150,7 +150,7 @@ We generate a share table with average share of each category between two gender
 
 ---
 
-#### Step 4: Data classification
+#### Step 4: Data Classification
 #### Reclassify our age group
 
 While training and testing data in R, we figure that the only 2 generation groups, out of 5 in total, are age 18-24 and age 55+; Based upon our sample data, the algorithm could not easiely figure out the difference amoung age 25-34, age 35-44 and age 45-54 which make sense that these 3 groups have very similar purchansing behavior. So we replace each text age label with index, where
@@ -287,9 +287,9 @@ The [Coordinate Data:](https://www.kaggle.com/washimahmed/usa-latlong-for-state-
     
 (7) Data Visulization:
     
-    (7.1) Front-end Visulization
+- (7.1) Front-end Visulization
     
-    (7.2) BI Tool
+- (7.2) BI Tool
 
 ## Technology Used
 
