@@ -248,6 +248,7 @@ The original data set comes with 2 major variables: Unweighted and Weighted Niel
 
 #### Step 3： Database Engineering:
 #### Design and maintain a database that provides informative and relevant data for full-stack project usage
+![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/database_engineering.png)
 
 ---
 
