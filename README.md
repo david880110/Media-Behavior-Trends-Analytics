@@ -362,7 +362,9 @@ zero probability belongs to other two classes. And then we generated a **confusi
 
 ![graph9](images/graph9.png) 
 
-![graph10](images/graph10.png)  
+![graph10](images/graph10.png)
+
+![graph_11](images/graph11.png)  
 
 ---
 
