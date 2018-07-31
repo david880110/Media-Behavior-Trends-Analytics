@@ -282,9 +282,9 @@ The original data set comes with 2 major variables: Unweighted and Weighted Niel
 
 **Limitation**:
 
-(1) The database doest contains any data in **Mountain division**
+(1) The database **DOES NOT** contains any data in **Mountain division**
 
-(2) The database doest contains Streaming Video data from 2013 to 2014
+(2) The database **DOES NOT** contains Streaming Video data from 2013 to 2014
 
 
 
