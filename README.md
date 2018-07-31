@@ -14,11 +14,7 @@
 
 </div>
 
-<p align="center">
-
-​	<a href="#contributors">Contributors</a> •  <a href="#story">Story</a> •  <a href="#proposal">Proposal</a> •  <a href="#machine-learning">Machine Learning</a> •  <a href="#findings">Findings</a> •  <a href="#data-source">Data Source</a> •  <a href="#process">Process</a> • <a href="#technology-used">Technology Used</a>
-
-<p>
+<div><p align="center"><a href="#contributors">Contributors</a> •  <a href="#story">Story</a> •  <a href="#proposal">Proposal</a> •  <a href="#machine-learning">Machine Learning</a> •  <a href="#findings">Findings</a> •  <a href="#data-source">Data Source</a> •  <a href="#process">Process</a> • <a href="#technology-used">Technology Used</a><p></div>
 
 
 
