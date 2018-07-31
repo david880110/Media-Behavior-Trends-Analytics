@@ -119,15 +119,25 @@ On social media and websites, there are many sponsored ads and banners ads, most
 We pulled data from Simmon consumer behavior database, and list eleven behavior categories for movie purchasers (purchase dvd/blu-ray dics in past 12 months) in different generations ( Millennial, Gen X, Gen Y, Gen Z):
 
 (1) Video Games Players
+
 (2) Streaming Video Watchers
+
 (3) Digital Music Users
+
 (4) Cable TV Watchers
+
 (5) Radio Listeners
+
 (6) Magazine Readers
+
 (7) Movie Goers
+
 (8) Supermarket Shoppers
+
 (9) Tablet Owners
+
 (10) Live events Goers
+
 (11) Social Media Users
 
 In the end of the project we made movie purchasers’ consumer behavior portfolio for each generations, and analyze each generations’ preference in each behavior categories.
@@ -149,11 +159,15 @@ In the end of the project we made movie purchasers’ consumer behavior portfoli
 
 ## Considerations for future Home Entertainment Campagin 
 (1) As the traditional "gift giving (Grandparents) " audience of the generation- Baby boomers, are the most Cable TV consumers. 
+
 (2) As the new generation purchasers: Millenials and Gen Z are the least Cable TV consumers, however, most of them are heavy social media users. 
 Marketers and Advertisers for Home Entertainment can plan on Social Media for targeting Younger audiences. 
+
 *one interesting finding* : Millenials and Gen Z perfer reading Magazines than watching cable TV.
 (3) As the middle age generation , Gen X has the similar behaviors with Millenials, but they are lighter social media users and heavier Cable TV watchers. 
+
 (4) Live- events goers, video gamers, Digital music listeners and Streaming video watchers are skewed younger. 
+
 (5) Baby Boomers Social Media users are increasing.
 
 In general, Social Media and Digital Media are the future for Home Entertainment Campaings. Magazine and Cable TV still have loyalty and engaging audiences.
