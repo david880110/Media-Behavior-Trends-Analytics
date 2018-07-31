@@ -81,42 +81,41 @@ Gen Z are aging from teenagers to young adults, they start graduating from colle
 ## Proposal
 
 This study, based on a behavioral data set of media indstry from 2013 - 2016, suggests that about 85% of the customer loyalty in terms of actual behavior can be predicted, in particular by demographic factors such as their generation group  
-In the modern society, everyone is trying to make more money for living, and time has literally become more valuable.
-
-Not everyone has time to go to the theatre and spend two hours to watch a movie, but people still need entertainment industry for relaxing and enjoying their lives.
-
-Home entertainment is a more convenience and private way to attain the propose of entertaining.
+In the modern society, everyone is trying to make more money for living, and time has literally become more valuable, but not everyone has time to go to the theatre and spend two hours to watch a movie, and people still need entertainment industry for relaxing and enjoying their lives. Therefore Home Entertainment is a more convenience and private way to attain the propose of entertaining.
 ![alt text](https://www.edimax.com/edimax/mw/cufiles/images/productimage/wireless/News/CV-7428nS_Home_Entertainment.jpg)
 
 > “Most adults say they enjoy entertaining people in their home—an attitude that has remained constant for more than a decade. In the last three years, a substantial 77% of adults have hosted a party in their home. Informal gatherings are far more prevalent than formal parties, with 44% participation compared to 17%. Lifestyle trends, technology and social media influences, demographic factors, and motivations to host parties support the prevalence of informal gatherings.”
 >
 > By *-Dana Macke, Associate Director, Lifestyles & Leisure*
 
-As the largest film industry in the world, in the United States people love movies, and enjoy watching movies at home. Our purpose is to track movie purchasers’ behaviors in different generations and genders.
+As the largest film industry in the world, Americans love movies, and enjoy watching movies at home. Our purpose is to track movie purchasers’ behaviors in different generations and genders.
 
 Top Retailers like Amazon, Walmart, Target and Best & Buy, they are using data analysis and ML to target audiences, and do dynamic advertising targeting to raise awareness and to increase sales of the products.
+
 ![alt text](https://i.imgur.com/ZajQNLG.jpg)
+
 On social media and websites, there are many sponsored ads and banners ads, most of them are targeting consumers who have specific behaviors. 
 We pulled data from Simmon consumer behavior database, and list eleven behavior categories for movie purchasers (purchase dvd/blu-ray dics in past 12 months) in different generations ( Millennial, Gen X, Gen Y, Gen Z):
-Video Games Players
-Streaming Video Watchers
-Digital Music Users
-Cable TV Watchers
-Radio Listeners
-Magazine Readers
-Movie Goers
-Supermarket Shoppers
-Tablet Owners
-Live events Goers
-Social Media Users
 
-In the end of the project we made movie purchasers’ consumer behavior portfolio for each generations, and analyze each generations’ preference in each categories.
+(1) Video Games Players
+(2) Streaming Video Watchers
+(3) Digital Music Users
+(4) Cable TV Watchers
+(5) Radio Listeners
+(6) Magazine Readers
+(7) Movie Goers
+(8) Supermarket Shoppers
+(9) Tablet Owners
+(10) Live events Goers
+(11) Social Media Users
 
-## Methodology: Random Forest Classifier
-
-![alt text](https://cdn-images-1.medium.com/max/1600/0*tG-IWcxL1jg7RkT0.png)
+In the end of the project we made movie purchasers’ consumer behavior portfolio for each generations, and analyze each generations’ preference in each behavior categories.
 
 ## Machine Learning
+
+#### Methodology: Random Forest Classifier
+
+![alt text](https://cdn-images-1.medium.com/max/1600/0*tG-IWcxL1jg7RkT0.png)
 
 #### Step 1
 
@@ -131,7 +130,7 @@ Category “Totals” refers to the sample group of our project which is the tot
 #### Step 2
 
 We generate another column named “share” which is the proportion in _**DVD purchaser**_ people who also 
-choose given category **(e.g. share = 15/31 = 0.484)**, and there are 48.4% people from the sample group 
+choose given category **(e.g. share = 26/31 = 0.8387)**, and there are 83.5% people from the sample group 
 who also choose social media, who are male at age 18-24 from east central region . So, there are 
 absolutely some people who will choose more than one category. 
 
@@ -150,7 +149,13 @@ We generate a share table with average share of each category between two gender
 
 #### Step 4
 
-We replace each text age label with index, where **age 18-35 was defined as class 1**, **age 35-55 was defined as class 2**, **and 55+ was defined as class 3**. And we used Excel to rescale all share decimal numbers to 5 levels, indexing 1 through 5. 
+We replace each text age label with index, where
+
+(1) **age 18-35 was defined as class 1**
+(2) **age 35-55 was defined as class 2**
+(3) **age 55+ was defined as class 3**
+ 
+ And we used Excel to rescale all share value into 5 levels from lowest to highest, indexing 1 through 5. 
 
 ![graph5](images/graph5.png)
 
@@ -161,8 +166,8 @@ We replace each text age label with index, where **age 18-35 was defined as clas
 We used **R** to do model comparison and feature selections. There are 5 candidate ML models, and 
 Random Forest Classifier has the highest Accuracy and Kappa, so we choose to build RF Classification 
 Model and make prediction in python. And according to the “Variable Importance Table”, we have tested 
-several models with different feature selection. And we found the one with features [ 'tv','social_media',
-'magazine','all_live','video_game','tablet_owner'] has the highest accuracy.
+several models with different feature selection. And we found that [ 'tv','social_media',
+'magazine','all_live','video_game','tablet_owner'] features has the highest accuracy.
 
 ![graph6](images/graph6.png)  
 
@@ -229,14 +234,7 @@ zero probability belongs to other two classes. And then we generated a **confusi
 
 ![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/weighted_and_unweighted_explaination.png)
 
-> What is the difference between the Weighted and Unweighted Nielsen Sample?
-> Weighted - The weights measure the number of people in the population that are represented by each member of the sample. For example, if sample member has a weight of 20,000 for a selected day, this means that on that day the sample member represents 20,000 in the population.
-> Unweighted - If Unweighted is selected, then all analyses will function based on the unweighted sample. In other words, sample members will be weighted equally. Each sample member will effectively be assigned a weight of 1.
-> When should I use the Weighted sample?
-
-> As a rule of thumb, use the Weighted sample.  Weighted sample analysis, which is the default, is more accurate in representing the population, and should generally be used.
-
-> When should I use the Unweighted sample?
+The original data set comes with 2 major variables: Unweighted and Weighted Nielsen Sample and the reason that we choose the unweighted value is becuase Nielsen suggests that 
 
 > Unweighted sample analysis could be used if:
 > You want to recreate an analysis that was made in Audience Watch version 5.73 or earlier.
@@ -260,29 +258,29 @@ The [Coordinate Data:](https://www.kaggle.com/washimahmed/usa-latlong-for-state-
 
 [Project Flow Chart](https://drive.google.com/file/d/1U_OYKOKNoK5CroU_IsgrtbLWE9d77tdu/view?usp=sharing)
 
-    (1) Data Retrieval:
-        Obtaining data from data sources
+(1) Data Retrieval:
+    Obtaining data from data sources
     
-    (2) Data Engineering:
-        Develop pipelines that prepare and transform data for Machine Learning, front-end engineering, and BI usage
+(2) Data Engineering:
+    Clean data and develop pipelines that prepare and transform data for Machine Learning, front-end engineering, and BI usage
     
-    (3) Database Engineering:
-        Design and maintain a database that provides informative and relevant data for full-stack project usage
+(3) Database Engineering:
+    Design and maintain a database that provides informative and relevant data for full-stack project usage
+
+(4) Data Analytics:
+    Query SQL to analyze and interpret data sets to generate marketing insights and BI reporting
     
-    (4) Data Analytics:
-        Query SQL to analyze and interpret data sets to generate marketing insights and BI reporting
-    
-    (5) Machine Learning:
-        Compare models and select algorithm to predict classifications based on scaled data
+(5) Machine Learning:
+    Compare models and select algorithm to predict classifications based on scaled data
         
-    (6) API Development:
-        Transform data into JSON format and deploy into API to support front-end applications
+(6) API Development:
+    Transform data into JSON format and deploy into API to support front-end applications
     
-    (7) Data Visulization:
+(7) Data Visulization:
     
-        (6.1) Front-end Visulization:
+    (7.1) Front-end Visulization
     
-        (6.2) BI Tool:
+    (7.2) BI Tool
 
 ## Technology Used
 
