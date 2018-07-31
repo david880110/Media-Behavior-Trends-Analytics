@@ -69,8 +69,7 @@ We are a group of data enthusiast from various background including business, me
 
 
 Our Main Focus of this project is to compare Millennials& Gen Z and other generations' consumer behaviours.
-Becuase Millennials and Gen Z grew up with smart phone and internet.  
-Millenials are aging into a new lifestage as they start to get married settle down, and have families. 
+Becuase Millennials and Gen Z grew up with smart phone and internet as they are aging into a new lifestage as they start to get married settle down, and have families. 
 Gen Z are aging from teenagers to young adults, they start graduating from college and getting the first job. 
 
 
