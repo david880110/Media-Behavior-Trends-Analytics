@@ -30,9 +30,9 @@
 
 </div>
 
-<div><p align="center">Welcome to *Media Behavior Trends Analytics*, we are team **Datakenstein** !<p></div>
+<div><p align="center"> Welcome to *Media Behavior Trends Analytics*, we are team **Datakenstein** ! <p></div>
 
-<div><p align="center">[David Gu](https://www.linkedin.com/in/david-gu-a0806b5a/) | [Yuanyuan (Yoyo) Wu](https://www.linkedin.com/in/yuanyuan-yoyo-wu-442474116/) | [Yingling Wang](https://www.linkedin.com/in/yin-ling-wang-b02274132/) | [Sean Yu](https://www.linkedin.com/in/sean-yu-733205a6/) | [Weijing Zhang](https://www.linkedin.com/in/weijing-zhang-100839149/) | [Xiangyu Zhang](https://www.linkedin.com/in/xiangyu-zhang-13046b155/)<p></div>
+<div><p align="center"> [David Gu](https://www.linkedin.com/in/david-gu-a0806b5a/) | [Yuanyuan (Yoyo) Wu](https://www.linkedin.com/in/yuanyuan-yoyo-wu-442474116/) | [Yingling Wang](https://www.linkedin.com/in/yin-ling-wang-b02274132/) | [Sean Yu](https://www.linkedin.com/in/sean-yu-733205a6/) | [Weijing Zhang](https://www.linkedin.com/in/weijing-zhang-100839149/) | [Xiangyu Zhang](https://www.linkedin.com/in/xiangyu-zhang-13046b155/) <p></div>
 
 
 
