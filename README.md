@@ -148,13 +148,13 @@ In the end of the project we made movie purchasers’ consumer behavior portfoli
 
 ## Findings
 
-(1) **South division is the winner** in terms of population and most of the people are used to old school media such as Movies, Supermarket, TV, Magzine and Radio whereas younge generations are apprently stick to modernized media
-        *South Division has more states include than others*
+(1) **South division is the winner** in terms of population and most of the people are used to old school media such as Movies, Supermarket, TV, Magzine and Radio whereas younge generations are apprently stick to modernized media.
+        *South Division has more states include than others*.
 
-(2) **Female takes the majority** of the market share in all categories and Movies and Supermarkets are pretty much their backyards
+(2) **Female takes the majority** of the market share in all categories. Movies and Supermarkets are pretty much their backyards.
 
 
-(3) Based on our sample and model, we are now able to predict any individual's generation group with **89.6% accuracy**
+(3) Based on our sample and model, we are now able to predict any individual's generation group with **89.6% accuracy**.
 
 
 ## Considerations for future Home Entertainment Campaign 
@@ -164,7 +164,7 @@ In the end of the project we made movie purchasers’ consumer behavior portfoli
 
 **Marketers and Advertisers for Home Entertainment can plan on Social Media for targeting Younger audiences.**
 
-*one interesting finding* : Millenials and Gen Z perfer reading Magazines than watching cable TV.
+*One interesting finding* : Millenials and Gen Z perfer reading Magazines than watching cable TV.
 
 (3) As the middle age generation , Gen X has the similar behaviors with Millenials, but they are lighter social media users and heavier Cable TV watchers. 
 
@@ -236,15 +236,15 @@ The original data set comes with 2 major variables: Unweighted and Weighted Niel
 #### Step 1： Data Retrieval
 #### Obtaining data from data sources
 
---- 
+---
 
 #### Step 2： Data Engineering
 #### Use Python to transform non-tabular formatted data into tabular data for SQL storage purpose
 
 ![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/python%20loop_1.png)
 ![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/data_engineering_1.png)
-  
----  
+
+---
 
 #### Step 3： Database Engineering:
 #### Design and maintain a database that provides informative and relevant data for full-stack project usage
@@ -363,23 +363,8 @@ zero probability belongs to other two classes. And then we generated a **confusi
 ![graph9](images/graph9.png) 
 
 ![graph10](images/graph10.png)  
-   
----
-   
-#### Step 12: API Development
-#### Transform data into JSON format and deploy into API to support front-end applications
- 
----
- 
-#### Step 13: Data Visulization:
-#### Use HTML/JS/CSS corporate with Tableau and Mapbox to develop a full-stack front-end application
 
-- (13.1) Front-end
-<img src="https://raw.githubusercontent.com/david880110/tech-logo/master/web%20dev%20tech%20logo.jpeg" width="240" height="80"/>
 
-- (13.2) BI Tool
-<img src="https://raw.githubusercontent.com/david880110/tech-logo/master/tableau%20logo.png" width="240" height="60"/>
-<img src="https://raw.githubusercontent.com/david880110/tech-logo/master/mapbox.png" width="240" height="80"/>
 
 ---
 
