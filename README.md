@@ -138,16 +138,16 @@ In the end of the project we made movie purchasers’ consumer behavior portfoli
 
 ## Findings
 
-(1) South division is the winner in terms of population and most of the people are used to old school media such as Movies, Supermarket, TV, Magzine and Radio whereas younge generations are apprently stick to modernized media
+(1) **South division is the winner** in terms of population and most of the people are used to old school media such as Movies, Supermarket, TV, Magzine and Radio whereas younge generations are apprently stick to modernized media
         *South Division has more states include than others*
 
-(2) Female takes the majority of the market share in all categories and Movies and Supermarkets are pretty much their backyards
+(2) **Female takes the majority** of the market share in all categories and Movies and Supermarkets are pretty much their backyards
 
-(3) Gen Z + Millennials beats other 2 generations in video game section
+(3) **Gen Z + Millennials** beats other 2 generations in **Video Game** section
 
-(4) As people grow old, we are tend to switch our Video Game and Social Media activities into Movie Theater, Grocery Store, Cable TV and Magzine
+(4) **As people grow old**, we are tend to switch our Video Game and Social Media activities into **Movie Theater, Grocery Store, Cable TV and Magzine**
 
-(5) Based on our sample and model, we are now able to predict any individual's generation group with 89.6% accuracy
+(5) Based on our sample and model, we are now able to predict any individual's generation group with **89.6% accuracy**
 
 [Tableau Visulization](https://public.tableau.com/profile/davidgu#!/vizhome/BehaviorAnalytics/Geography?publish=yes)
 
