@@ -241,6 +241,7 @@ The original data set comes with 2 major variables: Unweighted and Weighted Niel
 > You really do want to see the viewing behavior of individual sample members.
 
 * Note: US is divided into 7 divisions in terms of
+
 (1) North East
 (2) West Central
 (3) South
