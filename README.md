@@ -156,7 +156,9 @@ We generate a share table with average share of each category between two gender
 While training and testing data in R, we figure that the only 2 generation groups, out of 5 in total, are age 18-24 and age 55+; Based upon our sample data, the algorithm could not easiely figure out the difference amoung age 25-34, age 35-44 and age 45-54 which make sense that these 3 groups have very similar purchansing behavior. So we replace each text age label with index, where
 
 (1) **age 18-35 was defined as class 1**
+
 (2) **age 35-55 was defined as class 2**
+
 (3) **age 55+ was defined as class 3**
 
 as the boundary in betweenn the 3 are clearer than before
