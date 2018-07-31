@@ -245,7 +245,11 @@ zero probability belongs to other two classes. And then we generated a **confusi
 
 (2) Female takes the majority of the market share in all categories and Movies and Supermarkets are pretty much their backyards
 
-(3) Comparing Gen Z and Baby Boomers, Gen Z is the minority which only contains 12.78% of the total population and only beats Baby Boomer in video game section; Baby Boomer buyers are tend to increase over time as they are mostly TV and Radio users but less likely enjoy video games
+(3) Gen Z + Millennials beats other 2 generations in video game section
+
+(4) As people grow old, we are tend to switch our Video Game and Social Media activities into Movie Theater, Grocery Store, Cable TV and Magzine
+
+(5) Based on our sample and model, we are now able to predict any individual's generation group with 89.6% accuracy
 
 [Tableau Visulization](https://public.tableau.com/profile/davidgu#!/vizhome/BehaviorAnalytics/Geography?publish=yes)
 
