@@ -364,7 +364,17 @@ zero probability belongs to other two classes. And then we generated a **confusi
 
 ![graph10](images/graph10.png)  
 
+---
 
+#### Step 12: API Development
+
+Transform data into JSON format and deploy into API to support front-end applications.
+
+---
+
+#### Step 13: Data Visulization
+
+Use HTML/JS/CSS corporate with Tableau and Mapbox to develop a full-stack front-end application.
 
 ---
 
