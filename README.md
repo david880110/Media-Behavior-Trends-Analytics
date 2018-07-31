@@ -164,7 +164,7 @@ In the end of the project we made movie purchasers’ consumer behavior portfoli
 
 **Marketers and Advertisers for Home Entertainment can plan on Social Media for targeting Younger audiences.**
 
-*One interesting finding* : Millenials and Gen Z perfer reading Magazines than watching cable TV.
+*One interesting finding* : Millenials and Gen Z prefer reading Magazines than watching cable TV.
 
 (3) As the middle age generation , Gen X has the similar behaviors with Millenials, but they are lighter social media users and heavier Cable TV watchers. 
 
