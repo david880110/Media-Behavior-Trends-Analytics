@@ -223,7 +223,9 @@ The original data set comes with 2 major variables: Unweighted and Weighted Niel
 --- 
 
 #### Step 2： Data Engineering
-#### Clean data and develop pipelines that prepare and transform data for Machine Learning, front-end engineering, and BI usage
+#### Use Python to transform non-tabular formatted data into tabular data for SQL storage purpose
+
+![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/data_engineering_1.png)
   
 ---  
 
