@@ -381,6 +381,8 @@ zero probability belongs to other two classes. And then we generated a **confusi
 - (13.2) BI Tool
 <img src="https://raw.githubusercontent.com/david880110/tech-logo/master/tableau%20logo.png" width="240" height="60"/>
 
+---
+
 ## Technology Used
 
 Scikit-learn
