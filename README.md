@@ -93,6 +93,7 @@ Gen Z are aging from teenagers to young adults, they start graduating from colle
 
 This study, based on a behavioral data set of media indstry from 2013 - 2016, suggests that about 85% of the customer loyalty in terms of actual behavior can be predicted, in particular by demographic factors such as their generation group  
 In the modern society, everyone is trying to make more money for living, and time has literally become more valuable, but not everyone has time to go to the theatre and spend two hours to watch a movie, and people still need entertainment industry for relaxing and enjoying their lives. Therefore Home Entertainment is a more convenience and private way to attain the propose of entertaining.
+
 ![alt text](https://www.edimax.com/edimax/mw/cufiles/images/productimage/wireless/News/CV-7428nS_Home_Entertainment.jpg)
 
 > “Most adults say they enjoy entertaining people in their home—an attitude that has remained constant for more than a decade. In the last three years, a substantial 77% of adults have hosted a party in their home. Informal gatherings are far more prevalent than formal parties, with 44% participation compared to 17%. Lifestyle trends, technology and social media influences, demographic factors, and motivations to host parties support the prevalence of informal gatherings.”
