@@ -118,6 +118,7 @@ In the end of the project we made movie purchasers’ consumer behavior portfoli
 ![alt text](https://cdn-images-1.medium.com/max/1600/0*tG-IWcxL1jg7RkT0.png)
 
 #### Step 1
+** We decided to utilize "% of total" of each behavior category for prediction use in order to classify the generation group based on the sample size**
 
 Category “Totals” refers to the sample group of our project which is the total population of _**DVD movie purchasers**_  with given division (region), year, age and gender. Population under all other categories refer to the “Cross Region” with our study group. For example: 
 
