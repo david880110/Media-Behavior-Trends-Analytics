@@ -277,7 +277,7 @@ The original data set comes with 2 major variables: Unweighted and Weighted Niel
 
 
 
-**Limitation: **
+**Limitation**:
 
 (1) The database doest contains any data in **Mountain division**
 
