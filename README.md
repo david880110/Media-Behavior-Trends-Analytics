@@ -117,7 +117,7 @@ In the end of the project we made movie purchasers’ consumer behavior portfoli
 
 ![alt text](https://cdn-images-1.medium.com/max/1600/0*tG-IWcxL1jg7RkT0.png)
 
-#### Step 1
+#### Step 1: Data Transforming
 #### We decided to utilize "% of total" of each behavior category for prediction use in order to classify the generation group based on the sample size
 
 Category “Totals” refers to the sample group of our project which is the total population of _**DVD movie purchasers**_  with given division (region), year, age and gender. Population under all other categories refer to the “Cross Region” with our study group. For example: 
@@ -128,7 +128,7 @@ Category “Totals” refers to the sample group of our project which is the tot
 
 ---
 
-#### Step 2
+#### Step 2: Data Engineering
 #### Use Python to generate the "% of total" column
 
 We generate another column named “share” which is the proportion in _**DVD purchaser**_ people who also 
@@ -140,7 +140,7 @@ absolutely some people who will choose more than one category.
 
 ---
 
-#### Step 3
+#### Step 3: Data Engineering
 #### Use Excel pivot table for data transformation
 
 We generate a share table with average share of each category between two genders each division and year. 
@@ -150,7 +150,7 @@ We generate a share table with average share of each category between two gender
 
 ---
 
-#### Step 4
+#### Step 4: Data classification
 #### Reclassify our age group
 
 While training and testing data in R, we figure that the only 2 generation groups, out of 5 in total, are age 18-24 and age 55+; Based upon our sample data, the algorithm could not easiely figure out the difference amoung age 25-34, age 35-44 and age 45-54 which make sense that these 3 groups have very similar purchansing behavior. So we replace each text age label with index, where
@@ -163,9 +163,8 @@ While training and testing data in R, we figure that the only 2 generation group
 
 **As the boundary in betweenn the 3 are clearer than before**
  
-#### Step 5
-#### Scaling
-We used Excel to rescale all share value into 5 levels from lowest to highest, indexing 1 through 5, for machine learning usage, and define them as **Preference Levels**
+#### Step 5: Scaling
+#### We used Excel to rescale all share value into 5 levels from lowest to highest, indexing 1 through 5, for machine learning usage, and define them as **Preference Levels**
 
 ![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/scaling%20process.png)
 
@@ -181,7 +180,7 @@ We used Excel to rescale all share value into 5 levels from lowest to highest, i
 
 ---
 
-#### Step 6
+#### Step 6: Modeling
 
 #### We used **R** to do model comparison and feature selections
 
@@ -204,7 +203,7 @@ several models with different feature selection. And we found that below behavio
 ![graph7](images/graph7.png)
 
 
-#### Step 7
+#### Step 7: Machine Learning
 #### We rebuilt a **Random Forest Classification Model** using **Python** since it is more front-end friendly.
  
 The following table were used as validation dataset, and we have calculated a scaled value array, 
