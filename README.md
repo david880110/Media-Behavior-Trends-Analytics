@@ -20,7 +20,7 @@
 
 ## Contributors
 
-<img align="center" width="100" height="100" src="https://raw.githubusercontent.com/david880110/Consumer-Behavior-Analytics/master/images/Frankenselfie-Logomoose.png">
+<img align="center" width="160" height="100" src="https://raw.githubusercontent.com/david880110/Consumer-Behavior-Analytics/master/images/Frankenselfie-Logomoose.png">
 
 Welcome to *Media Behavior Trends Analytics*, we are team **Datakenstein** !
 
