@@ -379,7 +379,7 @@ zero probability belongs to other two classes. And then we generated a **confusi
 
 - (13.2) BI Tool
 <img src="https://raw.githubusercontent.com/david880110/tech-logo/master/tableau%20logo.png" width="240" height="60"/>
-<img src="https://www.google.com/search?q=mapbox&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi53dOY5sjcAhWGFXwKHQ63CzMQ_AUIDCgD&biw=1366&bih=637#imgrc=ydBcG0BLyXsd-M:" width="240" height="60"/>
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1600%2F0*ok6yuDnTx4o2PSFx.png&imgrefurl=https%3A%2F%2Fblog.mapbox.com%2Fhello-explorer-the-new-mapbox-logo-28087a9d5bd7&docid=uz0Gtyo_sW4n2M&tbnid=ydBcG0BLyXsd-M%3A&vet=10ahUKEwiPqe6Z5sjcAhWrxlQKHYtNB84QMwg8KAIwAg..i&w=1600&h=692&bih=637&biw=1366&q=mapbox&ved=0ahUKEwiPqe6Z5sjcAhWrxlQKHYtNB84QMwg8KAIwAg&iact=mrc&uact=8" width="240" height="60"/>
 
 ---
 
