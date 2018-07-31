@@ -132,112 +132,9 @@ We pulled data from Simmon consumer behavior database, and list eleven behavior 
 
 In the end of the project we made movie purchasers’ consumer behavior portfolio for each generations, and analyze each generations’ preference in each behavior categories.
 
-## Machine Learning
-
-#### Methodology: Random Forest Classifier
+## Methodology: Random Forest Classifier
 
 ![alt text](https://cdn-images-1.medium.com/max/1600/0*tG-IWcxL1jg7RkT0.png)
-
-#### Step 1: Data Transforming
-#### We decided to utilize "% of total" of each behavior category for prediction use in order to classify the generation group based on the sample size
-
-Category “Totals” refers to the sample group of our project which is the total population of _**DVD movie purchasers**_  with given division (region), year, age and gender. Population under all other categories refer to the “Cross Region” with our study group. For example: 
-
-![graph1](images/graph1.png)
-
-![graph2](images/graph2.png)
-
----
-
-#### Step 2: Data Engineering
-#### Use Python to generate the "% of total" column
-
-We generate another column named “share” which is the proportion in _**DVD purchaser**_ people who also 
-choose given category **(e.g. share = 26/31 = 0.8387)**, and there are 83.5% people from the sample group 
-who also choose social media, who are male at age 18-24 from east central region . So, there are 
-absolutely some people who will choose more than one category. 
-
-![graph3](images/graph3.png)  
-
----
-
-#### Step 3: Data Engineering
-#### Use Excel pivot table for data transformation
-
-We generate a share table with average share of each category between two genders each division and year. 
-(using Pivot Table in Excel)
-
-![graph4](images/graph4.png)
-
----
-
-#### Step 4: Data Classification
-#### Reclassify our age group
-
-While training and testing data in R, we figure that the only 2 generation groups, out of 5 in total, are age 18-24 and age 55+; Based upon our sample data, the algorithm could not easiely figure out the difference amoung age 25-34, age 35-44 and age 45-54 which make sense that these 3 groups have very similar purchansing behavior. So we replace each text age label with index, where
-
-|                  Index                 |   Index Reference   |
-|:--------------------------------------:|:-------------------:|
-|          Millennials + Gen Z           |           #1        |
-|            Generation   X              |           #2        |
-|         Baby Boomer Generation         |           #3        |
-
-**As the boundary in betweenn the 3 are clearer than before**
-
-#### Step 5: Scaling
-#### We used Excel to rescale all share value into 5 levels from lowest to highest, indexing 1 through 5, for machine learning usage, and define them as **Preference Levels**
-
-![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/scaling%20process.png)
-
-![graph5](images/graph5.png)
-
-|                  Index                 |   Index Reference   |
-|:--------------------------------------:|:-------------------:|
-|                  Never                 | Preference levels 1 |
-|                 Seldom                 | Preference levels 2 |
-|               Occasionally             | Preference levels 3 |
-|                  Often                 | Preference levels 4 |
-|               Frequently               | Preference levels 5 |
-
----
-
-#### Step 6: Modeling
-
-#### We used **R** to do model comparison and feature selections
-
-There are 5 candidate ML models, and 
-Random Forest Classifier has the highest Accuracy and Kappa, so we choose to build RF Classification 
-Model and make prediction in python. And according to the “Variable Importance Table”, we have tested 
-several models with different feature selection. And we found that below behaviors have the highest accuracy:
-
-(1) Cable TV Watchers
-(2) Social Media Users
-(3) Magazine Readers
-(4) Live Events Goers
-(5) Video Game Players
-(6) Tablet Owners
-
-![graph6](images/graph6.png)  
-
-![graph8](images/graph8.png)  
-
-![graph7](images/graph7.png)
-
-
-#### Step 7: Machine Learning
-#### We rebuilt a **Random Forest Classification Model** using **Python** since it is more front-end friendly.
-
-The following table were used as validation dataset, and we have calculated a scaled value array, 
-where each one array inside represents a case in the validation dataset, and each of these three numbers 
-in this array are used for the generation class prediction. For instance, in first array, it shows 
-[1., 0., 0.] which mean the model predicted that this case has 100% probability belongs to class 1, and 
-zero probability belongs to other two classes. And then we generated a **confusion matrix**, and numbers on the diagonal means it was corrected predicted, and numbers on all other position means it was not correctly predicted. So the **accuracy rate = (11 + 19 + 13)/(11 + 2 + 1 + 19 + 1 + 1 + 13) = 89.6%**.
-
-> A confusion matrix is a table that is often used to describe the performance of a classification model (or "classifier") on a set of test data for which the true values are known
-
-![graph9](images/graph9.png) 
-
-![graph10](images/graph10.png)  
 
 ## Findings
 
@@ -311,28 +208,126 @@ The original data set comes with 2 major variables: Unweighted and Weighted Niel
 
 [View Project Flow Chart Here](https://drive.google.com/file/d/1U_OYKOKNoK5CroU_IsgrtbLWE9d77tdu/view?usp=sharing)
 
-(1) Data Retrieval:
-    Obtaining data from data sources
+#### Step 1： Data Retrieval
+#### Obtaining data from data sources
     
-(2) Data Engineering:
-    Clean data and develop pipelines that prepare and transform data for Machine Learning, front-end engineering, and BI usage
+#### Step 2： Data Engineering
+#### Clean data and develop pipelines that prepare and transform data for Machine Learning, front-end engineering, and BI usage
     
-(3) Database Engineering:
-    Design and maintain a database that provides informative and relevant data for full-stack project usage
+#### Step 3： Database Engineering:
+#### Design and maintain a database that provides informative and relevant data for full-stack project usage
 
-(4) Data Analytics:
-    Query SQL to analyze and interpret data sets to generate marketing insights and BI reporting
+#### Step 4： Data Analytics:
+#### Query SQL to analyze and interpret data sets to generate marketing insights and BI reporting
     
-(5) Machine Learning:
-    Compare models and select algorithm to predict classifications based on scaled data
+
+#### Step 5: Data Transforming
+#### We decided to utilize "% of total" of each behavior category for prediction use in order to classify the generation group based on the sample size
+
+Category “Totals” refers to the sample group of our project which is the total population of _**DVD movie purchasers**_  with given division (region), year, age and gender. Population under all other categories refer to the “Cross Region” with our study group. For example: 
+
+![graph1](images/graph1.png)
+
+![graph2](images/graph2.png)
+
+---
+
+#### Step 6: Data Engineering
+#### Use Python to generate the "% of total" column
+
+We generate another column named “share” which is the proportion in _**DVD purchaser**_ people who also 
+choose given category **(e.g. share = 26/31 = 0.8387)**, and there are 83.5% people from the sample group 
+who also choose social media, who are male at age 18-24 from east central region . So, there are 
+absolutely some people who will choose more than one category. 
+
+![graph3](images/graph3.png)  
+
+---
+
+#### Step 7: Data Engineering
+#### Use Excel pivot table for data transformation
+
+We generate a share table with average share of each category between two genders each division and year. 
+(using Pivot Table in Excel)
+
+![graph4](images/graph4.png)
+
+---
+
+#### Step 8: Data Classification
+#### Reclassify our age group
+
+While training and testing data in R, we figure that the only 2 generation groups, out of 5 in total, are age 18-24 and age 55+; Based upon our sample data, the algorithm could not easiely figure out the difference amoung age 25-34, age 35-44 and age 45-54 which make sense that these 3 groups have very similar purchansing behavior. So we replace each text age label with index, where
+
+|                  Index                 |   Index Reference   |
+|:--------------------------------------:|:-------------------:|
+|          Millennials + Gen Z           |           #1        |
+|            Generation   X              |           #2        |
+|         Baby Boomer Generation         |           #3        |
+
+**As the boundary in betweenn the 3 are clearer than before**
+
+#### Step 9: Scaling
+#### We used Excel to rescale all share value into 5 levels from lowest to highest, indexing 1 through 5, for machine learning usage, and define them as **Preference Levels**
+
+![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/scaling%20process.png)
+
+![graph5](images/graph5.png)
+
+|                  Index                 |   Index Reference   |
+|:--------------------------------------:|:-------------------:|
+|                  Never                 | Preference levels 1 |
+|                 Seldom                 | Preference levels 2 |
+|               Occasionally             | Preference levels 3 |
+|                  Often                 | Preference levels 4 |
+|               Frequently               | Preference levels 5 |
+
+---
+
+#### Step 10: Modeling
+#### We used **R** to do model comparison and feature selections
+
+There are 5 candidate ML models, and 
+Random Forest Classifier has the highest Accuracy and Kappa, so we choose to build RF Classification 
+Model and make prediction in python. And according to the “Variable Importance Table”, we have tested 
+several models with different feature selection. And we found that below behaviors have the highest accuracy:
+
+(1) Cable TV Watchers
+(2) Social Media Users
+(3) Magazine Readers
+(4) Live Events Goers
+(5) Video Game Players
+(6) Tablet Owners
+
+![graph6](images/graph6.png)  
+
+![graph8](images/graph8.png)  
+
+![graph7](images/graph7.png)
+
+
+#### Step 11: Machine Learning
+#### We rebuilt a **Random Forest Classification Model** using **Python** since it is more front-end friendly.
+
+The following table were used as validation dataset, and we have calculated a scaled value array, 
+where each one array inside represents a case in the validation dataset, and each of these three numbers 
+in this array are used for the generation class prediction. For instance, in first array, it shows 
+[1., 0., 0.] which mean the model predicted that this case has 100% probability belongs to class 1, and 
+zero probability belongs to other two classes. And then we generated a **confusion matrix**, and numbers on the diagonal means it was corrected predicted, and numbers on all other position means it was not correctly predicted. So the **accuracy rate = (11 + 19 + 13)/(11 + 2 + 1 + 19 + 1 + 1 + 13) = 89.6%**.
+
+> A confusion matrix is a table that is often used to describe the performance of a classification model (or "classifier") on a set of test data for which the true values are known
+
+![graph9](images/graph9.png) 
+
+![graph10](images/graph10.png)  
         
-(6) API Development:
-    Transform data into JSON format and deploy into API to support front-end applications
+#### Step 12: API Development
+#### Transform data into JSON format and deploy into API to support front-end applications
     
-(7) Data Visulization:
-- (7.1) Front-end
+#### Step 13: Data Visulization:
+- (13.1) Front-end
   
-- (7.2) BI Tool
+- (13.2) BI Tool
 
 ## Technology Used
 
