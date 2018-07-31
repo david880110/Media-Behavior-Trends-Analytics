@@ -119,15 +119,25 @@ On social media and websites, there are many sponsored ads and banners ads, most
 We pulled data from Simmon consumer behavior database, and list eleven behavior categories for movie purchasers (purchase dvd/blu-ray dics in past 12 months) in different generations ( Millennial, Gen X, Gen Y, Gen Z):
 
 (1) Video Games Players
+
 (2) Streaming Video Watchers
+
 (3) Digital Music Users
+
 (4) Cable TV Watchers
+
 (5) Radio Listeners
+
 (6) Magazine Readers
+
 (7) Movie Goers
+
 (8) Supermarket Shoppers
+
 (9) Tablet Owners
+
 (10) Live events Goers
+
 (11) Social Media Users
 
 In the end of the project we made movie purchasers’ consumer behavior portfolio for each generations, and analyze each generations’ preference in each behavior categories.
