@@ -47,6 +47,16 @@ We are a group of data enthusiast from various background including business, me
 
 * Develop a unique, media-neutral machine learning metric for detecting consumer trends in terms of planning, buying and selling.
 
+## Why Full-Stack?
+
+> A Full-Stack Web Developer is someone who is able to work on both the front-end and back-end portions of an application. Front-end generally refers to the portion of an application the user will see or interact with, and the back-end is the part of the application that handles the logic, database interactions, user authentication, server configuration, etc. Being a Full-Stack Developer doesn’t mean that you have necessarily mastered everything required to work with the front-end or back-end, but it means that you are able to work on both sides and understand what is going on when building an application.
+
+* Big group of 6 **"Datakensteins"** who have expertise in every steps through Front-end Application and Back-end Interaction
+
+* Variety of skill set can serve as the cornerstone of our enthusiast and perfectionism in Full-Stack Development
+
+* 6 team-oriented players forms a effective research and work enviorment and this allows us to capitalize on the individual strengths  
+
 ## Story
 
 > DMA (Designated Market Area) regions are the geographic areas in the United States in which local television viewing is measured by The Nielsen Company. The DMA data are essential for any marketer, researcher, or organization seeking to utilize standardized geographic areas within their business in terms of:
@@ -282,7 +292,7 @@ The original data set comes with 2 major variables: Unweighted and Weighted Niel
 
 **Limitation**:
 
-(1) The database **DOES NOT** contains any data in **Mountain division**
+(1) The database **DOES NOT** contains any data in **Mountain Division**
 
 (2) The database **DOES NOT** contains Streaming Video data from 2013 to 2014
 
