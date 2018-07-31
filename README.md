@@ -167,6 +167,8 @@ as the boundary in betweenn the 3 are clearer than before
 #### Scaling
 We used Excel to rescale all share value into 5 levels from lowest to highest, indexing 1 through 5. 
 
+![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/scaling%20process.png)
+
 ![graph5](images/graph5.png)
 
 ---
