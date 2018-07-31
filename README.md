@@ -165,7 +165,7 @@ as the boundary in betweenn the 3 are clearer than before
  
 #### Step 5
 #### Scaling
-We used Excel to rescale all share value into 5 levels from lowest to highest, indexing 1 through 5. 
+We used Excel to rescale all share value into 5 levels from lowest to highest, indexing 1 through 5, for machine learning usage. 
 
 ![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/scaling%20process.png)
 
