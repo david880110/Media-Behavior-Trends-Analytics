@@ -255,7 +255,8 @@ The original data set comes with 2 major variables: Unweighted and Weighted Niel
 #### Step 4： Data Analytics:
 #### Query SQL to analyze and interpret data sets to generate marketing insights and BI reporting
 ![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/query_avg_coordinate.png)
-    
+![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/query_avg_coordinate_2.png)
+ 
 ---
 
 #### Step 5: Data Transforming
@@ -291,7 +292,7 @@ Generate a share table with average share of each category between two genders e
 
 ---
 
-#### Step 8: Data Classification
+#### Step 8: Feature Engineering
 #### Reclassify our age group
 
 While training and testing data in R, we figure that the only 2 generation groups, out of 5 in total, are age 18-24 and age 55+; Based upon our sample data, the algorithm could not easiely figure out the difference amoung age 25-34, age 35-44 and age 45-54 which make sense that these 3 groups have very similar purchansing behavior. So we replace each text age label with index, where
