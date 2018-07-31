@@ -48,7 +48,7 @@ We are a group of data enthusiast from various background including business, me
 |        Baby   Boomer Generation        |     1946     |    1961    |     55 +       |
 |            Generation   X              |     1960     |    1979    |     35 - 54    |
 |            Millennials                 |     1980     |    1994    |     25 - 34    |
-|                 Gen Z                  |     1995     |    2012    |     18 - 24  
+|                 Gen Z                  |     1995     |    2012    |     18 - 24    |
 
 
 Our Main Focus of this project is to compare Millennials& Gen Z and other generations' consumer behaviours.
@@ -224,25 +224,35 @@ zero probability belongs to other two classes. And then we generated a **confusi
 
 ## Index Reference
 
-- Millennials + Gen Z: Generation Class #1
+- Millennials + Gen Z: Generation Class 
 
-- Generation X: Generation Class #2
+- Generation X: Generation Class 
 
-- Baby Boomer Generation: Generation Class #3
+-  Generation Class 
 
 
 
-- Preference levels 1: = Never  
+- Preference levels 1: =   
 
-- Preference levels 2: = Seldom 
+- Preference levels 2: =  
 
-- Preference levels 3: = Occasionally 
+- Preference levels 3: =  
 
-- Preference levels 4: = Often
+- Preference levels 4: = 
 
-- Preference levels 5: = Frequently  
+- Preference levels 5: =   
 
-  
+|            Index Reference             |    Index Reference  | 
+|:--------------------------------------:|:-------------------:|
+|          Millennials + Gen Z           |           #1        | 
+|            Generation   X              |           #2        |  
+|         Baby Boomer Generation         |           #3        |    
+|                                        |                     | 
+|                  Never                 | Preference levels 1 |    
+|                 Seldom                 | Preference levels 2 | 
+|               Occasionally             | Preference levels 3 |    
+|                  Often                 | Preference levels 4 | 
+|               Frequently               | Preference levels 5 |    
 
 ## Data Source
 
