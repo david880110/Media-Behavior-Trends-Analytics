@@ -372,7 +372,7 @@ zero probability belongs to other two classes. And then we generated a **confusi
 ---
  
 #### Step 13: Data Visulization:
-#### Use HTML/JS/CSS/Tableau to develop a full-stack front-end application
+#### Use HTML/JS/CSS corporate with Tableau and Mapbox to develop a full-stack front-end application
 
 - (13.1) Front-end
 
