@@ -165,13 +165,11 @@ While training and testing data in R, we figure that the only 2 generation group
  
 #### Step 5
 #### Scaling
-We used Excel to rescale all share value into 5 levels from lowest to highest, indexing 1 through 5, for machine learning usage. 
+We used Excel to rescale all share value into 5 levels from lowest to highest, indexing 1 through 5, for machine learning usage, and define them as **Preference Levels**
 
 ![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/scaling%20process.png)
 
 ![graph5](images/graph5.png)
-
-## Index Reference
 
 |                  Index                 |   Index Reference   | 
 |:--------------------------------------:|:-------------------:|
