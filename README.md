@@ -375,8 +375,7 @@ zero probability belongs to other two classes. And then we generated a **confusi
 #### Use HTML/JS/CSS corporate with Tableau and Mapbox to develop a full-stack front-end application
 
 - (13.1) Front-end
-
-![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/frontend_meet_the_team.png)
+<img src="https://raw.githubusercontent.com/david880110/tech-logo/master/web%20dev%20tech%20logo.jpeg" width="240" height="80"/>
 
 - (13.2) BI Tool
 <img src="https://raw.githubusercontent.com/david880110/tech-logo/master/tableau%20logo.png" width="240" height="60"/>
