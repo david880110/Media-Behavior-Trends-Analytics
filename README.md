@@ -161,7 +161,7 @@ While training and testing data in R, we figure that the only 2 generation group
 |            Generation   X              |           #2        |  
 |         Baby Boomer Generation         |           #3        |
 
-as the boundary in betweenn the 3 are clearer than before
+**As the boundary in betweenn the 3 are clearer than before**
  
 #### Step 5
 #### Scaling
@@ -170,6 +170,16 @@ We used Excel to rescale all share value into 5 levels from lowest to highest, i
 ![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/scaling%20process.png)
 
 ![graph5](images/graph5.png)
+
+## Index Reference
+
+|                  Index                 |   Index Reference   | 
+|:--------------------------------------:|:-------------------:|
+|                  Never                 | Preference levels 1 |    
+|                 Seldom                 | Preference levels 2 | 
+|               Occasionally             | Preference levels 3 |    
+|                  Often                 | Preference levels 4 | 
+|               Frequently               | Preference levels 5 |  
 
 ---
 
@@ -195,7 +205,6 @@ several models with different feature selection. And we found that below behavio
 
 ![graph7](images/graph7.png)
 
----
 
 #### Step 7
 #### We rebuilt a **Random Forest Classification Model** using **Python** since it is more front-end friendly.
@@ -220,17 +229,6 @@ zero probability belongs to other two classes. And then we generated a **confusi
 (2) Female takes the majority of the market share in all categories and Movies and Supermarkets are pretty much their backyards
 
 (3) Comparing Gen Z and Baby Boomers, Gen Z is the minority which only contains 12.78% of the total population and only beats Baby Boomer in video game section; Baby Boomer buyers are tend to increase over time as they are mostly TV and Radio users but less likely enjoy video games
-
-
-## Index Reference
-
-|                  Index                 |   Index Reference   | 
-|:--------------------------------------:|:-------------------:|
-|                  Never                 | Preference levels 1 |    
-|                 Seldom                 | Preference levels 2 | 
-|               Occasionally             | Preference levels 3 |    
-|                  Often                 | Preference levels 4 | 
-|               Frequently               | Preference levels 5 |    
 
 ## Data Source
 
