@@ -36,6 +36,25 @@
 
 	<!-- Modernizr JS -->
 	<script src="../static/js/modernizr-2.6.2.min.js"></script>
+
+    <style>
+    table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    td, th {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+    }
+
+    tr:nth-child(even) {
+        background-color: #dddddd;
+    }
+    </style>
+
 	</head>
 
     <!--  Body  -->
@@ -218,11 +237,31 @@
         <p>
             <b>Step: 4</b>
         </p>
-        </p>
-            We replace each text age label with index, where <b>age 18-35 was defined as class 1, age 35-55 was defined as class 2, and 55+ was defined as class 3</b>. And we used Excel to rescale all share decimal numbers to 5 levels, indexing 1 through 5.
         <p>
-            <p>
-            <img src="https://github.com/david880110/Media-Behavior-Trends-Analytics/blob/master/images/graph5.png?raw=true" style="width:800px; height:200px">
+            <b>Reclassify our age group</b>
+        </p>
+        <p>
+            While training and testing data in R, we figure that the only 2 generation groups, out of 5 in total, are age 18-24 and age 55+; Based upon our sample data, the algorithm could not easiely figure out the difference amoung age 25-34, age 35-44 and age 45-54 which make sense that these 3 groups have very similar purchansing behavior. So we replace each text age label with index.
+        </p>
+        <p>
+            <table width="100">
+                <tr>
+                    <th>Index</th>
+                    <th>Index Reference</th>
+                </tr>
+                <tr>
+                    <td>Millennials + Gen Z</td>
+                    <td>#1</td>
+                </tr>
+                <tr>
+                    <td>Generation X</td>
+                    <td>#2</td>
+                </tr>
+                <tr>
+                    <td>Baby Boomer Generation</td>
+                    <td>#3</td>
+                </tr>
+            </table>
         </p>
 
         <hr>
@@ -230,7 +269,66 @@
             <b>Step: 5</b>
         </p>
         <p>
-            We used <b>R</b> to do model comparison and feature selections. There are 5 candidate ML models, and Random Forest Classifier has the highest Accuracy and Kappa, so we choose to build RF Classification Model and make prediction in python. And according to the “Variable Importance Table”, we have tested several models with different feature selection. And we found the one with features [<i>'tv','social_media','magazine','all_live','video_game','tablet_owner'</i>] has the highest accuracy.
+            <b>We used Excel to rescale all share value into 5 levels from lowest to highest, indexing 1 through 5, for machine learning usage, and define them as Preference Levels.</b>
+        </p>
+        <p>
+            <img src="https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/scaling%20process.png" style="width:900px; height:300px">
+        </p>
+
+        <p>
+            <img src="https://github.com/david880110/Media-Behavior-Trends-Analytics/blob/master/images/graph5.png?raw=true" style="width:800px; height:200px">
+        </p>
+
+        <p>
+            <table width="100">
+                <tr>
+                    <th>Index</th>
+                    <th>Index Reference</th>
+                </tr>
+                <tr>
+                    <td>Never</td>
+                    <td>Preference levels 1</td>
+                </tr>
+                <tr>
+                    <td>Seldom</td>
+                    <td>Preference levels 2</td>
+                </tr>
+                <tr>
+                    <td>Occasionally</td>
+                    <td>Preference levels 3</td>
+                </tr>
+                <tr>
+                    <td>Often</td>
+                    <td>Preference levels 4</td>
+                </tr>
+                <tr>
+                    <td>Frequently</td>
+                    <td>Preference levels 5</td>
+                </tr>
+            </table>
+        </p>
+
+        </p>
+
+
+        <hr>
+        <p>
+            <b>Step: 6</b>
+        </p>
+        <p>
+            We used <b>R</b> to do model comparison and feature selections.
+        </p>
+        <p>
+            There are 5 candidate ML models, and Random Forest Classifier has the highest Accuracy and Kappa, so we choose to build RF Classification Model and make prediction in python. And according to the “Variable Importance Table”, we have tested several models with different feature selection. And we found that below behaviors have the highest accuracy:
+        </p>
+        <p>
+            <ol>
+                <li>Cable TV Watchers
+                <li>Social Media Users
+                <li>Magazine Readers
+                <li>Live Events Goers
+                <li>Video Game Players
+                <li>Tablet Owners
         </p>
 
         <p>
@@ -244,10 +342,13 @@
         </p>
         <hr>
         <p>
-            <b>Step: 6</b>
+            <b>Step: 7</b>
         </p>
         <p>
-            We rebuilt a <b>Random Forest Classification Model</b> using <b>Python</b> since it is more front-end friendly. The following table were used as validation dataset, and we have calculated a probability array, where each one array inside represents a case in the validation dataset, and each of the three numbers in this array is the probability of the model predicted class. For instance, in first array, it shows [1., 0., 0.] which mean the model predicted that this case has 100% probability belongs to class 1, and zero probability belongs to other two classes. And then we generated a <b>confusion matrix</b>, and numbers on the diagonal means it was corrected predicted, and numbers on all other position means it was not correctly predicted. So the <b>accuracy rate = (11 + 19 + 13)/(11 + 2 + 1 + 19 + 1 + 1 + 13) = 89.6%</b>.
+            We rebuilt a <b>Random Forest Classification Model</b> using <b>Python</b> since it is more front-end friendly.
+        </p>
+        <p>
+            The following table were used as validation dataset, and we have calculated a probability array, where each one array inside represents a case in the validation dataset, and each of the three numbers in this array is the probability of the model predicted class. For instance, in first array, it shows [1., 0., 0.] which mean the model predicted that this case has 100% probability belongs to class 1, and zero probability belongs to other two classes. And then we generated a <b>confusion matrix</b>, and numbers on the diagonal means it was corrected predicted, and numbers on all other position means it was not correctly predicted. So the <b>accuracy rate = (11 + 19 + 13)/(11 + 2 + 1 + 19 + 1 + 1 + 13) = 89.6%</b>.
         </p>
         <p>
             <img src="https://github.com/david880110/Media-Behavior-Trends-Analytics/blob/master/images/graph9.png?raw=true">
@@ -256,6 +357,22 @@
         <p>
             <img src="https://github.com/david880110/Media-Behavior-Trends-Analytics/blob/master/images/graph10.png?raw=true">
         </p>
+
+        <div class="row animate-box">
+            <div class="col-md-6 col-md-offset-3 text-center heading-section">
+                <h3>Findings</h3>
+            </div>
+        </div>
+        <p>
+            South division is the winner in terms of population and most of the people are used to old school media such as Movies, Supermarket, TV, Magzine and Radio whereas younge generations are apprently stick to modernized media <i>South Division has more states include than others.</i>
+        </p>
+        <p>
+            Female takes the majority of the market share in all categories and Movies and Supermarkets are pretty much their backyards.
+        </p>
+        <p>
+            Comparing Gen Z and Baby Boomers, Gen Z is the minority which only contains 12.78% of the total population and only beats Baby Boomer in video game section; Baby Boomer buyers are tend to increase over time as they are mostly TV and Radio users but less likely enjoy video games.
+        </p>
+        </div>
     </div>
 </div>
 
