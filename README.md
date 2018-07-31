@@ -129,6 +129,7 @@ Category “Totals” refers to the sample group of our project which is the tot
 ---
 
 #### Step 2
+#### Use Python to generate the "% of total" column
 
 We generate another column named “share” which is the proportion in _**DVD purchaser**_ people who also 
 choose given category **(e.g. share = 26/31 = 0.8387)**, and there are 83.5% people from the sample group 
@@ -140,6 +141,7 @@ absolutely some people who will choose more than one category.
 ---
 
 #### Step 3
+#### Use Excel pivot table for data transformation
 
 We generate a share table with average share of each category between two genders each division and year. 
 (using Pivot Table in Excel)
@@ -149,20 +151,25 @@ We generate a share table with average share of each category between two gender
 ---
 
 #### Step 4
+#### Reclassify our age group
 
-We replace each text age label with index, where
+While training and testing data in R, we figure that the only 2 generation groups, out of 5 in total, are age 18-24 and age 55+; Based upon our sample data, the algorithm could not easiely figure out the difference amoung age 25-34, age 35-44 and age 45-54 which make sense that these 3 groups have very similar purchansing behavior. So we replace each text age label with index, where
 
 (1) **age 18-35 was defined as class 1**
 (2) **age 35-55 was defined as class 2**
 (3) **age 55+ was defined as class 3**
+
+as the boundary in betweenn the 3 are clearer than before
  
- And we used Excel to rescale all share value into 5 levels from lowest to highest, indexing 1 through 5. 
+#### Step 5
+#### Scaling
+We used Excel to rescale all share value into 5 levels from lowest to highest, indexing 1 through 5. 
 
 ![graph5](images/graph5.png)
 
 ---
 
-#### Step 5
+#### Step 6
 
 We used **R** to do model comparison and feature selections. There are 5 candidate ML models, and 
 Random Forest Classifier has the highest Accuracy and Kappa, so we choose to build RF Classification 
@@ -178,7 +185,7 @@ several models with different feature selection. And we found that [ 'tv','socia
 
 ---
 
-#### Step 6
+#### Step 7
 
 We rebuilt a **Random Forest Classification Model** using **Python** since it is more front-end friendly. 
 The following table were used as validation dataset, and we have calculated a probability array, 
