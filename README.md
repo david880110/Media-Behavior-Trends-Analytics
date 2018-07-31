@@ -143,11 +143,20 @@ In the end of the project we made movie purchasers’ consumer behavior portfoli
 
 (2) **Female takes the majority** of the market share in all categories and Movies and Supermarkets are pretty much their backyards
 
-(3) **Gen Z + Millennials** beats other 2 generations in **Video Game** section
 
-(4) **As people grow old**, we are tend to switch our Video Game and Social Media activities into **Movie Theater, Grocery Store, Cable TV and Magzine**
+(3) Based on our sample and model, we are now able to predict any individual's generation group with **89.6% accuracy**
 
-(5) Based on our sample and model, we are now able to predict any individual's generation group with **89.6% accuracy**
+
+## Considerations for future Home Entertainment Campagin 
+(1) As the traditional "gift giving (Grandparents) " audience of the generation- Baby boomers, are the most Cable TV consumers. 
+(2) As the new generation purchasers: Millenials and Gen Z are the least Cable TV consumers, however, most of them are heavy social media users. 
+Marketers and Advertisers for Home Entertainment can plan on Social Media for targeting Younger audiences. 
+*one interesting finding* : Millenials and Gen Z perfer reading Magazines than watching cable TV.
+(3) As the middle age generation , Gen X has the similar behaviors with Millenials, but they are lighter social media users and heavier Cable TV watchers. 
+(4) Live- events goers, video gamers, Digital music listeners and Streaming video watchers are skewed younger. 
+(5) Baby Boomers Social Media users are increasing.
+
+In general, Social Media and Digital Media are the future for Home Entertainment Campaings. Magazine and Cable TV still have loyalty and engaging audiences.
 
 [Tableau Visulization](https://public.tableau.com/profile/davidgu#!/vizhome/BehaviorAnalytics/Geography?publish=yes)
 
