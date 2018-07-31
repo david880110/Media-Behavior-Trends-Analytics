@@ -175,11 +175,19 @@ We used Excel to rescale all share value into 5 levels from lowest to highest, i
 
 #### Step 6
 
-We used **R** to do model comparison and feature selections. There are 5 candidate ML models, and 
+#### We used **R** to do model comparison and feature selections
+
+There are 5 candidate ML models, and 
 Random Forest Classifier has the highest Accuracy and Kappa, so we choose to build RF Classification 
 Model and make prediction in python. And according to the “Variable Importance Table”, we have tested 
-several models with different feature selection. And we found that [ 'tv','social_media',
-'magazine','all_live','video_game','tablet_owner'] features has the highest accuracy.
+several models with different feature selection. And we found that below behaviors have the highest accuracy:
+
+(1) Cable TV Watchers
+(2) Social Media Users
+(3) Magazine Readers
+(4) Live Events Goers
+(5) Video Game Players
+(6) Tablet Owners
 
 ![graph6](images/graph6.png)  
 
@@ -190,21 +198,19 @@ several models with different feature selection. And we found that [ 'tv','socia
 ---
 
 #### Step 7
-
-We rebuilt a **Random Forest Classification Model** using **Python** since it is more front-end friendly. 
-The following table were used as validation dataset, and we have calculated a probability array, 
-where each one array inside represents a case in the validation dataset, and each of the three numbers 
-in this array is the probability of the model predicted class. For instance, in first array, it shows 
+#### We rebuilt a **Random Forest Classification Model** using **Python** since it is more front-end friendly.
+ 
+The following table were used as validation dataset, and we have calculated a scaled value array, 
+where each one array inside represents a case in the validation dataset, and each of these three numbers 
+in this array are used for the generation class prediction. For instance, in first array, it shows 
 [1., 0., 0.] which mean the model predicted that this case has 100% probability belongs to class 1, and 
 zero probability belongs to other two classes. And then we generated a **confusion matrix**, and numbers on the diagonal means it was corrected predicted, and numbers on all other position means it was not correctly predicted. So the **accuracy rate = (11 + 19 + 13)/(11 + 2 + 1 + 19 + 1 + 1 + 13) = 89.6%**.
+
+> A confusion matrix is a table that is often used to describe the performance of a classification model (or "classifier") on a set of test data for which the true values are known
 
 ![graph9](images/graph9.png) 
 
 ![graph10](images/graph10.png)  
-
-
-
-
 
 ## Findings
 
