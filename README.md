@@ -241,6 +241,7 @@ The original data set comes with 2 major variables: Unweighted and Weighted Niel
 #### Step 2： Data Engineering
 #### Use Python to transform non-tabular formatted data into tabular data for SQL storage purpose
 
+![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/python%20loop_1.png)
 ![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/data_engineering_1.png)
   
 ---  
