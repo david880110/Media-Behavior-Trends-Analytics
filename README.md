@@ -71,7 +71,9 @@ Gen Z are aging from teenagers to young adults, they start graduating from colle
 
 ![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/Gen%20Z%20%2B%20M.png)
 
-[Tableau Visulization](https://public.tableau.com/profile/davidgu#!/vizhome/BehaviorAnalytics/Geography?publish=yes)
+![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/Behavior%20Comperison%20Based%20on%20Generation%20Group.png)
+
+
 
 ## Think before the demo day
 
@@ -90,6 +92,7 @@ Gen Z are aging from teenagers to young adults, they start graduating from colle
 
 This study, based on a behavioral data set of media indstry from 2013 - 2016, suggests that about 85% of the customer loyalty in terms of actual behavior can be predicted, in particular by demographic factors such as their generation group  
 In the modern society, everyone is trying to make more money for living, and time has literally become more valuable, but not everyone has time to go to the theatre and spend two hours to watch a movie, and people still need entertainment industry for relaxing and enjoying their lives. Therefore Home Entertainment is a more convenience and private way to attain the propose of entertaining.
+
 ![alt text](https://www.edimax.com/edimax/mw/cufiles/images/productimage/wireless/News/CV-7428nS_Home_Entertainment.jpg)
 
 > “Most adults say they enjoy entertaining people in their home—an attitude that has remained constant for more than a decade. In the last three years, a substantial 77% of adults have hosted a party in their home. Informal gatherings are far more prevalent than formal parties, with 44% participation compared to 17%. Lifestyle trends, technology and social media influences, demographic factors, and motivations to host parties support the prevalence of informal gatherings.”
@@ -99,6 +102,7 @@ In the modern society, everyone is trying to make more money for living, and tim
 As the largest film industry in the world, Americans love movies, and enjoy watching movies at home. Our purpose is to track movie purchasers’ behaviors in different generations and genders.
 
 Top Retailers like Amazon, Walmart, Target and Best & Buy, they are using data analysis and ML to target audiences, and do dynamic advertising targeting to raise awareness and to increase sales of the products.
+
 
 ![alt text](https://i.imgur.com/ZajQNLG.jpg)
 
@@ -235,6 +239,9 @@ zero probability belongs to other two classes. And then we generated a **confusi
 
 (3) Comparing Gen Z and Baby Boomers, Gen Z is the minority which only contains 12.78% of the total population and only beats Baby Boomer in video game section; Baby Boomer buyers are tend to increase over time as they are mostly TV and Radio users but less likely enjoy video games
 
+[Tableau Visulization](https://public.tableau.com/profile/davidgu#!/vizhome/BehaviorAnalytics/Geography?publish=yes)
+
+
 ## Data Source
 
 **[SIMMONS](https://www.simmonsresearch.com/)**
@@ -275,9 +282,9 @@ The original data set comes with 2 major variables: Unweighted and Weighted Niel
 
 **Limitation**:
 
-(1) The database doest contains any data in **Mountain division**
+(1) The database **DOES NOT** contains any data in **Mountain division**
 
-(2) The database doest contains Streaming Video data from 2013 to 2014
+(2) The database **DOES NOT** contains Streaming Video data from 2013 to 2014
 
 
 
