@@ -224,24 +224,6 @@ zero probability belongs to other two classes. And then we generated a **confusi
 
 ## Index Reference
 
-- Millennials + Gen Z: Generation Class 
-
-- Generation X: Generation Class 
-
--  Generation Class 
-
-
-
-- Preference levels 1: =   
-
-- Preference levels 2: =  
-
-- Preference levels 3: =  
-
-- Preference levels 4: = 
-
-- Preference levels 5: =   
-
 |            Index Reference             |    Index Reference  | 
 |:--------------------------------------:|:-------------------:|
 |          Millennials + Gen Z           |           #1        | 
