@@ -241,11 +241,15 @@ zero probability belongs to other two classes. And then we generated a **confusi
 
 ## Data Source
 
-<img src="https://www.simmonsresearch.com/wp-content/uploads/2017/04/simmons_clr_horiz.svg" width="240" height="80"/>
+**[SIMMONS](https://www.simmonsresearch.com/)**
 
 > The Simmons / Nielsen partnership allows advertisers, agencies, and media to go beyond demographics when profiling TV audiences. By integrating viewership of Nielsen-measured national TV programs and networks with the 60,000 variables available in the Simmons National Consumer Study, clients can illustrate compelling, data-driven stories about the true value of TV audiences.
 
+
+
 ![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/weighted_and_unweighted_explaination.png)
+
+
 
 The original data set comes with 2 major variables: Unweighted and Weighted Nielsen Sample and the reason that we choose the unweighted value is becuase Nielsen suggests that 
 
@@ -253,25 +257,37 @@ The original data set comes with 2 major variables: Unweighted and Weighted Niel
 > You want to recreate an analysis that was made in Audience Watch version 5.73 or earlier.
 > You really do want to see the viewing behavior of individual sample members.
 
-* Note: US is divided into 7 divisions in terms of
+
+
+**Note: US is divided into 7 divisions in terms of **
 
 (1) North East
+
 (2) West Central
+
 (3) South
+
 (4) South East
+
 (5) South West
+
 (6) Pacfic
+
 (7) East Central
 
-* Limitation: 
 
-    (1) The database doest contains any data in **Mountain division**
-    
-    (2) The database doest contains Streaming Video data from 2013 to 2014
 
-<img src="https://www.kaggle.com/static/images/logos/kaggle-logo-transparent-300.png" width="240" height="80"/>
+**Limitation: **
 
-The [Coordinate Data:](https://www.kaggle.com/washimahmed/usa-latlong-for-state-abbreviations/) is USA latitude and longitude for state abbreviations retreived from Kaggle
+(1) The database doest contains any data in **Mountain division**
+
+(2) The database doest contains Streaming Video data from 2013 to 2014
+
+
+
+**[Kaggle](https://www.kaggle.com/)**
+
+> The [Coordinate Data:](https://www.kaggle.com/washimahmed/usa-latlong-for-state-abbreviations/) is USA latitude and longitude for state abbreviations retreived from Kaggle
 
 ## Process
 
@@ -298,8 +314,7 @@ The [Coordinate Data:](https://www.kaggle.com/washimahmed/usa-latlong-for-state-
     Transform data into JSON format and deploy into API to support front-end applications
     
 (7) Data Visulization:
-    
-- (7.1) Front-end Visulization
+- (7.1) Front-end
   
 - (7.2) BI Tool
 
