@@ -265,7 +265,7 @@ The [Coordinate Data:](https://www.kaggle.com/washimahmed/usa-latlong-for-state-
 
 ![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/Project%20Flow%20Chart.jpg)
 
-[Project Flow Chart](https://drive.google.com/file/d/1U_OYKOKNoK5CroU_IsgrtbLWE9d77tdu/view?usp=sharing)
+[View Project Flow Chart Here](https://drive.google.com/file/d/1U_OYKOKNoK5CroU_IsgrtbLWE9d77tdu/view?usp=sharing)
 
 (1) Data Retrieval:
     Obtaining data from data sources
