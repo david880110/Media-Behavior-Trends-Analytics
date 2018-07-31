@@ -240,11 +240,18 @@ The original data set comes with 2 major variables: Unweighted and Weighted Niel
 > You want to recreate an analysis that was made in Audience Watch version 5.73 or earlier.
 > You really do want to see the viewing behavior of individual sample members.
 
-* Note: US is divided into 7 divisions in terms of North East, East Central, West Central, South, South East, South West, Pacfic
+* Note: US is divided into 7 divisions in terms of
+(1) North East
+(2) West Central
+(3) South
+(4) South East
+(5) South West
+(6) Pacfic
+(7) East Central
 
 * Limitation: 
 
-    (1) The database doest contains any data in mountain division
+    (1) The database doest contains any data in **Mountain division**
     
     (2) The database doest contains Streaming Video data from 2013 to 2014
 
