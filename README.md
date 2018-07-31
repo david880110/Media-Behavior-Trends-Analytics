@@ -1,6 +1,6 @@
 
 
-![built with scikitlearn](https://img.shields.io/badge/built%20with-scikitlearn-orange.svg)  ![built with Python3](https://img.shields.io/badge/built%20with-Python3-blue.svg)    ![built with SQLite](https://img.shields.io/badge/built%20with-SQLite-red.svg)![built with HTML/JS/CSS](https://img.shields.io/badge/built%20with-HTML/JS/CSS-yellow.svg)![built with leaflet](https://img.shields.io/badge/built%20with-leaflet-brightgreen.svg)  ![built with Flask](https://img.shields.io/badge/built%20with-Flask-lightgrey.svg)
+![built with scikitlearn](https://img.shields.io/badge/built%20with-scikitlearn-orange.svg)  ![built with Python3](https://img.shields.io/badge/built%20with-Python3-blue.svg)    ![built with SQLite](https://img.shields.io/badge/built%20with-SQLite-red.svg)![built with HTML/JS/CSS](https://img.shields.io/badge/built%20with-HTML/JS/CSS-yellow.svg)   
 
 
 
@@ -20,7 +20,7 @@
 
 ## Contributors
 
-<img align="center" width="160" height="100" src="https://raw.githubusercontent.com/david880110/Consumer-Behavior-Analytics/master/images/Frankenselfie-Logomoose.png">
+<img align="center" width="160" height="160" src="https://raw.githubusercontent.com/david880110/Consumer-Behavior-Analytics/master/images/Frankenselfie-Logomoose.png">
 
 Welcome to *Media Behavior Trends Analytics*, we are team **Datakenstein** !
 
@@ -155,14 +155,14 @@ We generate a share table with average share of each category between two gender
 
 While training and testing data in R, we figure that the only 2 generation groups, out of 5 in total, are age 18-24 and age 55+; Based upon our sample data, the algorithm could not easiely figure out the difference amoung age 25-34, age 35-44 and age 45-54 which make sense that these 3 groups have very similar purchansing behavior. So we replace each text age label with index, where
 
-|                  Index                 |   Index Reference   | 
+|                  Index                 |   Index Reference   |
 |:--------------------------------------:|:-------------------:|
-|          Millennials + Gen Z           |           #1        | 
-|            Generation   X              |           #2        |  
+|          Millennials + Gen Z           |           #1        |
+|            Generation   X              |           #2        |
 |         Baby Boomer Generation         |           #3        |
 
 **As the boundary in betweenn the 3 are clearer than before**
- 
+
 #### Step 5: Scaling
 #### We used Excel to rescale all share value into 5 levels from lowest to highest, indexing 1 through 5, for machine learning usage, and define them as **Preference Levels**
 
@@ -170,13 +170,13 @@ While training and testing data in R, we figure that the only 2 generation group
 
 ![graph5](images/graph5.png)
 
-|                  Index                 |   Index Reference   | 
+|                  Index                 |   Index Reference   |
 |:--------------------------------------:|:-------------------:|
-|                  Never                 | Preference levels 1 |    
-|                 Seldom                 | Preference levels 2 | 
-|               Occasionally             | Preference levels 3 |    
-|                  Often                 | Preference levels 4 | 
-|               Frequently               | Preference levels 5 |  
+|                  Never                 | Preference levels 1 |
+|                 Seldom                 | Preference levels 2 |
+|               Occasionally             | Preference levels 3 |
+|                  Often                 | Preference levels 4 |
+|               Frequently               | Preference levels 5 |
 
 ---
 
@@ -205,7 +205,7 @@ several models with different feature selection. And we found that below behavio
 
 #### Step 7: Machine Learning
 #### We rebuilt a **Random Forest Classification Model** using **Python** since it is more front-end friendly.
- 
+
 The following table were used as validation dataset, and we have calculated a scaled value array, 
 where each one array inside represents a case in the validation dataset, and each of these three numbers 
 in this array are used for the generation class prediction. For instance, in first array, it shows 
@@ -288,7 +288,7 @@ The [Coordinate Data:](https://www.kaggle.com/washimahmed/usa-latlong-for-state-
 (7) Data Visulization:
     
 - (7.1) Front-end Visulization
-    
+  
 - (7.2) BI Tool
 
 ## Technology Used
