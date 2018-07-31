@@ -157,7 +157,7 @@ In the end of the project we made movie purchasers’ consumer behavior portfoli
 (3) Based on our sample and model, we are now able to predict any individual's generation group with **89.6% accuracy**
 
 
-## Considerations for future Home Entertainment Campagin 
+## Considerations for future Home Entertainment Campaign 
 (1) As the traditional "gift giving (Grandparents) " audience of the generation- Baby boomers, are the most Cable TV consumers. 
 
 (2) As the new generation purchasers: Millenials and Gen Z are the least Cable TV consumers, however, most of them are heavy social media users. 
@@ -172,7 +172,7 @@ In the end of the project we made movie purchasers’ consumer behavior portfoli
 
 (5) Baby Boomers Social Media users are increasing.
 
-**In general, Social Media and Digital Media are the future for Home Entertainment Campaings. Magazine and Cable TV still have loyalty and engaging audiences.**
+**In general, Social Media and Digital Media are the future for Home Entertainment Campaign. Magazine and Cable TV still have loyalty and engaging audiences.**
 
 [Tableau Visulization](https://public.tableau.com/profile/davidgu#!/vizhome/BehaviorAnalytics/Geography?publish=yes)
 
