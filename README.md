@@ -210,16 +210,23 @@ The original data set comes with 2 major variables: Unweighted and Weighted Niel
 
 #### Step 1： Data Retrieval
 #### Obtaining data from data sources
-    
+
+--- 
+
 #### Step 2： Data Engineering
 #### Clean data and develop pipelines that prepare and transform data for Machine Learning, front-end engineering, and BI usage
-    
+  
+---  
+
 #### Step 3： Database Engineering:
 #### Design and maintain a database that provides informative and relevant data for full-stack project usage
+
+---
 
 #### Step 4： Data Analytics:
 #### Query SQL to analyze and interpret data sets to generate marketing insights and BI reporting
     
+---
 
 #### Step 5: Data Transforming
 #### We decided to utilize "% of total" of each behavior category for prediction use in order to classify the generation group based on the sample size
@@ -267,6 +274,8 @@ While training and testing data in R, we figure that the only 2 generation group
 
 **As the boundary in betweenn the 3 are clearer than before**
 
+---
+
 #### Step 9: Scaling
 #### We used Excel to rescale all share value into 5 levels from lowest to highest, indexing 1 through 5, for machine learning usage, and define them as **Preference Levels**
 
@@ -305,6 +314,7 @@ several models with different feature selection. And we found that below behavio
 
 ![graph7](images/graph7.png)
 
+---
 
 #### Step 11: Machine Learning
 #### We rebuilt a **Random Forest Classification Model** using **Python** since it is more front-end friendly.
@@ -320,10 +330,14 @@ zero probability belongs to other two classes. And then we generated a **confusi
 ![graph9](images/graph9.png) 
 
 ![graph10](images/graph10.png)  
-        
+   
+---
+   
 #### Step 12: API Development
 #### Transform data into JSON format and deploy into API to support front-end applications
-    
+ 
+---
+ 
 #### Step 13: Data Visulization:
 - (13.1) Front-end
   
