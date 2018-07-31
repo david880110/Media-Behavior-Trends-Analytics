@@ -49,8 +49,7 @@ We are a group of data enthusiast from various background including business, me
 
 ## Why Full-Stack?
 
-> A Full-Stack Web Developer is someone who is able to work on both the front-end and back-end portions of an application. Front-end generally refers to the portion of an application the user will see or interact with, and the back-end is the part of the application that handles the logic, database interactions, user authentication, server configuration, etc. Being a Full-Stack Developer doesn’t mean that you have necessarily mastered everything required to work with the front-end or back-end, but it means that you are able to work on both sides and understand what is going on when building an application.
-
+> A Full-Stack Web Developer is someone who is able to work on both the front-end and back-end portions of an application. Front-end generally refers to the portion of an application the user will see or interact with, and the back-end is the part of the application that handles the logic, database interactions, user authentication, server configuration, etc. 
 * Big group of 6 **"Datakensteins"** who have expertise in every steps through Front-end Application and Back-end Interaction
 
 * Variety of skill set can serve as the cornerstone of our enthusiast and perfectionism in Full-Stack Development
