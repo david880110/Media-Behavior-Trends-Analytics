@@ -37,7 +37,7 @@ Welcome to *Media Behavior Trends Analytics*, we are team **Datakenstein** !
 
 
 
-We are a group of data enthusiast from various background including business, media marketing, statistics and engineering who aim to
+We are a group of data enthusiast from a varied background including business, media marketing, statistics and engineering who aim to
 
 * Use demographic, psychographic, attitudinal, and behavioral data to refine consumer targets and inform engagement strategies.
 
@@ -45,20 +45,20 @@ We are a group of data enthusiast from various background including business, me
 
 * Generate geographic nuances of consumers in all of America’s media markets, including purchase behavior, attitudes, lifestyles and much more.
 
-* Develop a unique, media-neutral machine learning metric for detecting consumer trends in terms of planning, buying and selling.
+* Develop a unique, media-neutral machine learning metric for detecting consumer trends regarding planning, buying and selling.
 
 ## Why Full-Stack?
 
-> A Full-Stack Web Developer is someone who is able to work on both the front-end and back-end portions of an application. Front-end generally refers to the portion of an application the user will see or interact with, and the back-end is the part of the application that handles the logic, database interactions, user authentication, server configuration, etc. 
-* Big group of 6 **"Datakensteins"** who have expertise in every steps through Front-end Application and Back-end Interaction
+> A Full-Stack Web Developer is someone who can work on both the front-end and back-end portions of an application. Front-end generally refers to the portion of an application the user will see or interact with, and the back-end is the part of the application that handles the logic, database interactions, user authentication, server configuration, etc.
+* A big group of six **"Datakensteins"** who have expertise in every step through Front-end Application and Back-end Interaction.
 
-* Variety of skill set can serve as the cornerstone of our enthusiast and perfectionism in Full-Stack Development
+* Variety of skill set can serve as the cornerstone of our enthusiast and perfectionism in Full-Stack Development.
 
-* 6 team-oriented players forms a effective research and work enviorment and this allows us to capitalize on the individual strengths  
+* Six team-oriented players form active research and work enviorment, and this allows us to capitalize on the individual strengths.
 
 ## Story
 
-> DMA (Designated Market Area) regions are the geographic areas in the United States in which local television viewing is measured by The Nielsen Company. The DMA data are essential for any marketer, researcher, or organization seeking to utilize standardized geographic areas within their business in terms of:
+> DMA (Designated Market Area) regions are the geographic areas in the United States in which The Nielsen Company measures local television viewing. The DMA data are essential for any marketer, researcher, or organization seeking to utilize standardized geographic areas within their business regarding:
 
 |            Generation   Name           | Births Start | Births End | Age as of 2018 |
 |:--------------------------------------:|:------------:|:----------:|:--------------:|
@@ -68,9 +68,7 @@ We are a group of data enthusiast from various background including business, me
 |                 Gen Z                  |     1995     |    2012    |     18 - 24    |
 
 
-Our Main Focus of this project is to compare Millennials& Gen Z and other generations' consumer behaviours.
-Becuase Millennials and Gen Z grew up with smart phone and internet as they are aging into a new lifestage as they start to get married settle down, and have families. 
-Gen Z are aging from teenagers to young adults, they start graduating from college and getting the first job. 
+Our Main Focus of this project is to compare Millennials& Gen Z and other generations' consumer behaviors. Becuase Millennials and Gen Z grew up with smartphone and internet as they are aging into a new life stage as they start to get married settle down, and have families. Gen Z is aging from teenagers to young adults, and they start graduating from college and getting the first job.
 
 
 ![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/Geography.png)
@@ -83,40 +81,34 @@ Gen Z are aging from teenagers to young adults, they start graduating from colle
 
 ![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/Population%20per%20Category%20per%20Generation%20DB.png)
 
-
-## Think before the demo day
-
-- Why did you pick this problem?
-- What was the datset like when you got it?
-- What data cleaning did you have to do?
-
-- Why did you your model?
-- What did you find when the model
-    predictive features
-    Model tuning
-    
-- Why the choice of visualization/display
-
 ## Proposal
 
-This study, based on a behavioral data set of media indstry from 2013 - 2016, suggests that about 85% of the customer loyalty in terms of actual behavior can be predicted, in particular by demographic factors such as their generation group  
-In the modern society, everyone is trying to make more money for living, and time has literally become more valuable, but not everyone has time to go to the theatre and spend two hours to watch a movie, and people still need entertainment industry for relaxing and enjoying their lives. Therefore Home Entertainment is a more convenience and private way to attain the propose of entertaining.
+This study, based on a behavioral dataset of media industry from 2013 - 2016, suggests that about 85% of the customer loyalty regarding actual behavior can be predicted, in particular by demographic factors such as their generation group.
+
+In the modern society, everyone is trying to make more money for living, and time has become more valuable.
+
+Home entertainment is a more convenient and private way to attain the propose of entertaining.
 
 ![alt text](https://www.edimax.com/edimax/mw/cufiles/images/productimage/wireless/News/CV-7428nS_Home_Entertainment.jpg)
 
 > “Most adults say they enjoy entertaining people in their home—an attitude that has remained constant for more than a decade. In the last three years, a substantial 77% of adults have hosted a party in their home. Informal gatherings are far more prevalent than formal parties, with 44% participation compared to 17%. Lifestyle trends, technology and social media influences, demographic factors, and motivations to host parties support the prevalence of informal gatherings.”
 >
-> By *-Dana Macke, Associate Director, Lifestyles & Leisure*
+> -- Dana Macke, Associate Director, Lifestyles & Leisure
 
-As the largest film industry in the world, Americans love movies, and enjoy watching movies at home. Our purpose is to track movie purchasers’ behaviors in different generations and genders.
 
-Top Retailers like Amazon, Walmart, Target and Best & Buy, they are using data analysis and ML to target audiences, and do dynamic advertising targeting to raise awareness and to increase sales of the products.
+
+As the largest film industry in the world, in the United States, people love movies and enjoy watching movies at home. Our purpose is to track movie purchasers’ behaviors in different generations and genders.
+
+Top Retailers like Amazon, Walmart, Target and Best & Buy, they are using data analysis and ML to target audiences and do dynamic advertising targeting to raise awareness and to increase sales of the products.
+
+
 
 
 ![alt text](https://i.imgur.com/ZajQNLG.jpg)
 
-On social media and websites, there are many sponsored ads and banners ads, most of them are targeting consumers who have specific behaviors. 
-We pulled data from Simmon consumer behavior database, and list eleven behavior categories for movie purchasers (purchase dvd/blu-ray dics in past 12 months) in different generations ( Millennial, Gen X, Gen Y, Gen Z):
+
+
+On social media and websites, there are many sponsored ads and banners ads, most of them are targeting consumers who have specific behaviors. We pulled data from Simmon consumer behavior database, and list eleven behavior categories for movie purchasers (purchase DVD/Blue-ray discs in past 12 months) in different generations ( Millennial, Gen X, Gen Y, Gen Z):
 
 (1) Video Games Players
 
@@ -140,7 +132,9 @@ We pulled data from Simmon consumer behavior database, and list eleven behavior 
 
 (11) Social Media Users
 
-In the end of the project we made movie purchasers’ consumer behavior portfolio for each generations, and analyze each generations’ preference in each behavior categories.
+**At the end of the project, we made movie purchasers’ consumer behavior portfolio for each generation, and analyze each generations’ preference in each category.**
+
+
 
 ## Methodology: Random Forest Classifier
 
@@ -148,29 +142,29 @@ In the end of the project we made movie purchasers’ consumer behavior portfoli
 
 ## Findings
 
-(1) **South division is the winner** in terms of population and most of the people are used to old school media such as Movies, Supermarket, TV, Magzine and Radio whereas younge generations are apprently stick to modernized media.
-        *South Division has more states include than others*.
+1. **South division is the winner** regarding population, and most of the people are used to old-school media such as Movies, Supermarket, TV, Magzine, and Radio whereas younger generations apparently stick to modernized media.
 
-(2) **Female takes the majority** of the market share in all categories. Movies and Supermarkets are pretty much their backyards.
+   *South Division has more states include than others.*
 
+2. **Female takes the majority** of the market share in all categories. Movies and Supermarkets are pretty much their backyards.
 
-(3) Based on our sample and model, we are now able to predict any individual's generation group with **89.6% accuracy**.
+3. Based on our sample and model, we are now able to predict an individual's generation group with **89.6% accuracy**.
 
 
 ## Considerations for future Home Entertainment Campaign 
-(1) As the traditional "gift giving (Grandparents) " audience of the generation- Baby boomers, are the most Cable TV consumers. 
+1. As the traditional "gift giving (Grandparents) " audience of the generation- Baby boomers, are the most Cable TV, consumers.
 
-(2) As the new generation purchasers: Millenials and Gen Z are the least Cable TV consumers, however, most of them are heavy social media users. 
+2. As the new generation purchasers: Millenials and Gen Z are the least Cable TV, consumers. However, most of them are heavy social media users.
 
-**Marketers and Advertisers for Home Entertainment can plan on Social Media for targeting Younger audiences.**
+   **Marketers and Advertisers for Home Entertainment can plan on Social Media for targeting Younger audiences.**
 
-*One interesting finding* : Millenials and Gen Z prefer reading Magazines than watching cable TV.
+   *One interesting finding:* Millenials and Gen Z prefer reading Magazines than watching cable TV.
 
-(3) As the middle age generation , Gen X has the similar behaviors with Millenials, but they are lighter social media users and heavier Cable TV watchers. 
+3. As the middle age generation, Gen X has the similar behaviors with Millenials, but they are lighter social media users and more massive Cable TV watchers.
 
-(4) Live- events goers, video gamers, Digital music listeners and Streaming video watchers are skewed younger. 
+4. Live- events goers, video gamers, Digital music listeners and Streaming video watchers are skewed younger.
 
-(5) Baby Boomers Social Media users are increasing.
+5. Baby Boomers Social Media users are increasing.
 
 **In general, Social Media and Digital Media are the future for Home Entertainment Campaign. Magazine and Cable TV still have loyalty and engaging audiences.**
 
@@ -181,7 +175,7 @@ In the end of the project we made movie purchasers’ consumer behavior portfoli
 
 **[SIMMONS](https://www.simmonsresearch.com/)**
 
-> The Simmons / Nielsen partnership allows advertisers, agencies, and media to go beyond demographics when profiling TV audiences. By integrating viewership of Nielsen-measured national TV programs and networks with the 60,000 variables available in the Simmons National Consumer Study, clients can illustrate compelling, data-driven stories about the true value of TV audiences.
+> The Simmons / Nielsen partnership allows advertisers, agencies, and media to go beyond demographics when profiling TV audiences. By integrating viewership of Nielsen-measured national TV programs and networks with the 60,000 variables available in the Simmons National Consumer Study, clients can illustrate compelling, data-driven stories about the real value of TV audiences.
 
 
 
@@ -189,11 +183,11 @@ In the end of the project we made movie purchasers’ consumer behavior portfoli
 
 
 
-The original data set comes with 2 major variables: Unweighted and Weighted Nielsen Sample and the reason that we choose the unweighted value is becuase Nielsen suggests that 
+The original data set comes with 2 significant variables: Unweighted and Weighted Nielsen Sample and the reason that we choose the unweighted value is because Nielsen suggests that
 
-> Unweighted sample analysis could be used if:
-> You want to recreate an analysis that was made in Audience Watch version 5.73 or earlier.
-> You really do want to see the viewing behavior of individual sample members.
+> Unweighted sample analysis could be used if: 
+>
+> You want to recreate an analysis that was made in Audience Watch version 5.73 or earlier. You do want to see the viewing behavior of individual sample members.
 
 
 
@@ -215,11 +209,11 @@ The original data set comes with 2 major variables: Unweighted and Weighted Niel
 
 
 
-**Limitation**:
+**Limitation:**
 
-(1) The database **DOES NOT** contains any data in **Mountain Division**
+(1) The database **DOES NOT** contain any data in **Mountain Division**
 
-(2) The database **DOES NOT** contains Streaming Video data from 2013 to 2014
+(2) The database **DOES NOT** contain Streaming Video data from 2013 to 2014
 
 
 
@@ -239,7 +233,7 @@ The original data set comes with 2 major variables: Unweighted and Weighted Niel
 ---
 
 #### Step 2： Data Engineering
-#### Use Python to transform non-tabular formatted data into tabular data for SQL storage purpose
+#### Use Python to transform non-tabular formatted data into tabular data for SQL storage purpose.
 
 ![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/python%20loop_1.png)
 ![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/data_engineering_1.png)
@@ -247,13 +241,13 @@ The original data set comes with 2 major variables: Unweighted and Weighted Niel
 ---
 
 #### Step 3： Database Engineering:
-#### Design and maintain a database that provides informative and relevant data for full-stack project usage
+#### Design and maintain a database that provides informative and relevant data for full-stack project usage.
 ![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/database_engineering.png)
 
 ---
 
 #### Step 4： Data Analytics:
-#### Query SQL to analyze and interpret data sets to generate marketing insights and BI reporting
+#### Query SQL to analyze and interpret data sets to generate marketing insights and BI reporting.
 ![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/query_avg_coordinate.png)
 ![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/query_avg_coordinate_2.png)
 ![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/merge_table.png)
@@ -261,9 +255,9 @@ The original data set comes with 2 major variables: Unweighted and Weighted Niel
 ---
 
 #### Step 5: Data Transforming
-#### Decided to utilize "% of total" of each behavior category for prediction use in order to classify the generation group based on the sample size
+#### Decided to utilize "% of total" of each behavior category for prediction used to classify the generation group based on the sample size.
 
-Category “Totals” refers to the sample group of our project which is the total population of _**DVD movie purchasers**_  with given division (region), year, age and gender. Population under all other categories refer to the “Cross Region” with our study group. For example: 
+Category “Totals” refers to the sample group of our project which is the total population of **DVD movie purchasers** with given division (region), year, age and gender. Population under all other categories refer to the “Cross Region” with our study group. For example:
 
 ![graph1](images/graph1.png)
 
@@ -274,20 +268,16 @@ Category “Totals” refers to the sample group of our project which is the tot
 #### Step 6: Data Engineering
 #### Use Python to generate the "% of total" column
 
-Generate another column named “share” which is the proportion in _**DVD purchaser**_ people who also 
-choose given category **(e.g. share = 26/31 = 0.8387)**, and there are 83.5% people from the sample group 
-who also choose social media, who are male at age 18-24 from east central region . So, there are 
-absolutely some people who will choose more than one category. 
+Generate another column named “share” which is the proportion in **DVD purchaser** people who also choose given the category **(e.g., share = 26/31 = 0.8387)**, and there are 83.5% people from the sample group who also choose social media, who are male at age 18-24 from the east-central region. So, there are entirely some people who will choose more than one category.
 
 ![graph3](images/graph3.png)  
 
 ---
 
 #### Step 7: Data Engineering
-#### Use Excel pivot table for data transformation
+#### Use the Excel pivot table for data transformation
 
-Generate a share table with average share of each category between two genders each division and year. 
-(using Pivot Table in Excel)
+Generate a shared table with an average share of each category between two genders each division and year.
 
 ![graph4](images/graph4.png)
 
@@ -297,7 +287,7 @@ Generate a share table with average share of each category between two genders e
 #### Reclassify our age group
 ![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/feature_engineering.png)
 
-While training and testing data in R, we figure that the only 2 generation groups, out of 5 in total, are age 18-24 and age 55+; Based upon our sample data, the algorithm could not easiely figure out the difference amoung age 25-34, age 35-44 and age 45-54 which make sense that these 3 groups have very similar purchansing behavior. So we replace each text age label with index, where
+While training and testing data in R, we figure that the only 2 generation groups, out of 5 in total, are age 18-24 and age 55+; Based upon our sample data, the algorithm could not quickly figure out the difference among age 25-34, age 35-44 and age 45-54 which make sense that these 3 groups have very similar purchasing behavior. So we replace each text age label with index, where
 
 |                  Index                 |   Index Reference   |
 |:--------------------------------------:|:-------------------:|
@@ -305,12 +295,12 @@ While training and testing data in R, we figure that the only 2 generation group
 |            Generation   X              |           #2        |
 |         Baby Boomer Generation         |           #3        |
 
-**As the boundary in betweenn the 3 are clearer than before**
+**As the boundary in between the 3 is more apparent than before.**
 
 ---
 
 #### Step 9: Scaling
-#### Use Excel to rescale all share value into 5 levels from lowest to highest, indexing 1 through 5, for machine learning usage, and define them as **Preference Levels**
+#### Use Excel to rescale all share value into 5 levels from lowest to highest, indexing 1 through 5, for machine learning usage, and define them as Preference Levels
 
 ![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/scaling%20process.png)
 
@@ -327,19 +317,18 @@ While training and testing data in R, we figure that the only 2 generation group
 ---
 
 #### Step 10: Modeling
-#### Used **R** to do model comparison and feature selections
+#### Used R to make the model comparison and feature selections
 
-There are 5 candidate ML models, and 
-Random Forest Classifier has the highest Accuracy and Kappa, so we choose to build RF Classification 
-Model and make prediction in python. And according to the “Variable Importance Table”, we have tested 
-several models with different feature selection. And we found that below behaviors have the highest accuracy:
+There are 5 candidate ML models, and Random Forest Classifier has the highest Accuracy and Kappa, so we choose to build RF Classification Model and make a prediction in python. Moreover, according to the “Variable Importance Table,” we have tested several models with different feature selection. So, we found that below behaviors have the highest accuracy:
 
-(1) Cable TV Watchers
-(2) Social Media Users
-(3) Magazine Readers
-(4) Live Events Goers
-(5) Video Game Players
-(6) Tablet Owners
+1. Cable TV Watchers
+
+2. Social Media Users
+3. Magazine Readers
+4. Live Events Goers
+
+5. Video Game Players
+6. Tablet Owners
 
 ![graph6](images/graph6.png)  
 
@@ -347,24 +336,20 @@ several models with different feature selection. And we found that below behavio
 
 ![graph7](images/graph7.png)
 
+![graph_11](images/graph11.png)
+
 ---
 
 #### Step 11: Machine Learning
-#### Rebuilt a **Random Forest Classification Model** using **Python** since it is more front-end friendly.
+#### Rebuilt a Random Forest Classification Model using Python since it is more front-end friendly.
 
-The following table were used as validation dataset, and we have calculated a scaled value array, 
-where each one array inside represents a case in the validation dataset, and each of these three numbers 
-in this array are used for the generation class prediction. For instance, in first array, it shows 
-[1., 0., 0.] which mean the model predicted that this case has 100% probability belongs to class 1, and 
-zero probability belongs to other two classes. And then we generated a **confusion matrix**, and numbers on the diagonal means it was corrected predicted, and numbers on all other position means it was not correctly predicted. So the **accuracy rate = (11 + 19 + 13)/(11 + 2 + 1 + 19 + 1 + 1 + 13) = 89.6%**.
+The following table was used as validation dataset, and we have calculated a scaled value array, where each one array inside represents a case in the validation dataset, and each of these three numbers in this array is used for the generation class prediction. For instance, in the first array, it shows [1., 0., 0.] which mean the model predicted that this case has 100% probability belongs to class 1, and zero probability belongs to other two classes. Moreover, then we generated a **confusion matrix**, and numbers on the diagonal means it was corrected predicted, and numbers on all other position mean it was not correctly predicted. So **the accuracy rate = (11 + 19 + 13)/(11 + 2 + 1 + 19 + 1 + 1 + 13) = 89.6%**.
 
-> A confusion matrix is a table that is often used to describe the performance of a classification model (or "classifier") on a set of test data for which the true values are known
+> A confusion matrix is a table that is often used to describe the performance of a classification model (or "classifier") on a set of test data for which the valid values are known
 
 ![graph9](images/graph9.png) 
 
-![graph10](images/graph10.png)
-
-![graph_11](images/graph11.png)  
+![graph10](images/graph10.png)  
 
 ---
 
@@ -374,7 +359,7 @@ Transform data into JSON format and deploy into API to support front-end applica
 
 ---
 
-#### Step 13: Data Visulization
+#### Step 13: Data Visualization
 
 Use HTML/JS/CSS corporate with Tableau and Mapbox to develop a full-stack front-end application.
 
