@@ -114,7 +114,7 @@ numpy==1.14.5
 numpydoc==0.8.0
 odo==0.5.1
 olefile==0.45.1
-opencv-python==3.4.1.15
+opencv-python==3.4.7.28
 openpyxl==2.5.4
 packaging==17.1
 pandas==0.23.3
